@@ -2,23 +2,28 @@
 
 Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
-- v1.2.1: Minor spelling issues found and fixed after updating my system for making these guides. Also, I updated the header sectioning to be more consistent, using a level two header for the category breakdowns then making the categories themselves a level three header.
-- v1.2.0: Added number of achievements contained in the potential order dropdowns so that a user can see at a glance how many achievements they can get between story achievements, if following my guide to the letter. Shoutout to [KhobarKast](https://retroachievements.org/user/KhobarKast) for the brilliant idea!
-- v1.1.1: Added some date details regarding the current relevance of particular numbers that can potentially change in the future so that people can identify quickly if the guide has fallen out of date, such as the number of achievements in the set and the number of ROMs that can be used with the set. Updated links and made use of links where appropriate, rather than writing out details here that are already on the site.
-- v1.1.0: Added details on how to get both Cosmic Duel AND Shadow Hands achievements in only one battle with Zeromus. A HUGE thanks to [Kencussion](https://retroachievements.org/user/Kencussion) for the strategy!
+## Version History
 
-<br>![Box art for the Super Famicom version of Final Fantasy IV](https://retroachievements.org/Images/031517.png)
+- v1.2.1 (4/2/2024): Minor spelling issues found and fixed after updating my system for making these guides. Also, I updated the header sectioning to be more consistent, using a level two header for the category breakdowns then making the categories themselves a level three header. Moved the box art and spoiler/naming discussion into the About section.
+- v1.2.0 (11/24/2023): Added number of achievements contained in the potential order dropdowns so that a user can see at a glance how many achievements they can get between story achievements, if following my guide to the letter. Shoutout to [KhobarKast](https://retroachievements.org/user/KhobarKast) for the brilliant idea!
+- v1.1.1 (9/23/2023): Added some date details regarding the current relevance of particular numbers that can potentially change in the future so that people can identify quickly if the guide has fallen out of date, such as the number of achievements in the set and the number of ROMs that can be used with the set. Updated links and made use of links where appropriate, rather than writing out details here that are already on the site.
+- v1.1.0 (7/24/2021): Added details on how to get both Cosmic Duel AND Shadow Hands achievements in only one battle with Zeromus. A HUGE thanks to [Kencussion](https://retroachievements.org/user/Kencussion) for the strategy!
+- v1.0.1 (5/28/2021): Link and table formatting fixes (thanks to FluffyEmmy for that!)
+- v1.0.0 (3/6/2021): Initial release
 
-<br>:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
-<br>Spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
+## About
+
+![Box art for the Super Famicom version of Final Fantasy IV](https://retroachievements.org/Images/031517.png)
+
+:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
+
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (130 as of 9/23/2023) available on [RetroAchievements](https://retroachievements.org/game/3528). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
+
+Spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
 Names of characters, places, etc. used in this guide are based off of the [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/), which is an update of the Final Fantasy II (US) ROM to bring it closer to Final Fantasy IV (J). The hack brings the names of people, places, items, etc. are as close as possible to the current naming conventions used by Square Enix in modern re-releases of this game.
 
 The [Namingway Edition romhack](https://www.romhacking.net/hacks/2337/) is **THE** recommended way to play the game for these achievements as one or two of them seem to be designed with this particular romhack in mind (in particular, the [Salve of Salvation](https://retroachievements.org/achievement/108663) achievement).
-
-## About
-
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (130 as of 9/23/2023) available on [RetroAchievements](https://retroachievements.org/game/3528). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
 ## Introduction
 
