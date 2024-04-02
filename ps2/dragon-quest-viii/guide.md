@@ -4,16 +4,17 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 ## Version History
 
-- v1.0 - Initial release
-
-<br>![Box art for the United States version of Dragon Quest 8](https://media.retroachievements.org/Images/062378.png)
-
-<br>:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
-<br>As with some of the other guides I've made, spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
+- v1.0: Initial release
 
 ## About
 
+![Box art for the United States version of Dragon Quest 8](https://media.retroachievements.org/Images/062378.png)
+
+:no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
+
 This is not an official manual, walkthrough, or critical review. This document is a guide for the current achievement set (208 as of March 11, 2024) available on [RetroAchievements](https://retroachievements.org/game/2721). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information. It may point to other resources for specific game walkthroughs that are not focused on the achievements themselves.
+
+As with some of the other guides I've made, spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
 ## Introduction
 
