@@ -1,66 +1,84 @@
 # Final Fantasy III (J)
+
 Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
+
+## Version History
+
+- v1.1.0 (4/2/2024): Moved box art, spoiler discussion, and naming convention details into the About section. Found and fixed minor spelling errors. Updated the header sectioning to be more consistent, using a level two header for the category breakdowns then making the categories themselves a level three header.
+- v1.0.2 (9/23/2023): Updated Compatibility section and specified dates of relevancy for when I state "currently" in the guide.
+- v1.0.1 (9/4/2021): Formatting cleanup (thanks to FluffyEmmy for that!)
+- v1.0.0 (12/24/2020): Initial release
+
+## About
 
 ![Box art for the Famicom version of Final Fantasy III](https://retroachievements.org/Images/005697.png)
 
 :no_entry: **\*\* MAY CONTAIN MINOR SPOILERS \*\*** :no_entry:
 
-Note that the names of characters, places, etc. used in this guide are based off of the [Chaos Rush translation](https://www.romhacking.net/translations/4760/), which is closest to the official Square Enix translation for FFIII on the Nintendo DS. When possible, I will try to use both names with the Chaos Rush name first followed by the early translation in parentheses.
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/5553). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
+
+Note that the names of characters, places, etc. used in this guide are based off of the [Chaos Rush translation](https://www.romhacking.net/translations/4760/), which is closest to the official Square Enix translation for Final Fantasy III on the Nintendo DS. When possible, I will try to use both names with the Chaos Rush name first followed by the early translation in parentheses.
 
 It will appear like this, as an example:
 <br>Gysahl(Gisahl)
 
-## About
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set available on [RetroAchievements](https://retroachievements.org/game/5553). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
-
 ## Introduction	
+
 Final Fantasy III is a role-playing video game developed and published by Square for the Family Computer. Released in Japan in 1990, it was the third installment in the Final Fantasy series. It is the first numbered Final Fantasy game to feature the job-change system. The story revolves around four orphaned youths drawn to a crystal of light. The crystal grants them some of its power, and instructs them to go forth and restore balance to the world. Not knowing what to make of the crystal's pronouncements, but nonetheless recognizing the importance of its words, the four inform their adoptive families of their mission and set out to explore and bring back balance to the world.
 
 This game further establishes many of the Final Fantasy series norms that were set in Final Fantasy II, such as chocobos, expanded character classes, and familiar spells, while also bringing back the experience point system of the first game. Additionally, certain features of Final Fantasy IV, such as the limited inventory slots, Fat Chocobo, and summon spells, started in this game.
 
 ## Trivia
-* Final Fantasy III was first officially released outside of Japan with the Nintendo DS 3D remake in 2006. The Famicom version was released on Wii and Wii U Virtual Consoles, but only in Japan. Therefore, the Famicom version with translation hacks is the only way to play the original game. A 2D remake was finally made available worldwide with the Pixel Remaster releases of the first six Final Fantasy games.
-* A 2D remake was initially in the works for the WonderSwan Color. However, due to cartridge storage sizes for the system and programming complications, Square was only able to produce remakes for Final Fantasy I and II for the system.
-* The game earned the third highest score in _Famitsu_ the year of its release, scoring a 36 out of 40, which was one point less than F-Zero and Dragon Quest IV.
-* The overworld theme, Eternal Wind, has appeared in several other Final Fantasy games, such as during the opening movie of the Shadowbringers expansion of Final Fantasy XIV and a bard in the Dead Dunes town of Ruffian sings a version with lyrics in Lightning Returns: Final Fantasy XIII.
+
+- Final Fantasy III was first officially released outside of Japan with the Nintendo DS 3D remake in 2006. The Famicom version was released on Wii and Wii U Virtual Consoles, but only in Japan. Therefore, the Famicom version with translation hacks is the only way to play the original game. A 2D remake was finally made available worldwide with the Pixel Remaster releases of the first six Final Fantasy games.
+- A 2D remake was initially in the works for the WonderSwan Color. However, due to cartridge storage sizes for the system and programming complications, Square was only able to produce remakes for Final Fantasy I and II for the system.
+- The game earned the third highest score in _Famitsu_ the year of its release, scoring a 36 out of 40, which was one point less than F-Zero and Dragon Quest IV.
+- The overworld theme, Eternal Wind, has appeared in several other Final Fantasy games, such as during the opening movie of the Shadowbringers expansion of Final Fantasy XIV and a bard in the Dead Dunes town of Ruffian sings a version with lyrics in Lightning Returns: Final Fantasy XIII.
 
 ## Save Support
+
 The game uses a battery to save game data across three slots. Players can save the game at any time while on the overworld map to any one of the three slots.
 
 ## Compatibility
+
 Currently (as of 9/23/2023) this game has 10 unique ROM(s) registered for it. View the latest [Supported Game Files](https://retroachievements.org/linkedhashes.php?g=5553) page to ensure that you have a valid game for your achievements.
 
 I used the Final Fantasy III (Japan) (En) (v1.3) (Chaos Rush) version when making this guide and earning my mastery.
 
 ## Leaderboards
+
 There are no leaderboards currently associated with the game.
 
-## Achievements Breakdown
-There are a total of 77 achievements (as of 9/23/2023), which can be broken down into the following categories:
-* 30 story achievements earned naturally through the course of gameplay
-* 22 side quest achievements earned by going to out-of-the-way locations and talking to various NPCs
-* 8 challenge achievements, all of which are missable, that requires less-than-ideal party configurations
-* 10 grind achievements that will require extensive work to achieve
-* 7 miscellaneous achievements that don't fit in the above categories
+## Achievement Categories
 
-## Story Achievements
+There are a total of 77 achievements (as of 9/23/2023), which can be broken down into the following categories:
+- **Story/Progression**: 30 achievements earned naturally through the course of gameplay
+- **Side Quest**: 22 achievements earned by going to out-of-the-way locations and talking to various NPCs
+- **Challenge**: 8 achievements, **all of which are missable**, that requires less-than-ideal party configurations
+- **Grind**: 10 achievements that will require extensive work to achieve
+- **Miscellaneous**: 7 achievements that don't fit in the above categories
+
+## Category Breakdowns
+
+### Story/Progression
+
 No discussion on the story achievements here as you simply need to play through the game to earn them. You can't miss them!
 
-## Side Quest Achievements
+### Side Quest
 
 | Title and Description | Tips |
 |---|---|
 | ![Old man NPC sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/43986.png)<br>[Painkiller](https://retroachievements.org/Achievement/42881) <br>`Share a Potion with a citizen in need` | Considered a side quest as you aren't required to speak to this old man in the village of Ur at the beginning of the game. If you talk to all NPCs though, you shouldn't have a problem with getting this and the remaining side quest achievements. |
 | ![Chocobo sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44028.png)<br>[Breadwinner](https://retroachievements.org/Achievement/42895) <br>`Claim your prize for riding a chocobo around the continent` | You can meet the requirements for the side quest immediately upon finding your first chocobo in the Chocobo Forest outside of the Village of the Ancients(Ancients' Village). Simply run around the outside ring of the continent and then enter the Village and speak to a child in town to get your prize and the achievement. You don't even have to talk to the kid before hand. |
 | ![Sheep sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44126.png)<br>[The Grass is Greener Here](https://retroachievements.org/Achievement/43017) <br>`Find the farming town of Gysahl(Gisahl)` | After saving the Floating Continent from falling, you can sail to this town. You aren't required to come here, but you may want to if you don't want to use a Thief during your game. |
-| ![Fat Chobobo sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44127.png)<br>[You're Gonna Carry That Weight](https://retroachievements.org/Achievement/43019) <br>`Meet the Fat Chocobo` | Use a Gysahl Green(Carrot) at a spot that smells like chocobos to make the Fat Chocobo appear. While this is optional, you will probably unlock this as a result of managing your items during the course of the game. |
+| ![Fat Chocobo sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44127.png)<br>[You're Gonna Carry That Weight](https://retroachievements.org/Achievement/43019) <br>`Meet the Fat Chocobo` | Use a Gysahl Green(Carrot) at a spot that smells like chocobos to make the Fat Chocobo appear. While this is optional, you will probably unlock this as a result of managing your items during the course of the game. |
 | ![Back side of white mage facing a desk](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44133.png)<br>[Is This Safe to Drink...?](https://retroachievements.org/Achievement/43029) <br>`Receive a gift from a reclusive chemist` | After saving the Elder(Eldest) Tree, don't forget to go back to Castle Argus(Argass) to the locked room on the top-left side of the castle's rampart. A white mage will be there to give you a gift. |
 | ![Evoker sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44142.png)<br>[Welcome to Summoning 101](https://retroachievements.org/Achievement/43038)<br>`Find the village of Replito(Leprit)` | As soon as the Enterprise is freed from it's chain, you can visit this town. Be wary of flying near the castle of Saronia(Salonia), however, or you will have to remember to find one or both of these towns after that storyline is concluded. |
 | ![Bard sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44141.png)<br>[The Musical Kingdom](https://retroachievements.org/Achievement/43039)<br>`Find the village of Duster(Dastar)` | As soon as the Enterprise is freed from it's chain, you can visit this town. Be wary of flying near the castle of Saronia(Salonia), however, or you will have to remember to find one or both of these towns after that storyline is concluded. |
 | ![Dragoon sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44143.png)<br>[We're Gonna Have to Jump](https://retroachievements.org/Achievement/43040)<br>`Ransack the Dragon Spire(Tower)` | While you don't have to do this as part of the story, it'll definitely make your battles in Saronia(Salonia) that much easier with all the loot you get here. You'll find the Dragon Spire in the southeastern section of the city. |
 | ![Black mage sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44149.png)<br>[In Case You Missed Anything](https://retroachievements.org/Achievement/43044)<br>`Find Doga(Dorga)'s Village` | This achievement can be accomplished as soon as you get the ability to submerge the Nautilus. The village is a great place to fill out needed spells you haven't purchased earlier in your journey. |
 | ![Four treasure chest sprites laid out 2 by 2](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44156.png)<br>[Sunken Treasure](https://retroachievements.org/Achievement/43047)<br>`Loot the hidden chests in the Undersea Cave` | This achievement can be accomplished as soon as you get the ability to submerge the Nautilus. The hidden treasures will go toward the [No Stone Unturned](https://retroachievements.org/Achievement/43079) challenge achievement but these four are significant for the unique battles contained within. |
-| ![Shinobi monster sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44158.png)<br>[The Power of the Dark Side](https://retroachievements.org/Achievement/43049) <br>`Find all the Magic Knight equipment laying around Falgabard(Fargabaad)` | You can go to this town after getting the Invincible. Going through the cave in the back of town will be a great chance to prepare for the [Divided They Fall](https://retroachievements.org/Achievement/43054) challenge!                                                                                                                                                           |
+| ![Shinobi monster sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44158.png)<br>[The Power of the Dark Side](https://retroachievements.org/Achievement/43049) <br>`Find all the Magic Knight equipment laying around Falgabard(Fargabaad)` | You can go to this town after getting the Invincible. Going through the cave in the back of town will be a great chance to prepare for the [Divided They Fall](https://retroachievements.org/Achievement/43054) challenge! |
 | ![Odin monster sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44150.png)<br>[The Allfather](https://retroachievements.org/Achievement/43045) <br>`Prove yourself worthy of summoning Odin` | You can attempt to battle Odin once you have a submergible Nautilus. Sail to the Saronia(Salonia) Catacombs underwater just south of the city. |
 | ![Leviathan monster sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44159.png)<br>[The Sea Serpent](https://retroachievements.org/Achievement/43050) <br>`Prove yourself worthy of summoning Leviathan` | You can attempt to battle Leviathan within Lake Dor on the Floating Continent once you have the Invincible. Cross the mountain with the airship, get out, and enter the lake in your canoe to reach the pacing shadow. |
 | ![Bahamut monster sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44162.png)<br>[The King of Dragons](https://retroachievements.org/Achievement/43051) <br>`Prove yourself worthy of summoning Bahamut` | You can attempt to battle Bahamut once you have the Invincible. It's cave is an excellent spot to grind levels in preparation for doing the [Oops, Forgot My Sunscreen](https://retroachievements.org/Achievement/43052) challenge. |
@@ -73,7 +91,7 @@ No discussion on the story achievements here as you simply need to play through 
 | ![A close-up sprite of a shuriken](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44176.png)<br>[Need Some Ammo?](https://retroachievements.org/Achievement/43067)<br>`Find the hidden passage at the bottom of Eureka` | Reaching the bottom, you find two sages with the level 8 spells and Odin, Leviathan, and Bahamut summons. A hidden switch can be found on the wall behind them by walking up between the two. |
 | ![Xande clone monster sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44183.png)<br>[Attack of the Clones](https://retroachievements.org/Achievement/43073)<br>`Obtain all four Ribbons from the Dark World` | After passing the point of no return, you'll find one treasure chest on each path to a Dark Crystal that contains a Ribbon. Don't worry: they are also guarded! |
 
-## Challenge Achievements
+### Challenge
 
 All of these achievements are **MISSABLE** because almost all of them are tied to completing a dungeon, including a one-time boss battle, under specific conditions! Prior to attempting, I _highly recommend_ saving prior to attempting. If the achievement doesn't pop upon completing the boss fight, reset and try again. You should be safe if you set up the party's Jobs prior to entering the dungeon associated with the challenge.
 <br>Make sure you have at least **ONE MAGIC KEY** from Gysahl(Gisahl) prior to leaving the Floating Continent for the first time (or get **four** to be safe)!
@@ -87,9 +105,10 @@ All of these achievements are **MISSABLE** because almost all of them are tied t
 | !["No symbol over Magic Knight sprite](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44163.png)<br>[Divided They Fall](https://retroachievements.org/Achievement/43054)<br>`Conquer the Cave of Shadows(Darkness) without a Magic Knight in the party` | This is the challenge achievement that took me the longest to complete. The Cave of Shadows(Darkness) is 11(!) floors of pain, due to the dividing enemies that will split with any physical attack. Since Magic Knights are prohibited, using magic/summons are a good alternative. If you don't have characters with magic or summons built up, I suggest grinding to build up the job skills and levels for your characters. Since the Evoker(Conjurer) is unpredictable, I recommend sticking with a White Mage for healing/Aero/Confuse and a Black Mage for dealing damage. The ideal location for grinding is in the first floor of the Cave of Bahamut as the monsters there are low risk with a lot of experience points. Raising levels will increase your cast count for each spell level. It is okay to keep physical combatants as well for taking damage and providing killing blows that won't cause splitting. I used the Knight and Black Belt(Karateka), but you can change it up based on your primary role for these characters. <br>Once you feel ready, begin your descent into the Cave of Shadows! I recommend taking this over multiple dives, gathering items from a floor, climbing back out, recovering in the Invincible, and saving your game once you clear a floor. This will allow you to determine your capabilities to go further and make subsequent dives in previously cleared floors quicker. <br>A key strategy that I used was casting the White Mage's Confuse spell. Confused enemies will not split when hit with a physical attack! Use this to your advantage on encounters with three or four monsters to the greatest effect. Let enemies hit each other or themselves and follow up with a strong physical to take them out without dividing. Concentrate black magic spells on single targets to do more damage to get them within one-shot physical attack range. As you get further, you will get stronger and then be able to complete the dive, fight the boss, and get the achievement. <br>One other possibility is to simply ignore the items until after completing the challenge, and then dive back in with a party of Magic Knights to clear out the treasure. My luck with running from encounters in this dungeon (and pretty much the entirety of the late game) was non-existent so a Thief could aid with this approach as well. |
 | ![Kneeling Monk sprite with red skin](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44161.png)<br>[Oops, Forgot My Sunscreen](https://retroachievements.org/Achievement/43052)<br>`Defeat Bahamut without casting Reflect(Wall)` | Oh boy... When I learned that Reflect was actually capable of sending Mega Flare back at Bahamut in this game, I was sad to see that this challenge prevents that. So, I used Bahamut's cave to prepare for this fight, raising my levels and job skill levels up to be able to take the hits from Mega Flare. Sometimes, you'll get lucky and Bahamut won't use the skill that much. Other times, it'll use it every single round! So, by building my levels to around 50-ish, I was able to survive just fine and take him out quickly. I used dual-wielding Knight and Magic Knight (I had been building my Knight to get the [Top of the Class](https://retroachievements.org/Achievement/43078) achievement) with a White Mage to heal and Black Mage to cast Bio. If your team is getting wiped by Mega Flare, you will just need to get more levels. <br>I didn't try this, but I believe using the Curtain(Barrier) item will also prevent getting this achievement, since the item has the same effect as Reflect(Wall). |
 | ![A green circle at the center of a black swirl](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44186.png)<br>[The Gauntlet](https://retroachievements.org/Achievement/43076)<br>`Conquer both Syrcus(Sylx) and the Dark World without any Ninjas, Sages, or Onion Knights(Kids)` | This achievement works great in conjunction with [Overqualified](https://retroachievements.org/Achievement/43077) and [Top of the Class](https://retroachievements.org/Achievement/43078). Since the best jobs in the game are excluded from use in the final dungeons, go back to the Cave of Bahamut to grind and get these achievements with the party you want to use in the final stretch. Diving into Eureka is also beneficial to get the best weapons, spells, and armor for your team, on top of the experience you'll earn from the battles. By reaching level 65 with all of your characters, you will easily be able to finish this achievement with a well-balanced party. Eureka's weapons really push you toward using Knight with Ragnarok/Excalibur, Magic Knight with Masamune/Crysanth(Kiku), Devout(Shaman) with two Elder(Eldest) staffs, and Magus(Warlock) with Omnirod(Ultimate). This is the party that I completed the game with. |
-| ![A rock](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44187.png)<br>[No Stone Unturned](https://retroachievements.org/Achievement/43079)<br>`Loot every single chest and hidden item in the game` | This is going to be one of the hardest achievement to complete as there are several locations that become inaccessible after certain story beats that can lock you out of meeting this achievement. RA User Gamechamp defined several locations in their [post](https://retroachievements.org/viewtopic.php?t=2232&c=48153#48153) regarding the locations that are inaccessible after completing them: Nepto Temple(Shrine of Nepto), the Dwarves' Subterranean(Underground) Lake, Castle Hein(Hyne), Doga(Dorga)'s Cave, and Lake Dohr(Dol). I played with the maps from [RPGClassics](https://shrines.rpgclassics.com/nes/ff3/maps.shtml) to ensure that I found every chest in these dungeons in particular. I noted that there are some discussions on the [achievement page](https://retroachievements.org/achievement/43079) concerning various maps that don't show all of the hidden items, especially in some towns. The RPGClassics maps also don't have every location mapped, such as the Gurgan Gulch(Valley) which has a hidden path to three chests. Another strategy brought up is the use of the RALibretro achievement editor to see if an area has had all of its chests opened, but I won't go into details on that here. |
+| ![A rock](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44187.png)<br>[No Stone Unturned](https://retroachievements.org/Achievement/43079)<br>`Loot every single chest and hidden item in the game` | This is going to be one of the hardest achievement to complete as there are several locations that become inaccessible after certain story beats that can lock you out of meeting this achievement. RetroAchievements user [Gamechamp](https://retroachievements.org/user/Gamechamp) defined several locations in their [post](https://retroachievements.org/viewtopic.php?t=2232&c=48153#48153) regarding the locations that are inaccessible after completing them: Nepto Temple(Shrine of Nepto), the Dwarves' Subterranean(Underground) Lake, Castle Hein(Hyne), Doga(Dorga)'s Cave, and Lake Dohr(Dol). I played with the maps from [RPGClassics](https://shrines.rpgclassics.com/nes/ff3/maps.shtml) to ensure that I found every chest in these dungeons in particular. I noted that there are some discussions on the [achievement page](https://retroachievements.org/achievement/43079) concerning various maps that don't show all of the hidden items, especially in some towns. The RPGClassics maps also don't have every location mapped, such as the Gurgan Gulch(Valley) which has a hidden path to three chests. Another strategy brought up is the use of the RALibretro achievement editor to see if an area has had all of its chests opened, but that requires leaving Hardcore Mode so I won't go into details on that here. |
 
-## Grind Achievements
+### Grind
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![A dragon with green scales](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44177.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![A dragon with yellow scales](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44178.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![A dragon with red scales](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/44179.png)
 <br>[Dragon Hunter](https://retroachievements.org/Achievement/43068), [Dragon Slayer](https://retroachievements.org/Achievement/43069), [Dragon Dominator](https://retroachievements.org/Achievement/43070)
 
@@ -125,7 +144,7 @@ In conclusion, the Onion equipment grind isn't fun, but hopefully this process m
 
 These achievements have been brought up several times already across this guide. To summarize, the first floor of the Cave of Bahamut is the ideal location for grinding. The enemies that appear here, Drakes(Pterosaur) and Grenades, are low risk with high experience point output. The largest encounter group I saw was two Drakes with three Grenades, which can net you 4750 experience points per character. Pacing on the first floor by the entrance allows quick access to the Invincible for healing and saving your progress. Grenades are probably the scariest monster of the pair, but as you get stronger, their explosions shouldn't kill a character and you'll kill them before they have a chance to do so. Using Syrcus(Sylx) Tower is not recommended because the encounter sizes aren't as big and the risk is greater (seriously... Kum Kums(QumQum) are the absolute worst).
 
-## Miscellaneous Achievements
+### Miscellaneous
 
 | Title and Description | Tips |
 |---|---|
