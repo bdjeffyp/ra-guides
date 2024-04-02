@@ -2,7 +2,7 @@
 
 Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
-- v1.2.1: Minor spelling issues found and fixed after updating my system for making these guides.
+- v1.2.1: Minor spelling issues found and fixed after updating my system for making these guides. Also, I updated the header sectioning to be more consistent, using a level two header for the category breakdowns then making the categories themselves a level three header.
 - v1.2.0: Added number of achievements contained in the potential order dropdowns so that a user can see at a glance how many achievements they can get between story achievements, if following my guide to the letter. Shoutout to [KhobarKast](https://retroachievements.org/user/KhobarKast) for the brilliant idea!
 - v1.1.1: Added some date details regarding the current relevance of particular numbers that can potentially change in the future so that people can identify quickly if the guide has fallen out of date, such as the number of achievements in the set and the number of ROMs that can be used with the set. Updated links and made use of links where appropriate, rather than writing out details here that are already on the site.
 - v1.1.0: Added details on how to get both Cosmic Duel AND Shadow Hands achievements in only one battle with Zeromus. A HUGE thanks to [Kencussion](https://retroachievements.org/user/Kencussion) for the strategy!
@@ -50,7 +50,7 @@ There are two leaderboards currently associated with the game.
 - [Game Speed Run](https://retroachievements.org/leaderboardinfo.php?i=8113) - The fastest time needed to finish the game
 - [Sum of party level](https://retroachievements.org/leaderboardinfo.php?i=8114) - The lowest level of all characters at game's end
 
-## Achievements
+## Achievement Categories
 
 There are a currently a total of 130 achievements, which can be broken down into the following categories:
 
@@ -69,7 +69,7 @@ There are a currently a total of 130 achievements, which can be broken down into
 
 The following is a breakdown of the order of achievements based on my personal playthrough. Note that your mileage may vary due to the path you may desire to take, such as getting Odin before going to the Moon.
 
-Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. The dropdown names have the number of achievements in the section so that you can see at a glance about how many achievements you should have by the end of a section, if you were to follow my guide to the letter. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing, [click here!](Final-Fantasy-IV-Roadmap)
+Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. The dropdown names have the number of achievements in the section so that you can see at a glance about how many achievements you should have by the end of a section, if you were to follow my guide to the letter. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing without having to click the arrows, [checkout the fully expanded roadmap!](Final-Fantasy-IV-Roadmap)
 
 :no_entry: **MINOR SPOILER SECTION** :no_entry:
 <br>The tables only reveal when achievements can be earned and possibly missed. No strategies on earning the achievements are provided here, just the order I earned them in.
@@ -336,11 +336,13 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 | Command | [![An open book with a bubble containing fire floating over it](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118132.png "Summoning Mastery")](https://retroachievements.org/achievement/108681) | [Summoning Mastery](https://retroachievements.org/achievement/108681) | No |
 | Item | [![A glittering armored breastplate](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118808.png "One of a Kind")](https://retroachievements.org/achievement/108720) | [One of a Kind](https://retroachievements.org/achievement/108720) | Yes-ish |
 
-## Story
+## Category Breakdowns
+
+### Story
 
 No discussion on the story achievements here as you simply need to play through the game to earn them. You can't miss them!
 
-## Summons
+### Summons
 
 The three non-missable summons achievements are standard boss fights with no special requirements for boss challenge achievements. Therefore, have fun with these fights and experiment on your own or refer to your favorite strategy guide/GameFAQ for details.
 
@@ -357,7 +359,7 @@ This series of steps is also closely related to the [Bull's Eye](https://retroac
 
 </details>
 
-## Boss Challenge
+### Boss Challenge
 
 :no_entry: **HERE, THERE BE SPOILERS!** :no_entry:
 
@@ -384,7 +386,7 @@ This is where the meat of the achievement set is at! If you wish to challenge yo
 | [![Three floating metallic spheres](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118446.png "Fatal Error")](https://retroachievements.org/achievement/108656) | [Fatal Error](https://retroachievements.org/achievement/108656) | <details><summary>Strategy</summary>The order to take down the nodes is Defense, CPU, Attack. If the Defense and Attack nodes are killed before the CPU, you will lose this challenge. So, the biggest concern is accidentally killing the Attack node before the CPU is defeated. Since the CPU casts Reflect on itself, you have no choice but to physically attack it. Have Fusoya keep your health up with Bless to negate the Attack node's paltry attack beams and keep on attacking the CPU. Once that is down, kill the Attack node and the achievement will pop! </details> |
 | [![A shadowy ghost howling](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118874.png "Cosmic Duel")](https://retroachievements.org/achievement/108657) | [Cosmic Duel](https://retroachievements.org/achievement/108657) | <details><summary>Strategy</summary>This should be easy enough if you have been grinding for the Adamant Armor. Have a healthy stack of Elixirs available as well, which you should have enough money to buy a bunch from the Flan Princess fights. When the battle with Zeromus begins and everyone is revived by your friends, kill them off again before using the Crystal. With the final battle now beginning, switch between attacks and using Elixirs. You may have some opportunities to get two attacks in, depending on if Zeromus used Flare, Meteor, or Holy on you successfully. You should have too much difficulty with this at this point though, if you have been working on getting everything you need for all of the achievements in one playthrough. Do note though that you will have to fight Zeromus twice in order to get this achievement as well as Shadow Hands. I opted for Shadow Hands first and then followed up with Cosmic Duel.<br/><br/>A brilliant suggestion by [Kencussion](https://retroachievements.org/user/Kencussion) regarding getting both Shadow Hands AND Cosmic Duel in one battle:<br/>"Keep your whole party alive when you start battle with Zeromus, but do NOT use the Crystal right away. The achievement for beating Zeromus with only Cecil begins once the Crystal is used... so before you use the Crystal, have Edge steal the Dark Matter from Zeromus' first form to get the 'Shadow Hands' achievement. Then kill off everyone in your party except Cecil (you may want Rosa to buff Cecil first), and then have him use the Crystal on Zeromus. When Zeromus reveals his second form, only Cecil will be alive and you can get the 'Cosmic Duel' achievement!"</details> |
 
-## Commands
+### Commands
 
 The intent of these achievements is to showcase the utility of the character's various special abilities, as they were not present in the original US release. They provide a great preview of how they work and their necessity in completing some of the boss challenge achievements. It is recommended trying to get these achievements as soon as the necessary character joins your party, because a lot of them are missable.
 
@@ -415,7 +417,7 @@ The intent of these achievements is to showcase the utility of the character's v
 | [![An open book with a black orb floating over it](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118119.png "Black Mastery")](https://retroachievements.org/achievement/108680) | [Black Mastery](https://retroachievements.org/achievement/108680) | Rydia learns her last black magic spell, Meteor, at level 60. |
 | [![An open book with a bubble containing fire floating over it](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118132.png "Summoning Mastery")](https://retroachievements.org/achievement/108681) | [Summoning Mastery](https://retroachievements.org/achievement/108681) | This requires grinding for four very rarely dropped items: Goblin, Cockatrice, Bomb, and Mindflayer. Most are earned from their eponymous monster or related types, with the exception of Bomb. See The Grind section for more details. |
 
-## Treasure
+### Treasure
 
 There are **four** locations that are missable: Tower of Zot, Tower of Babil first visit, Tower of Babil second visit, and Giant of Babil.
 
@@ -426,11 +428,11 @@ Some minor notes:
 <br>The Chocobo Village has two Gysahl Greens hidden in grass on the far right. There is a path through the trees by the "back of the head" of the Chocobo.
 <br>A chest with 1000 gil in Kokkol's Forge is hidden to the right of the stairs going to the second floor.
 
-## Dancer
+### Dancer
 
 Talk to every NPC in towns to ensure you get these. Since none are missable, I won't go into detail here on where to find them. The dancer in Fabul Castle is VERY close to the King's bedroom though, so that is the perfect opportunity to get the [Regal Rest](https://retroachievements.org/achievement/108729) achievement as well!
 
-## Chicobo Quest
+### Chicobo Quest
 
 The achievement set creator, [MrGauss](https://retroachievements.org/User/MrGauss), made great descriptions that help to hint at the correct location. However, they also provided close up images of the badges for the Chicobo Quest achievements if the image in the locked achievement is too blurry. These can help in finding the correct location to stand and press the "Y" button on your controller.
 
@@ -452,7 +454,7 @@ The achievement set creator, [MrGauss](https://retroachievements.org/User/MrGaus
 | [![A chocobo looks over a deep lunar chasm](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118469.png "Chicobo Quest XIV: Wrong Cave")](https://retroachievements.org/achievement/108750) | [Chicobo Quest XIV: Wrong Cave](https://retroachievements.org/achievement/108750)            | <details><summary>Spoiler</summary> ![](https://i.imgur.com/swNwbRH.png)<br>West edge of third area before Behemoth path </details> |
 | [![A chocobo stands near a humanoid with mouse features in a lunar cave](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118478.png "Chicobo Quest XV: Humming Heaven")](https://retroachievements.org/achievement/108751) | [Chicobo Quest XV: Humming Heaven](https://retroachievements.org/achievement/108751) | <details><summary>Spoiler</summary> ![](https://i.imgur.com/QdbQbDr.png)<br>Next to purple Hummingway </details> |
 
-## The Grind
+### Endgame Items, a.k.a. The Grind
 
 **Setup:** When I do grinding for achievements, I make good use of the tools at my disposal to make the grind a bit easier and more comfortable. Since this is a Super NES game, I make use of the triggers (or L2/R2) to do fast-forward toggling. If I want to speed up the action, I hold down the trigger to activate fast-forward. For extended grinding sessions, rather than hold the trigger, I keep fast-forward active (using the '-' key on the keyboard) and then my trigger is used to temporarily turn off fast-forward until I let go.
 <br>In the late game, grinds can be done easily by quickly moving left and right (or up and down) in the area where the desired encounters are and hold down the "B" button to run. When the battle starts, I let go of "B" and hold down the "A" button so that everyone attacks. When the battle ends, I make sure to continue to hold down "A" through the item menu if it appears. If you switch back to the "B" button, you could lose the item!
@@ -474,7 +476,7 @@ The achievement set creator, [MrGauss](https://retroachievements.org/User/MrGaus
 <br> The Avatar of Patience achievement tells you the room to use the Sirens in when you explore the Lunar Subterrane. Using a Siren in this room will make a group of five dancing Pink Flans appear. This fight can be difficult if your party is weak and Cecil doesn't have his Crystal gear or the Ribbons for Rydia and Rosa. Pink Flans can be killed easily with a couple Bahamut summons or just attacks if your party is at a high enough level. Just take care to heal. A lot of progress can be lost with a party wipe.
 <br>Once you **finally** have a Pink Tail, return to Earth and give the item to the tail collector in the Adamant Grotto.
 
-## Miscellaneous
+### Miscellaneous
 
 | Badge | Title | Tips |
 |:---:|---|---|
