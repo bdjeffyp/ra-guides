@@ -28,7 +28,11 @@ The Notes section of the checklist identifies what may be the best way to effici
 
 [Gotta Catch 'Em All Checklist](https://docs.google.com/spreadsheets/d/1T79ODf2EUPzEMBntdI9fsamT3cs8KuGekGGrDZjjBwg/edit?usp=sharing)
 
-To use the checklist, click on the link above. Open the File menu and choose "Make a copy". Name your copy of the checklist whatever you'd like and press the "Make a copy" button. Now you can mark off the Pokémon you have caught in the checklist and it will save automatically as you go. Happy hunting!
+To use the checklist, click on the link above. Open the File menu and choose "Make a copy". Name your copy of the checklist whatever you'd like and press the "Make a copy" button. Now you can mark off the Pokémon you have caught in the checklist and it will save automatically as you go.
+
+**NOTE:** Any requests to **edit** the spreadsheet will be ignored. You **MUST** make a personal copy of the spreadsheet in order to use the checklist. If you have an issue or found an error with the checklist itself, please [let me know via RetroAchievements' DM feature](https://retroachievements.org/messages/create?to=bdjeffyp).
+
+Happy hunting!
 
 ## Evolution Items
 
@@ -37,7 +41,7 @@ It is important to keep in mind that some evolution items are limited and requir
 - Moon Stone
   - There are only five of them found in the game: Rocket Hideout, Pokémon Mansion, Joyful Game Corner (from Lostelle's father), and two in Mt. Moon
   - Only four Pokémon need one to evolve: Nidoking, Nidoqueen, Clefable, and Wigglytuff
-  - There is **very** low chance (5%) of finding Clefairys holding a Moon Stone when caught. This is not ideal though as the grind to get an extra Moon Stone could be quite lengthy.
+  - There is **very** low chance (5%) of finding Clefairy holding a Moon Stone when caught. This is not ideal though as the grind to get an extra Moon Stone could be quite lengthy.
 - Sun Stone
   - There is only one, which is located in Ruin Valley (found in a Pokéball requiring Strength to access)
   - Thankfully, there is only one Pokémon that can use it that is accessible without trading: Gloom!
@@ -89,13 +93,3 @@ Using a Master Ball is definitely ideal for this encounter as traditionally catc
 - Continue this loop until the legendary dog appears! Throw a Master Ball and win!
 - If you didn't encounter one and ran out of your Repels, load your save and try again.
 - **DANGER:** If Entei or Raikou use Roar, they are gone forever due to a bug. This is the other reason why it is ideal to use a Master Ball for this capture. If Roar is used, reload your save. This is also one of the biggest reasons why [Gotta Catch 'Em All - FireRed](https://retroachievements.org/achievement/33625) (and why [The Legendary Beasts](https://retroachievements.org/achievement/33624)) is missable.
-
-List of Guides (Alphabetical) 
-
-|Game|Guide|RA Page|
-|:--|:--:|:--:|
-|Densetsu no Stafy 2|[Full](Densetsu-no-Stafy-2-(Game-Boy-Advance))|[3652](https://retroachievements.org/game/3652)|
-|Monster Rancher Advance 2|[Encyclopedia only](Monster-Rancher-Advance-2-(Game-Boy-Advance))|[7181](https://retroachievements.org/game/7181)|
-|Pokémon FireRed Version: Gotta Catch 'Em All|[[m]](https://github.com/RetroAchievements/guides/wiki/Pok%C3%A9mon-FireRed-Version-%E2%80%90-Gotta-Catch-'Em-All-Achievement-Guide)|[515](https://retroachievements.org/game/515)
-|Pokemon Pinball: Ruby & Sapphire|[Full](https://github.com/RetroAchievements/guides/wiki/Pokemon-Pinball:-Ruby-&-Sapphire-(Game-Boy-Advance))|[789](https://retroachievements.org/game/789)|
-|\~Hack\~ Pokemon Glazed|[Full](Pokemon-Glazed-(Hack)-(Game-Boy-Advance))|[6353](https://retroachievements.org/game/6353)|
