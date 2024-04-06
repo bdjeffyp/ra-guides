@@ -608,8 +608,20 @@ By the end of the game and during the postgame, I had the following two teams:
 
 ### Treasure
 
+In this section, I am only going to highlight the missable treasure achievements rather than discuss all of them, since there are plenty of other resources out there that already go into detail on this. The main thing to keep in mind is that a lot of the region treasure achievements will require revisits later, either with the magic key or ultimate key. So don't worry if you finish a scenario in a region and you don't have the associated treasure achievement unlocked yet.
+
+One major note: **Don't forget that mimics COUNT** toward opening all treasure chests in a region or dungeon.
+
+For convenience sake, here are the guides that are helpful in finding all of the treasures:
+- [100% walkthrough guide](https://gamefaqs.gamespot.com/ps2/583527-dragon-quest-viii-journey-of-the-cursed-king/faqs/43062) on GameFAQs
+- [Overworld treasures](https://www.woodus.com/den/gallery/graphics/dq8ps2/maps_overworld/tresure_chests.webp) on Dragon's Den
+- [Cow locations](https://www.woodus.com/den/gallery/graphics/dq8ps2/maps_overworld/DQ8_Cows_Map.webp) on Dragon's Den
+
 | Badge | Title | Strategy |
 |:---:|---|---|
+| [![World map zoomed in on Blizzard Peaks region with treasure chest in the corner](https://media.retroachievements.org/Badge/277470.png "Superbly Stone Cold Treasure Tracker")](https://retroachievements.org/achievement/250728) | [Superbly Stone Cold Treasure Tracker](https://retroachievements.org/achievement/250728) | This is notable because the location that has four missable treasures, Marta's cottage, is encountered about halfway through the region. However, you can't actually complete the region until you have received the ultimate key from Marta because of the locked area in the item shop in Arcadia. So, make absolutely sure that you have collected all four items in Marta's cottage prior to moving on to Orkutsk. Note that you do have to re-enter her cottage after your first visit there in order to check the barn for the mini-medal located within. |
+| [![World map zoomed in on Neos with a treasure chest in the corner](https://media.retroachievements.org/Badge/277472.png "Holy Hoarding, Hero!")](https://retroachievements.org/achievement/250730) | [Holy Hoarding, Hero!](https://retroachievements.org/achievement/250730) | The biggest issue here is that Neos is destroyed when the Black Citadel is summoned. Any items in the town are no longer accessible after this point. Fortunately, you have PLENTY of opportunity to ensure that you have all of the items before that event occurs. <br>A common issue is the two birds that give you seeds on Savella island. Thankfully, the [Overworld treasures](https://www.woodus.com/den/gallery/graphics/dq8ps2/maps_overworld/tresure_chests.webp) map is great because it identifies their locations. <br>Don't forget that this also includes all other islands that are not named or even mapped. In particular, the unexplored island in the southwest corner of the map has a chest AND a mimic, both of which need to be opened. |
+| [![Shattered emblem of Rhapthorne](https://media.retroachievements.org/Badge/277523.png "Daringly Depriving the Darkness of Dreary Duds")](https://retroachievements.org/achievement/250733) | [Daringly Depriving the Darkness of Dreary Duds](https://retroachievements.org/achievement/250733) | The only real missable treasure is the map of the Black Citadel. Make sure you pick it up before completing the boss rush and escaping the citadel. You can find the map to the left of the entrance. All other treasures will appear on Neos if you didn't find them, but the map will not. |
 
 [Back to Achievement Categories](#achievement-categories)
 
