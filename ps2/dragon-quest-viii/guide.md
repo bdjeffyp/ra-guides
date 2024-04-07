@@ -4,7 +4,7 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 ## Version History
 
-- v1.0: Initial release
+- v1.0 (4/6/2024): Initial release
 
 ## About
 
@@ -469,7 +469,7 @@ No discussion on the story achievements here as you simply need to play through 
 | [![Side profile of the Lord High Priest](https://media.retroachievements.org/Badge/277438.png "Showing Shade on the Forefront")](https://retroachievements.org/achievement/250115) | [Showing Shade on the Forefront](https://retroachievements.org/achievement/250115) | After having Godbird access, head to the Lord High Priest's residence right away! Land on the island and try to open the gate into the residence and the cutscene will play out. As with the other Marcello events, progressing too far into the story will lock this one out. |
 | [![King Trode enjoying a beverage](https://media.retroachievements.org/Badge/276767.png "Shaken Drink, Stirring Tale")](https://retroachievements.org/achievement/250117) | [Shaken Drink, Stirring Tale](https://retroachievements.org/achievement/250117) | Simply go to the pub as King Trode in Tryan Gully, talk to the bartender, and accept the offer of a drink and a tale. It does not appear to be missable, but I made sure to do this cutscene as soon as I arrive in the village. |
 | [![Chen Mui's face](https://media.retroachievements.org/Badge/277072.png "Familiar Family or Family Familiar?")](https://retroachievements.org/achievement/250526) | [Familiar Family or Family Familiar?](https://retroachievements.org/achievement/250526) | Speak to Chen Mui after helping the Dragovians to learn the truth. |
-| [![Tombstone](https://media.retroachievements.org/Badge/277263.png "Tragic Togetherness")](https://retroachievements.org/achievement/250527) | [Tragic Togetherness](https://retroachievements.org/achievement/250527) | Once you've learned the truth from Chen Mui, you can head to the tombstone you passed on the Dragovian Path just outside of the Sanctuary to see this cutscene. |
+| [![Tombstone](https://media.retroachievements.org/Badge/277263.png "Tragic Togetherness")](https://retroachievements.org/achievement/250527) | [Tragic Togetherness](https://retroachievements.org/achievement/250527) | When you leave the Dragovian Path and head toward the entrance to the Dragovian Sanctuary, you'll see a tombstone for a name you may have heard before earlier in your adventure. Later, as you explore the Heavenly Dias leading up into the Lord of the Dragovians, you may have come across a circle of tombstones, one of which was intact. Examining it will tell you about a certain villager who died and was buried there. <br>Once you've learned the truth from Chen Mui, you can head back to the tombstone you passed on the Dragovian Path just outside of the Sanctuary to see this cutscene and get the achievement. You will have needed to see the Heavenly Dais tombstone for this cutscene to play out, though you can have examined them in any order. |
 | [![Chen Mui's face and upper torso](https://media.retroachievements.org/Badge/277335.png "Couple o' Cheeseheads")](https://retroachievements.org/achievement/250528) | [Couple o' Cheeseheads](https://retroachievements.org/achievement/250528) | Who do you know that loves cheese as much as Munchie? Talk to them once more after saving the Dragovians to view this cutscene. <br> <details><summary>Spoiler</summary>It's the old man at the hut on top of the waterfall near Farebury.</details> |
 
 [Back to Achievement Categories](#achievement-categories)
