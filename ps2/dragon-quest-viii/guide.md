@@ -57,8 +57,8 @@ There are no leaderboards currently associated with the game.
 There are a currently (as of March 11, 2024) a total of 208 achievements, which can be broken down into the following categories:
 
 - **[Story/Progression](#storyprogression)**: 32 achievements earned naturally through the course of gameplay (only up to the game's normal ending)
-- **[Side Quest](#side-quest)**: 29 achievements (**9 are missable**) which are unlocked from completing requests or talking to specific NPCs are certain times throughout the main adventure, including in the post game
-- **[Cutscene](#cutscene)**: 16 achievements (**8 are missable**) that are earned from viewing a specific cutscene or dialogue with an NPC/party member
+- **[Side Quest](#side-quest)**: 30 achievements (**9 are missable**) which are unlocked from completing requests or talking to specific NPCs are certain times throughout the main adventure, including in the post game
+- **[Cutscene](#cutscene)**: 15 achievements (**8 are missable**) that are earned from viewing a specific cutscene or dialogue with an NPC/party member
 - **[Cor Blimey](#cor-blimey)**: 13 achievements (**6 are missable**), a subset of the Cutscene category, revolving around the various "COR BLIMEY" moments throughout the game.
 - **[Challenge](#challenge)**: 24 achievements (**23 are missable**) that require special action during boss fights or meet a condition throughout the entire game
 - **[Lists](#lists)**: 34 achievements (**1 is missable**) involve progression toward and completing the various lists that are in game, such as alchemy recipes and the monster bestiary
