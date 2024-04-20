@@ -90,7 +90,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 | Grind | [![Close up of squat monster with a purple hood over it's head](https://media.retroachievements.org/Badge/276707.png "Stop! Hammer Time")](https://retroachievements.org/achievement/250047) | [Stop! Hammer Time](https://retroachievements.org/achievement/250047) | Yes |
 | Side Quest | [![A blue slime with smiley face jumping](https://media.retroachievements.org/Badge/277333.png "Goo'd Faith")](https://retroachievements.org/achievement/250048) | [Goo'd Faith](https://retroachievements.org/achievement/250048) | Yes |
 | Challenge | [![An orange scaly merman with an injured forehead](https://media.retroachievements.org/Badge/276708.png "Fishticuffs")](https://retroachievements.org/achievement/250049) | [Fishticuffs](https://retroachievements.org/achievement/250049) | Yes |
-| Story/Progression | [![A grim faced moustached man](https://media.retroachievements.org/Badge/276709.png "Vision Plan")](hthttps://retroachievements.org/achievement/250050) | [Vision Plan](https://retroachievements.org/achievement/250050) | No |
+| Story/Progression | [![A grim faced moustached man](https://media.retroachievements.org/Badge/276709.png "Vision Plan")](https://retroachievements.org/achievement/250050) | [Vision Plan](https://retroachievements.org/achievement/250050) | No |
 
 </details>
 
