@@ -20,7 +20,7 @@ In order to centralize information about Pokémon locations and the best way to 
 
 The primary source of data is [Serebii.net](https://serebii.net/fireredleafgreen/kantopokedex.shtml). I also used [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) as a backup reference as well as the game itself as I worked on this achievement.
 
-I recommend use of the [Quality of Life Enhancement Patch](https://github.com/RetroAchievements/RAPatches/blob/main/GBA/Improvement/515-PokemonFireRed-Enhanced.zip) that is authorized for use with this achievement set. This will be very useful for the evolution of some Pokémon that need specific stats since this patch reveals letter grades for stat growth potential of each Pokémon on the Summary screen.
+I recommend use of the [Quality of Life Enhancement Patch](https://github.com/RetroAchievements/RAPatches/raw/main/GBA/Improvement/515-PokemonFireRed-Enhanced.zip) that is authorized for use with this achievement set. This will be very useful for the evolution of some Pokémon that need specific stats since this patch reveals letter grades for stat growth potential of each Pokémon on the Summary screen.
 
 ## Checklist
 
