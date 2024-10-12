@@ -4,21 +4,33 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievement image shows Professor Oak in a red frame](https://media.retroachievements.org/Badge/237365.png)<br>Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
+## Version History
+
+- v1.1.0 (10/12/2024): In order to emphasize how important it is to NOT trade with other games, I split up the Introduction section into more unique sections and titled the original discussion about not trading into "Important Introduction". I also added a FAQ section with one question and answer, but it is the most commonly asked question about this achievement. Huge thanks to [NewfieCatgirl](https://retroachievements.org/user/NewfieCatgirl) for the ideas on how best to articulate the importance of NOT trading!
+- v1.0.1 (08/24/2024): QoL patch link updated. Thanks for fixing that, [SuperGamer18](https://retroachievements.org/user/SuperGamer18)!
+- v1.0.0 (04/04/2024): Initial release.
+
 ## About
 
 This is a checklist for the [Gotta Catch 'Em All! - FireRed achievement](https://retroachievements.org/achievement/33625). It allows the reader to mark off which Pokémon have been recorded in the Pokédex while providing pointers on how to potentially best acquire said Pokémon. 
 
-## Introduction
+## Important Introduction
 
 The [Gotta Catch 'Em All! - FireRed achievement](https://retroachievements.org/achievement/33625) requires the player to obtain every single Pokémon that is accessible to the game <u>**without trading across cartridges**</u>. This means that Pokémon can only be caught, evolved, or obtained via in-game events (NPC trades, Game Center, etc).
+
+You are <u>**NOT**</u> trying to complete a Pokédex! <u>I can't emphasize this enough</u>. Understandably, a LOT of the questions asked about this achievement center around being able to complete it without trading, probably because the name of the achievement is "Gotta Catch 'Em  All". The tagline is more than likely synonymous in people's minds with the Pokédex completion, hence the confusion around not trading with other Gen 3 games.
 
 Attempting to bring in Pokémon from other Gen 3 Pokémon games via trades will result in <u>**invalidating**</u> this achievement.
 
 The achievement is missable for a variety of reasons so the goal of this guide is to avoid missing the achievement while providing a way to track progress.
 
+## About
+
 In order to centralize information about Pokémon locations and the best way to obtain them, I made this guide. Pokémon FireRed Version has 170 Pokémon to register in the Pokédex to obtain this achievement. As you progress in the game (or perhaps as you search for that remaining Pokémon to finish the set!), use the checklist below to mark what you have found and get direction on how to obtain the Pokémon you need!
 
 The primary source of data is [Serebii.net](https://serebii.net/fireredleafgreen/kantopokedex.shtml). I also used [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page) as a backup reference as well as the game itself as I worked on this achievement.
+
+## Quality of Life Patch
 
 I recommend use of the [Quality of Life Enhancement Patch](https://github.com/RetroAchievements/RAPatches/raw/main/GBA/Improvement/515-PokemonFireRed-Enhanced.zip) that is authorized for use with this achievement set. This will be very useful for the evolution of some Pokémon that need specific stats since this patch reveals letter grades for stat growth potential of each Pokémon on the Summary screen.
 
@@ -33,6 +45,11 @@ To use the checklist, click on the link above. Open the File menu and choose "Ma
 **NOTE:** Any requests to **edit** the spreadsheet will be ignored. You **MUST** make a personal copy of the spreadsheet in order to use the checklist. If you have an issue or found an error with the checklist itself, please [let me know via RetroAchievements' DM feature](https://retroachievements.org/messages/create?to=bdjeffyp).
 
 Happy hunting!
+
+## FAQ
+
+Q: How am I supposed to get the other two starters or evolve an Alakazam if I can't trade outside of the game?
+- The achievement <u>doesn't require you to complete the Pokédex</u> or have every single Pokémon at once, including trade evolutions like Alakazam or the starters that you didn't pick. Simply concentrate on Pokémon that you can catch within the game, evolve by levels or other requirements discussed below, and track what you registered in the checklist and you will have this achievement fair and square!
 
 ## Evolution Items
 
