@@ -1144,6 +1144,133 @@ A note about the Save Crystal: Apparently issues can occur with the save spot th
 
 With everyone back, the Point of No Return is up ahead. This is the point to consider returning back to surface and wrapping up any remaining achievements and side quests, especially the Kalm Traveler (aka the superbosses) quest. If you are going to get the **Black Wing Metamorphosis** achievement, you'll need to have every character at level 99 so you might as well get your materia mastered while building up character levels too. With following this guide, you'll still have obtaining a master materia through materia fusion, completing the requirements of the **[Materia Type] Master** achievements, defeating Ruby and Emerald Weapon (including the associated challenge achievements) to complete the Kalm Traveler quest, and any miscellaneous achievements like snowboarding, Lucky 7s, and route specific achievements saved for **David and Goliath**.
 
-Northern Crater Swamp Grind: Just start swapping out materia as they get mastered, putting in new materia that haven't been mastered yet. Seems pretty obvious, but it is easy to lose track of this, especially when making judicious use of fast forward. Speaking of fast forward, it makes the grind for materia mastery much less annoying. I concentrated on maximizing materia in slots rather than using triple or double growth equipment and don't feel like it took too long. Switching to triple or double growth equipment will make a lot more sense when trying to actually complete the **[Materia Type] Master** achievements. For now, use this opportunity to master every materia and gain levels on your party members. Perhaps you'll get Lucky 7s during your grind! W-Item is very helpful here for applying two Elixirs at once when two Magic Pots show up and also to duplicate said Elixirs. Movers are fairly rare but give the most AP of all encounters (2400AP) with two Magic Pots at a close second place (2000 AP). Make use of the save crystal you placed occasionally to save your progress. You'd hate to lose grind time to a mistake while having possibly poor stats while equipped with a lot of summon materia or HP<->MP materia and run into a Master Tonberry. As the number of materia remaining to master decreases, start to bring in the double and triple growth equipment to speed things along.
+Northern Crater Swamp Grind: Just start swapping out materia as they get mastered, putting in new materia that haven't been mastered yet. Seems pretty obvious, but it is easy to lose track of this, especially when making judicious use of fast forward. Speaking of fast forward, it makes the grind for materia mastery much less annoying. I concentrated on maximizing materia in slots rather than using triple or double growth equipment and don't feel like it took too long. Switching to triple or double growth equipment will make a lot more sense when trying to actually complete the **[Materia Type] Master** achievements. For now, use this opportunity to master every materia and gain levels on your party members. Perhaps you'll get Lucky 7s during your grind! W-Item is very helpful here for applying two Elixirs at once when two Magic Pots show up and also to duplicate said Elixirs. Movers are fairly rare but give the most AP of all encounters (2400AP) with two Magic Pots at a close second place (2000 AP). Make use of the save crystal you placed occasionally to save your progress. You'd hate to lose grind time to a mistake while having possibly poor stats while equipped with a lot of summon materia or HP<->MP materia and run into a Master Tonberry. As the number of materia remaining to master decreases, start to bring in the double and triple growth equipment to speed things along. Once materia have all been mastered, you'll more than likely still need to level up the remaining party members. Unfortunately, to swap characters, you'll need to leave the Northern Crater. The Swamp is still an ideal area to gain levels though, and you should now have a couple of EXP Plus materia to attach to characters to help them gain even more experience. Use Cloud's Apocalypse weapon to generate even more EXP Plus materia to help boost the remaining characters, though a two star level EXP Plus materia is the maximum boost to experience earned so it is only helpful to equip two of these materia if they are at only one star level. These materia also only affect active party members. So, once you have two EXP Plus materia at two star level or mastered, you won't need any more.
+
+**Around the World (cont'd)**: You can get the Underwater materia from the Kalm Traveler iff you morphed a Ghost Ship into a Guide Book item while in the passage to the Underwater Reactor earlier AND have defeated Ultimate Weapon. If you are like me, you didn't turn this in until after having already gone down to Northern Crater. This is the last Independent materia which you'll need to do the **Independent Master** achievement. Thankfully it requires no AP so you don't have to grind it up for mastery. Of course, other than for the **Independent Master** and **Around the World** achievements, this materia will serve no purpose if you intend to get the Emerald Weapon challenge achievement: **Ocean Power**.
+
+**Magic/Support/Command/Independent/Summon Master**: (Materia?) Here is a list of every materia that needs to be mastered for the initial requirements of these achievements in the order they appear in the Materia menu:
+- Magic (21 materia/1,010,000 AP to master all):
+  - Ultima (100,000 AP)
+  - Shield (100,000 AP)
+  - Full Cure (100,000 AP)
+  - Contain (60,000 AP)
+  - Destruct (45,000 AP)
+  - Time (38,000 AP)
+  - Comet (60,000 AP)
+  - Barrier (45,000 AP)
+  - Gravity (40,000 AP)
+  - Poison (38,000 AP)
+  - Exit (30,000 AP)
+  - Transform (24,000 AP)
+  - Mystify (25,000 AP)
+  - Seal (20,000 AP) - Lowest AP to master
+  - Revive (55,000 AP)
+  - Heal (45,000 AP)
+  - Restore (40,000 AP)
+  - Lightning (35,000 AP)
+  - Earth (40,000 AP)
+  - Ice (35,000 AP)
+  - Fire (35,000 AP)
+- Support (13 materia/1,795,000 AP to master all):
+  - Quadra Magic (200,000 AP)
+  - Steal as Well (200,000 AP)
+  - Added Cut (200,000 AP)
+  - Final Attack (160,000 AP)
+  - Sneak Attack (100,000 AP)
+  - Added Effect (100,000 AP)
+  - Elemental (80,000 AP)
+  - HP Absorb (100,000 AP)
+  - MP Absorb (100,000 AP)
+  - MP Turbo (120,000 AP)
+  - Magic Counter (300,000 AP)
+  - Counter (100,000 AP)
+  - All (35,000 AP) - Lowest AP to master
+- Command (13 materia/1,480,000 AP to master all):
+  - Enemy Skill (N/A)
+  - Mime (100,000 AP)
+  - Manipulate (40,000 AP) - Tied for lowest AP to master
+  - Deathblow (40,000 AP) - Tied for lowest AP to master
+  - Morph (100,000 AP)
+  - Throw (60,000 AP)
+  - Sense (40,000 AP) - Tied for lowest AP to master
+  - Steal (50,000 AP)
+  - W-Item (250,000 AP)
+  - W-Summon (250,000 AP)
+  - W-Magic (250,000 AP)
+  - Double Cut (150,000 AP)
+  - Slash-All (150,000 AP)
+- Independent (17 materia/1,290,000 AP to master all):
+  - HP<->MP (80,000 AP)
+  - Underwater (N/A)
+  - Cover (40,000 AP)
+  - Counter Attack (100,000 AP)
+  - Mega All (160,000 AP)
+  - Long Range (80,000 AP)
+  - Pre-Emptive (50,000 AP)
+  - Chocobo Lure (30,000 AP) - Lowest AP to master
+  - Enemy Lure (50,000 AP)
+  - Enemy Away (50,000 AP)
+  - Gil Plus (150,000 AP)
+  - EXP Plus (150,000 AP)
+  - Luck Plus (100,000 AP)
+  - Magic Plus (50,000 AP)
+  - Speed Plus (100,000 AP)
+  - HP Plus (50,000 AP)
+  - MP Plus (50,000 AP)
+- Summon (16 materia/2,535,000 AP[!!] to master all):
+  - Knights of the Round (500,000 AP!)
+  - Bahamut ZERO (250,000 AP)
+  - Typoon (250,000 AP)
+  - Hades (250,000 AP)
+  - Neo Bahamut (150,000 AP)
+  - Phoenix (250,000 AP)
+  - Alexander (150,000 AP)
+  - Kjata (140,000 AP)
+  - Bahamut (120,000 AP)
+  - Leviathan (100,000 AP)
+  - Odin (80,000 AP)
+  - Titan (80,000 AP)
+  - Ramuh (70,000 AP)
+  - Ifrit (60,000 AP)
+  - Shiva (50,000 AP)
+  - Choco/Mog (35,000 AP) - Lowest AP to master
+Once you have one of every materia in a category mastered, you can now fulfill the requirements of the achievement for the given materia type category. Equip all of the mastered materia in the category to available materia slots for any characters (except Yuffie and Vincent), including those not in the active party (it may even be ideal to use non-active characters based on the effects the materia have). Now, you have to master another materia in the category while all of these mastered materia are equipped. When that new materia is mastered, the achievement for the category will unlock. Ideally, you will want to pick a materia to master that is already nearly done earning AP or one of the materia that is the lowest AP required for mastery in the category.
+- *Example*: In the Summon category, equip all mastered summon materia to characters not in your party (again, NOT Yuffie or Vincent). Equip a new Choco/Mog materia created from mastering to an active party member (Cloud's Apocalypse is the ideal candidate). Grind AP to master the materia. When Choco/Mog is mastered, the **Summon Master** achievement will unlock.
+- *Why not Yuffie and Vincent?* With how complicated this achievement is, the rules to code the requirements would be very detailed. Rather than add checks for the optional characters, it is easier to use the required characters only. By this point in the game, you should have more than enough materia slots on the six mandatory characters to hold all of the mastered materia as well as the materia being mastered. The Magic materia category has the most materia in it's category but 21 materia still won't fill all of the slots when you use 6 slot weapons and armor on all six eligible characters (that's 72 slots, more than enough to even work on multiple achievements at once).
+- *What about Underwater and Enemy Skill?* Yes, they don't earn AP. However, you need to have them equipped, even if they don't get "mastered" in the traditional sense.
+- *Okay, I unlocked the first of these achievements!* Awesome! Now that you know that you have a good setup, it's time to rotate out materia for the next category. Rotate through until you have three categories left (assuming you are using Apocalypse to speed up mastery). You are nearly done!
+- *This is overly complicated? What the fuck?!* Yeah, it is. However, this is probably the best way for the set creator to make the check that a player has mastered every materia in a given category, at the time of another materia reaching mastery. With a little bit of planning ahead of time, and **NOT using the Huge Materia for creating Master Materia before hand**, you can get these achievement without too much hassle.
+- *It didn't unlock! I had all materia in a category equipped!* Double check. Go through the list, count the materia equipped, and ensure they are **NOT** on Yuffie and Vincent. make sure to **NOT** fast forward through the results screen when you get close to mastery.
+
+**Nuclear Fusion (cont'd)**: If you took my advice and waited until completing all of the **[Materia Type] Master** achievement, now is a great time to do materia blending to get Master [type] materia! Return to the planetarium in Cosmo Canyon to interact with the Yellow, Green, and/or Red Huge Materia to fuse your mastered materia into Master Command/Magic/Summon materia.
+
+**Lucky Number Slevin**: This is something that can happen naturally when you have characters with high HP and they get damaged that puts their HP at 7777. This can be manipulated to happen as well though. You can easily get it during the Emerald Weapon fight when a character has 9999 HP and two materia equipped (this nullifies the **Ocean Power** achievement however). Another way to manipulate it is to have a character with HP very close to 7777, fight a battle where monsters can be put to sleep or they do very minimal damage, shrink another party member with Mini, and chip a character down 1 HP at a time to 7777. If you are going to Mini someone, ensure they don't have protection against it, or it won't work.
+
+If you are still needing to get all characters to level 99, this is an ideal time to do so. Keep on grinding down in The Swamp of the Northern Crater to get there. Magic Pots are the way to go. Make sure you are keeping your Elixir supply up with the W-Item glitch.
+Getting at least three characters to level 99 will help with the Emerald Weapon fight. Cloud is probably level 99 already by now and Ruby Weapon is a solo battle so you can do that now as well. When you leave Northern Crater to swap characters that need to get to level 99, that can be a great opportunity to do one of the two superbosses...
+
+Snowboard minigame is also available if you haven't finished it... like me...
+
+**Ocean Power/Emerald Blues**: (Challenge/Side Quest) A lot of people seemed to want to use the source farming tricks to maximize stats. That would certainly make things easy, but I decided to just use the natural stat growth from leveling up as well as materia to do this fight. Remember to not use any ultimate weapons, equip any countering or absorb type materia, or use the Knights of the Round summon. Also make sure to not equip Underwater, Mime, or Final Attack materia. If you have a max HP of 9999, make sure to not have only 2 materia equipped or you could hit Lucky 7s, which will invalidate the achievement. Finally, if you are using Cait Sith for the fight, do not try to get Game Over. You'll know you successfully met the requirements if the achievement primed indicator appears at the start of the battle.
+I put my team into Fury status so that Limit Breaks were frequent and usually queued up when Emerald Weapon's eyes activated. Since my stats are lower because of not farming sources, I made use of Hero Drinks to boost stats during the fight. W-Item is great for getting two Hero Drinks in a round. Four per character should be enough.
+I opened with Hades to slow down Emerald Weapon while the other two W-Item'd Hero Drinks. When they hit four drinks, they helped the other character without W-Item drink up Hero Drinks as well. One character with Master Magic and Quadra Magic junctioned to it would quad cast Demi on Emerald Weapon while the other two used 4x Cut. Quad Demi casts are nice because they will do 9999 HP of damage each until Emerald Weapon is nearly defeated so it is a nice indication that you are close to winning the battle. If possible, limits were reserved for when the eyes activated so that they could be destroyed as soon as possible and avoid Aire Tam Storm. Megalixir and Elixir are the primary healing source. Be cautious and responsive to Emerald Weapon's attack script shifts while keeping health up and being aggressive to win. Also, if you have Master Command materia and the eyes open while no limits are ready, throwing gil is very effective at hitting everything for max damage. It won't be enough to take the eyes out, but it'll help speed up the process as a backup. Good luck!
+
+**Desert Storm/Crimson Jazz**: (Challenge/Side Quest) Wow. This was much more difficult to figure out than Emerald Weapon. Ruby Weapon has very high stats which make hitting the thing difficult. It uses tentacles to surround you into a pincer attack. The tentacles use percentage based attacks to your HP and MP (that also cause status effects if you don't have a Ribbon) while Ruby Weapon itself uses magic based attacks, including Ultima and Shadow Flare. If you have more than one party member alive, Ruby Weapon will put the tentacles away (or not put them in the sand if you start with more than one character alive) and then basically eject a character at random until only one character remains. So it is ideal to only have one person alive at the start of the battle. Because of it's high stats, you may find that hits can be difficult to land, especially if under Fury status. Of course, none of this would be an issue really if you max your stats with source farming. That's no fun though. Let's continue using our party at max level with their given stats and materia to solve this problem.
+I found Barret to be the ideal person to take on this battle. His ultimate weapon (we can use them for this challenge) deals more damage based on the AP earned by the materia attached to it. That means using Knights of the Round or Master Summon materia will greatly improve the damage output of the weapon. As stated earlier, Ribbon is a must because of the tentacles. Ziedrich is ideal armor because it reduces elemental damage and has a high evasion rate without materia slots. So we have eight slots to work with and want the maximum AP materia we can attach to it. Again, Knights of the Round or Master Summon should be attached (as long as we don't use the summon or Hades, the challenge remains active). The next highest AP is Magic Counter, however we can't use it because that materia is banned for the challenge. Following that is the W-Item, W-Magic, and W-Summon materia for next highest AP. W-Item is an excellent command to have anyway to quickly get Hero Drinks up AND recover from Ruby Weapon's attacks. Now for functional materia, we'll want mastered Double Cut to attack four times per round and Enemy Skill with Magic Hammer and Big Guard. For the last two slots, I put Luck and Speed Plus materia in to improve those stats for increased critical hit rate and improve the chance to land hits. When using items, make sure to NOT use Dazers or the challenge will be invalidated.
+For the actual fight, start off the first two rounds with Hero Drinks x2. Next, cast Big Guard. Now you have to maintain a delicate balance of keeping the barriers up, using Magic Hammer to reduce Ruby Weapon's MP pool, and keeping your health up. If you get down below 4000 HP, you urgently need to heal as Ultima and Shadow Flare will do around nearly that much damage WHILE the barriers are up! They do MUCH more without having the barriers. The idea here is to survive long enough while helping Ruby Weapon burn their MP pool to start seeing the message "Ruby Weapon's skill power is used up". At this point, Ruby Weapon's enemy skills will only do around 800-1800 HP of damage. Still be attentive to barriers and your health, since the tentacles can take a lot of your health away. Now is the time to begin fighting back. Use limits (deals about 1600 HP damage x10 plus more with critical hits) and 4x Cut (about 9000 HP per hit or 9999 HP if a critical hit). Some of your 4x Cut attacks can miss, especially if you use Fury to try to get more limits. I noticed that I was missing a lot of attacks though, so I tried to use a Tranquilizer during the battle. My hit rate seemed to improve, but I was still in Fury status and couldn't get out of it. I don't know if that was a bug with the game or what but it did seem that I had the benefit of improved hit rate while also increasing limit gauge quickly.
+This is a long, taxing fight. You have to be paying attention closely, especially in the first half while Ruby Weapon can cast spells. Take your time, rest and think if you need to while in a menu, and you'll come out victorious in the end while not having used sources to max stats. Good luck!
+
+**Around the World (cont'd)**: Bring the spoils from the Emerald and Ruby Weapon fights to the Kalm Traveler to receive a Gold Chocobo (eh...) and Master Summon/Magic/Command materia (yo!). After the traveler gives you the gifts in trade, he departs and the achievement unlocks.
 
 #### Point of No Return and Endgame
+
+lets-mosey.png
+
+As you descend to the bottom, you'll have a chance of random battles as you jump to every platform. On the second screen, you'll head toward a center platform. As you land on the center platform, before running toward the center with all of the cubes, set up the materia you want on every character via the Materia menu's Exchange menu (though you do have another opportunity later). Make sure Knights of the Round is attached to your initial descent party for the first phase of the final fight.
+
+**Black Wing Metamorphosis**: (Challenge) To get the strongest possible form of Safer Sephiroth, you need to have every character, except Aerith, at level 99 (each one adds 30k HP and several points to Attack, Defense, Magic Attack, and Magic Defense stats), use Knights of the Round on Jenova Synthesis (adds 80k HP), and and don't kill Bizzaro Sephiroth's head during it's three part battle (each kill reduces HP up to 24,900 HP). These will also impact Bizzaro Sephiroth though I assume that we are largely concerned with Safer for this particular achievement. To avoid targeting the head of Bizzaro Sephiroth, multi-target spells, skills, and commands cannot be used. Do not get Game Over of Cait Sith's Slots limit break! There is no primed achievement notification for this either so you won't know you've done it right until the final hit.
+- Jenova Synthesis: This should be the only use of Knights of the Round allowed toward this achievement. Using it at all on either form of Sephiroth following this fight will invalidate the achievement. Not much else to this fight.
+- Bizzaro Sephiroth: You will be split into three teams. You'll have the opportunity here to set up each team's equipment and second check the materia. The party members with Cloud will move on to Safer Sephiroth so keep that in mind (make sure everyone can Long Range!). You will start with Cloud's party. Take out an arm part. Switch teams then take out another arm part. Switch yet again and take out yet another arm. Switch back to the Cloud and destroy the core and body. Honestly, the hardest part of this fight is targeting the part you want to destroy! The pattern to go with on the sides is to hit the upper and lower arm parts (D and E), then take out part C. Switch at this point to the other side and repeat this pattern. Switch again and you'll be back with Cloud. Take out the Core (part C), then take out the body (part A) to win this phase of the battle. Some have stated in this achievement's comments that they attacked the head and didn't face issue with this achievement but I didn't risk it.
+- Safer Sephiroth: With all of the materia and levels, this should be a cakewalk. Use your items to heal and focus on the physical damage. Enjoy the Super Nova or two!
+
+**Duel of the Blades**: (Progression) Press the win button against the real Sephiroth and witness the still impressively cinematic "final battle". Congrats on completing the normal run!
