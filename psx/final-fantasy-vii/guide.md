@@ -1059,7 +1059,9 @@ With the submarine, the last game in Gold Saucer is now unlocked. This is when I
 
 **Frosty Wilderness**: (Minigame) Take a few trips down the course to learn the it. Get a feel for the controls and try to remember where the turns and balloons are. The balloons are the most important thing. If you can take the time to get the majority of the red balloons and all blue and green balloons, even if you come under the par time of 1:30, you'll get over 90 points. In the open portion with the sledding moogles, the balloons attempt to guide you through the safe lanes, including between the trees, though I found that going at max speed can result in bumping into a moogle or two. It took me about 6 runs, split over an overnight rest from the game, to get the target points and the achievement. Patience, skill, and a little bit of luck with the annoying moogles at the end will pay off.
 
-**Thy Everlasting Winter Wind Blows/Crystalbound Chant/Holiday Frappe**: (Minigame) I ended up deferring these to later, since they require memorization of the course and the balloon locations to get the 90 points efficiently and I was ready to move on with the story for a while. I will update the notes here for this section later as I do them.
+**Thy Everlasting Winter Wind Blows**: (Minigame) I had ended up delaying this and the later course as a post game activity after giving it a few tries. When I went back to the slopes, I got this achievement on the second try. I was going to slow, thinking that I had two minutes to get the 30 points for the Time metric. I was at 23 points for that time, so that time I had was wrong. Turns out it is actual 1:45 for the 30 points. I managed to get down the slope on my winning run with 1:35, well ahead of the par time. I only had one bonk so Technique was 29 points. I managed to get most of the balloons, having 36 points. Aside from getting as many reds as you can, there is a blue balloon among some ice blocks after the "desert" section (it seems scary but is actually quite simple to get without bonking), and then there is a blue balloon when going down a fast and narrow slope with tall trees with a green balloon requiring a lot of speed to get the jump height needed to reach it at the end of the tree slope. Keep those three balloons in mind while taking time to brake slightly before sharp turns and you should have this in the bag.
+
+**Crystalbound Chant/Holiday Frappe**: (Minigame) This course, the Crazy Course, has the 2:00 par time. While this course has two achievements, it's best to just focus on going for the 90 point challenge, since the 70 point achievement will come naturally enough. One thing to note is once you complete this course the first time, a yellow balloon will now appear shortly after the starting point. Collecting that starts Time Attack mode which will remove all of the balloons on a course. If you pick it up on accident, just reset and try again as you focus on learning the C course and it's balloon layout. Right at the beginning is a string of red balloons close together that lead to a big jump to a blue balloon. To get it, start on the outside of the slight turn and hook toward the red balloons. You'll want to be going at least 93 km/h or more when you jump to reach the blue balloon. If you missed the balloon because you didn't have enough height (something I had issues with), you are jumping too early. You want to jump just as the ramp ends! Inside the icicle cavern, the icicles that drop are the same in every attempt so learn where they will appear in your path. The evil part is the larger open areas just before red balloons that drop a large ice boulder (it's large and wide!) so give that wide berth. When you near the end, line up with the center of the opening and jump to catch the second blue balloon. You can't see it until outside of the cavern (I assume to simulate the idea of going back outside into sunlight and not being able to see initially). Near the end of the course are moogles rolling back and forth on snowballs. The last blue balloon is between a pair of moogles (if you have enough speed, you can bonk them without getting knocked over or losing Technique). The green balloon is close to the end between another two moogles that are just ahead and behind the balloon. In my winning run, I missed the last blue balloon and got all other high point balloons for 35 points, three bonks for 27 Technique points, and a time of 1:52 for 30 Time points after 8 attempts (not counting the multiple resets to learn how to jump for the first blue balloon). It seems daunting, but with enough runs in a row, you'll get this. Take your time going down the course and learning the lay of the land and you'll get this.
 
 **Nibel Visitors (cont'd)**: Once in Rocket Town as part of getting the final Huge Materia, go in the weapon shop right near the entrance and open the chest in the bedroom to get a "Fourth Bracelet" armor (item 25). Head to the item shop and open the chest in the bedroom to get a Guard Source (item 26).
 
@@ -1274,3 +1276,112 @@ As you descend to the bottom, you'll have a chance of random battles as you jump
 - Safer Sephiroth: With all of the materia and levels, this should be a cakewalk. Use your items to heal and focus on the physical damage. Enjoy the Super Nova or two!
 
 **Duel of the Blades**: (Progression) Press the win button against the real Sephiroth and witness the still impressively cinematic "final battle". Congrats on completing the normal run!
+
+### David and Goliath
+
+The primary guide that I used for this achievement is [GarlandG's GameFAQs guide](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/32536). Despite it being a Low Level AND No Materia run, the notes are still applicable and well detailed regarding how to route this. I'm not following it exactly, but it was a great starting point for figuring out how to do this since I hadn't attempted something like this before.
+
+***TODO***: The GarlandG route and my notes can be removed from the final guide, since my route notes will cover the differences and why, for the most part.
+Here is the route that GarlandG has for battles and XP with my notes about it on the side:
+| EXP   | Enemies                       | Survivor  | KO            |
+|------:|-------------------------------|-----------|---------------|
+| 32    | MP x2                         | Cloud     |               | Disc 1
+| 100   | Guard Scorpion                | Cloud     | Barret        |
+| 64    | Smogger x2                    | Cloud     | Barret, Tifa  | For getting Deadly Waste
+| 64    | Smogger x2                    | Cloud     | Barret, Tifa  |
+| 64    | Smogger x2                    | Cloud     | Barret, Tifa  |
+| 180   | Air Buster                    | Barret    | Cloud, Tifa   |
+| 240   | Aps                           | Aerith    | Cloud, Tifa   |
+| 290   | Turks: Reno                   | Cloud     | Barret, Tifa  |
+| 150   | Mighty Grunt x3               | Cloud     | Barret, Tifa  |
+| 300   | Sample: H0512                 | Cloud     | Tifa, Red     |
+| 250   | Hundred Gunner & Heli Gunner  | Aerith    | Barret, Red   |
+| 240   | Rufus                         | Cloud     |               |
+| 440   | Motor Ball                    | Aerith    | Cloud, Tifa   | End of Midgar
+| 550   | Bottomswell                   | Aerith    | Cloud, Tifa   |
+| 680   | Jenova BIRTH                  | Aerith    | Cloud, Tifa   |
+| 600   | Dyne                          | Barret    |               | Set up Barret Date!!!
+| 290   | Stinger                       | Aerith    | Cloud, Red    | Can be skipped
+| 290   | Stinger                       | Aerith    | Cloud, Red    | Can be skipped
+| 1400  | Gi Nattak                     | Aerith    | Cloud, Red    |
+| 3000  | Materia Keeper                | Aerith    | Cloud, Barret |
+| 1800  | Palmer                        | Aerith    | Cloud, Barret |
+| 880   | Foulander x2                  | Aerith    | Cloud, Red    | For Lunar Curtains...
+| 880   | Foulander x2                  | Aerith    | Cloud, Red    | Don't need these?
+| 880   | Foulander x2                  | Aerith    | Cloud, Red    | Substitute for E. Skill
+| 880   | Foulander x2                  | Aerith    | Cloud, Red    | Chocobuckle/L4 Suicide?
+| 1040  | Garuda x2                     | Aerith    | Cloud, Red    | For Light Curtains...
+| 1040  | Garuda x2                     | Aerith    | Cloud, Red    | Don't need these?
+| 420   | Flapbeat x2                   | Aerith    | Cloud, Red    | For T/S Bombs...
+| 420   | Flapbeat x2                   | Aerith    | Cloud, Red    | Don't need these?
+| 420   | Flapbeat x2                   | Aerith    | Cloud, Red    |
+| 3500  | Red Dragon                    | Aerith    | Cloud, Cid    |
+| 3800  | Demon's Gate                  | Aerith    | Cloud, Cid    |
+| 4000  | Jenova LIFE                   | Cloud     | Barret, Tifa  | Farewell, XP Sponge
+| 500   | Icicle                        | Barret    | Cloud, Cid    | Disc 2
+| 500   | Icicle                        | Barret    | Cloud, Cid    |
+| 500   | Icicle                        | Barret    | Cloud, Cid    |
+| 4400  | Schizo                        | Cloud     | Tifa, Red     |
+| 6000  | Jenova DEATH                  | Cloud     | Tifa, Red     |
+| 600   | Attack Squad x2               | Cid       | Red, Cait     |
+| 1700  | Submarine Crew x2             | Cloud     | Tifa, Red     |
+| 1700  | Submarine Crew x2             | Cloud     | Tifa, Red     |
+| 850   | Submarine Crew                | Barret    | Cloud, Tifa   |
+| 1700  | Submarine Crew x2             | Barret    | Cloud, Tifa   |
+| 1640  | Underwater MP x2              | Barret    | Cloud, Tifa   |
+| 5700  | Carry Armor                   | Cid       | Cloud, Cait   | Taking out arms
+| 1700  | Submarine Crew x2             | Cid       | Cloud, Cait   |
+| 1700  | Submarine Crew x2             | Cid, Cait | Cloud         |
+| 2550  | Submarine Crew x3             | Cid       | Cloud, Cait   |
+| 600   | Attack Squad x2               | Cid       | Cloud, Red    |
+| 600   | Attack Squad x2               | Cid       | Cloud, Red    |
+| 1530  | Attack Squad x2, Senior Grunt | Cid       | Cloud, Red    |
+| 4000  | Turks: Rude                   | Cid       | Cloud, Red    |
+| 930   | Senior Grunt                  | Cid       | Cloud, Red    |
+| 160   | Mystery Ninja (Yuffie)        | Cid       | Cloud, Red    |
+| 35000 | Diamond Weapon                | Cloud     | Barret, Cid   |
+| 600   | Attack Squad x2               | Cait      | Cloud, Tifa   | Wutai quest not needed
+| 900   | Attack Squad x3               | Cait      | Cloud, Tifa   | as we skip Midgar Raid
+| 3200  | Rapps                         | Cait      | Cloud, Tifa   |
+| 7000  | Proud Clod                    | Barret    | Cloud, Cid    | Do Midgar Raid Skip
+| 25000 | Hojo                          | Yuffie    | Cloud, Cait   |
+
+Since I want to get some enemy skills to make things easier later (Big Guard, White Wind, L4 Suicide, and Chocobuckle) as well as do some skips, I can update the above route to include these required fights while getting rid of other fights. Smoggers can be removed because we will have Poison materia before Bottomswell where it is first needed. Additionally, some fights will be skipped (Stingers in Gi Cave, Turks and Proud Clod fights in Midgar Raid). A Wutai visit might be necessary for obtaining the Swift Bolts and Fire Veils...
+
+[My potential route](https://docs.google.com/spreadsheets/d/1kARcejrV1Fxv96NsWgSYvBAdMxXbKab3yDQnCdVqOeE/edit?gid=0#gid=0)
+***TODO***: The link to the route will change to a final version that will be set up for sharing specifically so that others can edit their own copies.
+
+The route spreadsheet is set up to calculate the XP values earned by the active character and inactive party members while telling you how much total XP they have, the level it equates to, and the buffer to reaching level 29 (the level cell turns yellow at level 28 and red at 29). This will allow others to make their own adjustments to the route based on how they want to tackle it and see how it impacts the buffer, while ALSO providing a way to do live route updating.
+
+Guide format: Sections are broken up by location. Encounters are in bold and followed by potential tactics based on my route. Between battles will be discussion on important item pickups from the area.
+
+General guidance:
+- Run from all random encounters.
+- SAVE SAVE SAVE and use multiple slots and memory card files!!!
+- Get items from chests/bags/etc. in the area.
+- ***TODO***: Who should get any Sources we find??? GarlandG says Cloud. Is that centered around the final battle?
+- Money is tight until Steal materia is obtained.
+- Healing items will also be tight and their use needs to be carefully thought out.
+- A calculator and Sense materia are unnecessary! Pressing Select+R1 on the controller will bring up an HP indicator using the RetroAchievements user interface. Very handy!
+
+#### Disc 1: Midgar
+
+##### Reactor 1 Bombing Mission
+
+**MP x2 fight**: Cloud is the only participant and earns 32 XP, reaching level 7. Enough said about that fight.
+
+After the fight, the knocked out guards have potions that will be useful for healing. There is a Phoenix Down off the beaten path if you want, but it may not be necessary. Save before the boss fight. Consider setting up for the escape encounter plan as you did for **The Great Escape** achievement to reduce the number of fights you have to run from and potential damage sustained/death.
+
+**Guard Scorpion (800 HP)**: As a reminder, you can press Select+R1 to bring up the boss' HP and it'll count down as you deal damage to it. Cloud uses Bolt and Barret attacks. My route is to have Barret survive so when Guard Scorpion raises it's tail attack it with Cloud while Barret defends so Cloud takes a bunch of damage. When HP get's low, let Cloud die or take him out yourself and then finish the job with Barret's low damage output. You shouldn't need to heal during the fight (and it'll consume potions) so if things go south, consider resetting and trying again.
+
+Run from the encounters. When getting cornered by the guards, make sure to say "Later", otherwise you'll have to reset (the fights are unrunnable).
+
+##### Sector 7/Reactor 5 Bombing Mission
+
+Progress the story at Seventh Heaven, then head to the Beginner's Hall to get an All materia and Ether. Purchase some Potions at the item shop (GarlandG gets 8 of them) and Grenades at the weapon shop (GarlandG buys 6 intended for Smoggers but we can use them elsewhere). Save and head to the train.
+
+When the alert goes off, get all the items just like during the normal run (talk to the man laying down in the back of the first car for a Phoenix Down, the man at the front of the second car for a Hi-Potion). Get to the reactor, picking up items as you go, and set the bomb. GarlandG fights three battles with 2 Smoggers each for their Deadly Waste, but we will have Poison materia available to us, so that is some XP saved.
+
+Preparation for Air Buster: Similar to GarlandG's strategy. At the save crystal before the fight, save in a new slot and then get into a battle and kill off Tifa. Have Cloud and Barret fill their limit gauges. Once Barret's gauge is full, move him to the back row and defend. Get Cloud's HP down low (GarlandG recommends below 35) and then escape.
+
+**Air Buster (1200 HP)**: Hold the Circle button and you should win with this setup. Barret and Cloud's limit breaks go off and Air Buster's counter attacks will kill off Cloud. Barret will just shoot until Air Buster dies. ***TODO***: Can we use a Grenade or two? Perhaps equip Lightning materia on Barret while in the back row for safety?
