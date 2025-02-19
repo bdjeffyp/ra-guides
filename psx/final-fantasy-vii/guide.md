@@ -529,17 +529,19 @@ The guide I am using primarily for navigating the game is https://gamefaqs.games
 
 **Busted Up:** (Challenge) The best way to prepare for this is to get into an encounter in the location just before the boss, where you found the Ether in the chest and pressed the buttons at the same time to open the door to the save crystal. During the preparation battle, simply let your party get attacked until all three have hit their limit breaks. Use the Cure spell or items to heal if needed. In my experience, I had an encounter with two Special Combatants and a Proto Machinegun to get my limit breaks. Save the game and then proceed to the boss. Without any grinding, my party was all level 8, except Tifa at level 6. All three characters used their limit breaks right away and we took down Air Buster before it could take a turn. Air Buster may counter attack (it did, in my experience, against Barret's Big Shot), but that doesn't count against you as the boss having taken a turn.
 
-**A Flower Blooming in the Slums:** (Challenge? Minigame? Puzzle?) Unfortunately, the only save point before this is prior to Air Buster, so if a mistake is made, you'll have a bit of a run back to make. The easiest way to handle this is to simply tell Aerith to "Hold on a minute" (first option) and push barrels in the following order: left, rear, and right. When Aerith makes it to the top of the stairs, the achievement will unlock.
+**A Flower Blooming in the Slums**: (Challenge? Minigame? Puzzle?) Unfortunately, the only save point before this is prior to Air Buster, so if a mistake is made, you'll have a bit of a run back to make. The easiest way to handle this is to simply tell Aerith to "Hold on a minute" (first option) and push barrels in the following order after telling her to wait: left, rear, and right. When Aerith makes it to the top of the stairs, the achievement will unlock.
 
 **Above and Below the Plate (cont'd):** (Treasure) Once you enter the Sector 5 Slums, you can continue to work on this achievement. This is the point to note that there is one required item to get that impacts **Good Things Happen For Those Who Wait** by taking the kid's life savings (which will unlock **Killing Hope** as well). You can either set up a save at Aerith's house prior to getting the kid's life savings, get the remaining treasure and this achievement, then go back to the save and leave the life savings alone (you'll have to actually talk to the kid, check the hidden drawer, see the money, and then choose NOT to take it) so that you can get the other achievement later. Now for the remaining four items... Items five and six are located outside of Aerith's house (Cover materia and Ether). Item seven is in the bag in room you rest in inside Aerith's house. Item eight is the kid's money.
 
 **Killing Hope/Good Things Happen For Those Who Wait:** (Mutually Exclusive) Missable achievements that are dependent on checking for the kid's life savings in the Sector 5 Slums and deciding to take or leave them. Take them to get **Killing Hope** or leave them and get the other achievement much later in the game. This is an easy one to get both in one run by using a save (as discussed in **Above and Below the Plate**) but one can also be deferred for the **David and Goliath** run. I went for both now, since **Killing Hope** is easy to get and reset to prep for the other.
+- While GarlandG opted to steal the 5 gil from the kid in their low level run, I'd go for the Turbo Ether in our **David and Goliath** run since we can use materia and a Turbo Ether could be nice to have for MP recovery.
 
 **Moulin a Cafe:** Here is your first chance to read the first Turtle Paradise notice in the Turbo Ether kid's room (on the wall by the stairs).
 
 **The Ballad of Heisenberg:** (Meme) You can purchase a grenade as early as Sector 5 Slums at the weapon shop near Aerith's House.
 
 **A &$#% Up Moment/Group Bath and Taking Out the Small Fry/Dude (Looks Like a Lady):** (Mutually Exclusive) These sets of achievements are mutually exclusive that are dependent on performance in minigames and a choice of which room you enter in the Honeybee Inn. My intended path here is to go for the worst items (Lingerie/Phoenix Down) and associated achievements first, then reload the save and get the best items/achievements (Bikini Briefs/Hyper). I'll get **Workout Plan** in the second pass as well. Another option is to get the other mutually exclusive achievements while working toward **David and Goliath** (which I may recommend in the final guide writeup). To take the worse path, you simply need a wig and dress. Doing the minimum should ensure getting the worse path and making it quick to reset and take the better path. Additionally, you can get the Honeybee Inn mutually exclusive achievements right away, then work on the Don Corneo mutually exclusive achievements. Here is the order I did things in that seemed the most efficient: **A &$#% Up Moment**, reset then **Taking Out the Small Fry**, reset then **Group Bath** and **Dude (Looks Like a Lady)**. To ensure **Taking Out the Small Fry**, choose the first option twice when talking to the Dress Shop owner in the bar and he'll give you the Cotton Dress, ensuring Tifa is chosen by Don Corneo no matter how you do at the squats minigame. **Taking Out the Small Fry** unlocks after defeating Scotch and Lackeys (the second fight). The Honeybee Inn achievements are named after the rooms that you can enter. You'll want to go to the Group Room for getting Don Corneo to take Cloud. To get the best dress, choose the second option twice when talking to the Dress Shop owner. Out-squat in the gym to get the Blonde Wig. Get the Diamond Tiara from the materia shop owner by listening to their request, staying at the inn, getting the 200 gil item, and going back to the materia shop. Get the Sexy Cologne by getting the pharmacy coupon from the diner (choose any meal and say "It was all right"), select the Digestive (third option), and giving it to the person in the bar's bathroom.
+- I can now confirm that getting Cloud selected by Don Corneo is ideal for **David and Goliath** (avoid extra battles), so if you don't want to reset for the mutually exclusive achievements in the normal run, get **Taking Out the Small Fry** and **A &$#% Up Moment** first.
 
 **Workout Plan:** (Minigame) Make a save prior to playing the squat game in the gym. Get a feel for the timing in practice if you wish (or use the actual game for practice and reset if you don't get it). If you don't make a mistake and keep a good pace, you should hit the goal of 20 squats easily by the time requirement.
 
@@ -1279,7 +1281,9 @@ As you descend to the bottom, you'll have a chance of random battles as you jump
 
 ### David and Goliath
 
-The primary guide that I used for this achievement is [GarlandG's GameFAQs guide](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/32536). Despite it being a Low Level AND No Materia run, the notes are still applicable and well detailed regarding how to route this. I'm not following it exactly, but it was a great starting point for figuring out how to do this since I hadn't attempted something like this before.
+**David and Goliath** is a low level run, requiring that no character exceeds level 28 by the conclusion of the game. This requires careful planning and knowledge of the game to do successfully. Doing the normal run prior to attempting **David and Goliath** is highly recommended as a result. This section of the guide discusses how to plan and presents a plan to follow if you'd rather not go through that process.
+
+The primary guide that I used for planning my path through this achievement is [GarlandG's GameFAQs guide](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/32536) with backup from the [main guide](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240). Despite it being a Low Level AND No Materia run, the notes are still applicable and well detailed regarding how to route this. I'm not following it exactly, but it was a great starting point for figuring out how to do this since I hadn't attempted something like this before.
 
 ***TODO***: The GarlandG route and my notes can be removed from the final guide, since my route notes will cover the differences and why, for the most part.
 Here is the route that GarlandG has for battles and XP with my notes about it on the side:
@@ -1358,11 +1362,18 @@ Guide format: Sections are broken up by location. Encounters are in bold and fol
 General guidance:
 - Run from all random encounters.
 - SAVE SAVE SAVE and use multiple slots and memory card files!!!
+- Pincer attacks will be the death of many an attempt between saves...
 - Get items from chests/bags/etc. in the area.
 - ***TODO***: Who should get any Sources we find??? GarlandG says Cloud. Is that centered around the final battle?
 - Money is tight until Steal materia is obtained.
 - Healing items will also be tight and their use needs to be carefully thought out.
 - A calculator and Sense materia are unnecessary! Pressing Select+R1 on the controller will bring up an HP indicator using the RetroAchievements user interface. Very handy!
+
+Saving strategy:
+- Just as I did with the normal run, I made checkpoint saves from slot 15 and up, using slot 1 as the current save.
+- So prior to any boss fight, save to the next slot up from the bottom available AND on slot 1.
+- This makes it easier to restart games.
+- Once a memory card is full, roll back memory cards (Card 1 becomes Card 2, Card 2 becomes Card 3, and so on) by renaming the files.
 
 #### Disc 1: Midgar
 
@@ -1370,11 +1381,11 @@ General guidance:
 
 **MP x2 fight**: Cloud is the only participant and earns 32 XP, reaching level 7. Enough said about that fight.
 
-After the fight, the knocked out guards have potions that will be useful for healing. There is a Phoenix Down off the beaten path if you want, but it may not be necessary. Save before the boss fight. Consider setting up for the escape encounter plan as you did for **The Great Escape** achievement to reduce the number of fights you have to run from and potential damage sustained/death.
+After the fight, the knocked out guards have potions that will be useful for healing. There is a Phoenix Down off the beaten path if you want, but it may not be necessary. Consider putting Barret in the back row. Save before the boss fight (1/14). Consider setting up for the escape encounter plan as you did for **The Great Escape** achievement to reduce the number of fights you have to run from and potential damage sustained/death.
 
 **Guard Scorpion (800 HP)**: As a reminder, you can press Select+R1 to bring up the boss' HP and it'll count down as you deal damage to it. Cloud uses Bolt and Barret attacks. My route is to have Barret survive so when Guard Scorpion raises it's tail attack it with Cloud while Barret defends so Cloud takes a bunch of damage. When HP get's low, let Cloud die or take him out yourself and then finish the job with Barret's low damage output. You shouldn't need to heal during the fight (and it'll consume potions) so if things go south, consider resetting and trying again.
 
-Run from the encounters. When getting cornered by the guards, make sure to say "Later", otherwise you'll have to reset (the fights are unrunnable).
+Run from the encounters. When getting cornered by the guards, make sure to say "Later" (second option), otherwise you'll have to reset (the fights are unrunnable).
 
 ##### Sector 7/Reactor 5 Bombing Mission
 
@@ -1382,6 +1393,36 @@ Progress the story at Seventh Heaven, then head to the Beginner's Hall to get an
 
 When the alert goes off, get all the items just like during the normal run (talk to the man laying down in the back of the first car for a Phoenix Down, the man at the front of the second car for a Hi-Potion). Get to the reactor, picking up items as you go, and set the bomb. GarlandG fights three battles with 2 Smoggers each for their Deadly Waste, but we will have Poison materia available to us, so that is some XP saved.
 
-Preparation for Air Buster: Similar to GarlandG's strategy. At the save crystal before the fight, save in a new slot and then get into a battle and kill off Tifa. Have Cloud and Barret fill their limit gauges. Once Barret's gauge is full, move him to the back row and defend. Get Cloud's HP down low (GarlandG recommends below 35) and then escape.
+Preparation for Air Buster: Similar to GarlandG's strategy. At the save crystal before the fight, save in a new slot (2/14) and then get into a battle and kill off Tifa. Have Cloud and Barret fill their limit gauges. Once Barret's gauge is full, move him to the back row and defend. Get Cloud's HP down low (GarlandG recommends below 35) and then escape.
 
-**Air Buster (1200 HP)**: Hold the Circle button and you should win with this setup. Barret and Cloud's limit breaks go off and Air Buster's counter attacks will kill off Cloud. Barret will just shoot until Air Buster dies. ***TODO***: Can we use a Grenade or two? Perhaps equip Lightning materia on Barret while in the back row for safety?
+**Air Buster (1200 HP)**: Hold the Circle button and you should win with this setup. Barret and Cloud's limit breaks go off and Air Buster's counter attacks will kill off Cloud. Barret then throws a Grenade and wins!
+
+##### Plate Collapse
+
+Get Aerith safely through the church escape (no encounters like we did for the normal run). Check **A Flower Blooming in the Slums** for details. Check on the kid's secret stash of 5 gil in the Sector 5 Slums and leave it (we still want that Turbo Ether later on, just in case). Loot Aerith's garden for the Ether. GarlandG then sells a bunch of stuff in order to buy 66 Grenades. Do we need them? We need to have at least 280 gil for Wall Market so save that much at least. We are good to sell Ethers for now (magic cost is low at the moment) so use them to get the necessary gil. Now to inside Aerith's house to advance the story.
+- I sold all Ethers, the Assault Gun, and the Titan Bangle and bought the Grenades, having 315 gil left over.
+
+In Wall Market, get the necessary items to get picked by Don Corneo: Silk Dress (say "soft" and "shimmers"), Blonde Wig (win the squat contest), Diamond Tiara (help the materia shop owner with buying the 200 gil item at the inn vending machine), and Sexy Cologne (food "all right" at restaurant, Digestive at pharmacy, give to person in bar restroom). Honey Bee Inn is not required. Save in preparation for the upcoming boss fight.
+- I forgot to save (should have been 3/14). Oh well.
+
+Get dropped into the sewers and go into the menu before talking to Tifa and Aerith. Cloud and Tifa are front row and Aerith in back. Cover materia can be useful for helping Cloud or Tifa die faster while protecting Aerith. Fire materia on Aerith is a good backup if Grenade count is low or you want to preserve some. Aerith will get targeted with tail attacks by being in the back row, but that should be fine.
+- I didn't have Fire materia (I had thought Aerith came with one, but nope!)
+
+**Aps (1800 HP)**: Grenades! Fire spell, preferably from Aerith if you plan to use it, is also useful (Aps is weak to it) (**TODO**: Is using Fire a good idea? The AI script suggests that Aps counters magic attacks with Sewer Tsunami...). Aps has a regular attack pattern: Sewer Tsunami, two rounds of Lick and/or tail attack, repeat; Sewer Tsunami alternates behind him to behind party every two uses. GarlandG recommended all characters throw Grenades for the first three rounds (so 9 Grenades used), having Cloud and Tifa attack Cloud to even out HP, then they die from Sewer Tsunami (kill them if one/both survive) and Aps is one Grenade away from Aerith winning the battle.
+- I didn't have Fire materia (I had thought Aerith came with one, but nope!) so it was just Grenades!
+
+Heal up Aerith and run through the sewers (and from encounters, of course). I had a limit break on Aerith at the end of the fight so I used a potion (Aerith had 23 HP left so I wanted to make sure the limit would go off) and healed her the rest of the way with the limit in a battle. Grab that Steal materia!!! That'll be crucial for items/money gathering. Run through the Train Graveyard and steal Ethers from Deenglow (revive the others if things get scary). If you head out to Sector 7, you can't return to Train Graveyard so make sure you steal as much as you are willing to grab. Keep in mind: 99 Ethers equates to 74,250 gil so use that value to determine how much you are willing to grind. While Aerith's Healing Wind will do a lot to carry your HP recovery, it won't be enough and you'll need to use some Potions as well. Keep in mind that more Ethers means even more Potions that you can buy so figure out a balance and use the Potions you have to get even more Ethers. Don't bother trying to steal the Striking Staff from Eligor or Ghost Hands from Ghosts (these encounters will wreck you). I got owned a couple of times from Deenglows landing critical hits, so be cautious when HP gets to critical levels (yellow). There will be future Ether grinding opportunities later as well so it isn't worth it to burn Phoenix Downs for this Ether grind. I had 19 Potions at the start of the theft grind and got 41 Ethers and 4 Potions remaining when I stopped.
+
+At Sector 7, you have another opportunity to shop and save (3/14). Sell off the number of Ethers you want to get rid of and stock up on Grenades and Potions if needed (I capped out on Grenades and bought 20 Potions). Climb the pillar stairs, equip yourself properly once united with Barret (we want Barret to live, despite GarlandG's path, for more buffer for Cloud), and put Cloud/Tifa in front and Barret in the back.
+
+**Reno (1000 HP)**: Take out the pyramids as they show up like usual. Throw Grenades with the whole party until Reno is nearly down. When in killing range, have Cloud and Tifa take themselves out while also ensuring no pyramids are up. Once Barret is left and no pyramid, finish off Reno. I did have to burn off an extra Grenade on a pyramid because Tifa had a limit break when a pyramid was placed over Barret, but otherwise the battle was pretty straight forward. The reason why we want to get Reno down to killing range of a Grenade is because if Reno places a pyramid on your lone character, it's a game over.
+
+##### Shinra Headquarters/Escape from Midgar
+
+Follow the story path by going to Aerith's house (pick up the Turbo Ether from the kid on the way), then head back to Wall Market. Be cautious on the Sector 6 highway as there is potential for pincer attacks that will result in a reset. Pick up the Sense materia if you want, but it really isn't needed. In Wall Market, stock up on supplies, if necessary, ensuring you have 300 gil at least to buy the batteries in the weapon shop. Pick up the batteries and the left over item(s) in Don Corneo's mansion, then climb up the golden shiny wire of hope. Grab the Ether with one of the batteries on the way up.
+
+At Shinra HQ, take the stairs (second option) as we don't want to be fighting anything, obviously. Use the save crystal (4/14) at the entrance (though if the Mighty Grunt fight goes sideways for some reason, that's going to be a long climb back up the stairs...). Pick up the Elixir on the way up (and **The Stairmaster** achievement if you didn't get it in the normal run). At the top of the stairs are three Mighty Grunts. Heal up Barret and jump in.
+
+**Mighty Grunts x3 (230 HP)**: Two Grenades per to take them out. Cloud was revived so he'll need to be taken out first. Otherwise, this is pretty cut and dry. I had Cloud attack himself, while Barret threw Grenades at the enemies.
+
+After the fight, I took the elevator back down to the first floor, read Turtle's Paradise Flyer #2, and saved again just in case I somehow messed up the stealth section on the 60th floor.
