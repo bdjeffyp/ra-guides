@@ -8,40 +8,45 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 ## About
 
-**TODO:** Update the image
-
-![Box art for the Super Famicom version of Final Fantasy IV](https://retroachievements.org/Images/031517.png)
+![Box art for the US PlayStation version of Final Fantasy VII](https://media.retroachievements.org/Images/046651.png)
 
 :no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
 
-**TODO:** Update the link and achievement count
+***TODO***: Update the achievement count date
 
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (130 as of 9/23/2023) available on [RetroAchievements](https://retroachievements.org/game/3528). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (198 as of *date to be determined*) available on [RetroAchievements](https://retroachievements.org/game/11242). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
 
-Spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
+Spoiler solutions for the strategies and solutions as well as a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
 ## Introduction
 
-**TODO:** Update the intro, also probably a good point to discuss the history of this set and highlight the **David and Goliath** achievement. Specify that I am using the PlayStation face button identifiers when discussing controller inputs. Acknowledge the use of this guide (https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240/) as well as a general shoutout to all of the comments on various achievements. Also mention that there are a lot of comments on individual achievements regarding the status of Duckstation as an emulator that could potentially cause problems for people unlocking achievements but I have run the entire game with that emulator with no issue, except for some areas of the game where the emulator was more prone to hanging. This is the guide I used for **David and Goliath**: https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/32536. An issue with DuckStation is that disc changes tend to break things. Hardcore mode for achievements turns off and the emulator seems to lock up. Thankfully with saving before disc changes this isn't an issue. Other problems with DuckStation regarding fast forward may have been related to the disc speed setting, which I had a 2x. I lowered it down to normal speed when I reached Disc 3 so I'll see if any soft locks happen still.
+Final Fantasy VII is a role-playing video game developed by Square for the Sony PlayStation. It was released in Japan on January 31, 1997, North America on September 7, 1997, and Europe on November 17, 1997. This seventh game in the series followed suit with Final Fantasy VI in eschewing the fantasy aspects and focused more on the science fiction side of the series. The story centers on a mercenary who aids an eco-terrorist group fighting back against a global electric power company that is consuming the planet's life essence and coming to terms with the force from the stars that ravaged an ancient civilization and continues to persist via a genetically modified super soldier. Many of the mainstays of the Final Fantasy series continue to appear here: chocobos (now with even MORE colors), summon beasts, an airship, recurring monsters (malboros, cactuar, goblins, and so many more), and lots of weapons and skills. Replacing the Esper system of FFVI is the Materia system, which imbues characters with specific magic, skills, stat boosts, and other effects when equipped to slots in a character's weapon and armor.
 
-Final Fantasy IV is a role-playing video game developed and published by Square for the Super Famicom. Released in Japan in 1991, it is the fourth installment in the Final Fantasy series. This game features a more story-driven approach (a la Final Fantasy II), centered around the dark knight Cecil. However, many of the mechanics introduced in Final Fantasy III make their return here: character job classes (though they are fixed for the most part), the Fat Chocobo, many vehicle options, graphic designs, and some dungeons that require specific mechanics to traverse. The similarities to Final Fantasy III are probably due to the game being initially designed for the Famicom/NES [(source)](https://web.archive.org/web/20161216181140/http://matotree.com/2012/08/final-fantasy-iv-for-the-famicom-was-80-complete/).
+As with the other Final Fantasy games in the SNES era, this game will push you into situations that can lock you out of areas, characters, and abilities as you progress. As a result, many achievements for Final Fantasy VII will become missable if you are not diligent. With that said, nearly all achievements can be earned in one playthrough, with some notable exceptions. **Two playthroughs are required at a minimum**, specifically for the low-level run of the game.
 
-With the focus on plot, Final Fantasy IV will push you into situations that can lock you out of areas, characters, and abilities as you progress. As a result, many achievements for this game will become missable if you are not diligent. However, all achievements can be earned in one playthrough. This guide will attempt to help you in identifying the missable achievements if you'd rather not play this fantastic, but lengthy, game multiple times.
+I played through the entire game using the DuckStation emulator with no issues. There were reports of problems with achievements unlocking with that emulator in the past but that seems to not be an issue any more. There was an issue involving fast forwarding when the disc speed is set higher than normal speed that causes some crazy shenanigans during combat or failing to load other areas. As long as you are on normal disc speed though, you'll be fine.
+
+## Sources and Shoutouts
+
+In playing through the game and making this guide for the achievement set, I used the [GameFAQs guide by bover_87](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240) to find all the items.  For the low-level playthrough to get the **David and Goliath** achievement, I formed my experience point plan by using [GarlandG's guide on GameFAQs](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/32536) as a starting point. Many many many comments from users playing the set on RetroAchievements were a great help in figuring out some of the achievements.
 
 ## Trivia
 
-**TODO:** Update the trivia or remove the section. One piece of trivia I have so far is that the Huge Materia displayed in the planetarium are similar to the crystals of the original Final Fantasy with the same colors. It's probably a knowing nod to the original game but I haven't confirmed it. Picture: huge-materia-crystals.png. How about that advertising push? Showing only the FMV cutscenes? That's definitely something to talk about. How much did Square (and probably Sony too) spend on the campaign?
-
-- This achievement set, created by [MrGauss](https://retroachievements.org/User/MrGauss), uses lines from Dante's Divine Comedy for the story achievements. The demons known as "Malebranches" in the Divine Comedy are the inspiration for the Four Arch-Fiends.
-- Final Fantasy IV has had numerous ports and remakes. Notoriously, the US version released on the Super NES was censored and made easier for the American market. In Japan, Square re-released Final Fantasy IV on the Super Famicom, called "Final Fantasy IV Easy Type". Many refer to "Easy Type" as the US version, but it is actually another iteration that builds off the US Version. You can read more about the many versions for the SNES/Super Famicom [here](https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV_version_differences), as well as all of the numerous other ports and their differences.
-- A sequel game was developed for Japanese mobile phones, subtitled "The After Years". This game was eventually ported and released worldwide on the WiiWare service of the Nintendo Wii system and also experienced it's own share of ports and remakes.
-- A 3D remake was released on the Nintendo DS, similar in appearance to the Final Fantasy III remake and made by the same studio, Matrix Software.
+- Final Fantasy VII is widely considered to be THE game that brought the Japanese Role Playing Game (JRPG) style to the mainstream. It had the highest sales worldwide for the series at the time. Sony was a big player in the game's release outside of Japan, offering to help Squaresoft with the publishing, probably in hopes of increasing console sales in the competition with Nintendo and Sega.
+- In the USA, in particular, there was a huge marketing push for the game, showcasing only the FMV segments in television commercials, like this one: https://youtu.be/QDz9A4ByHIQ?si=wZQ3xLO0T4ZsTdTq&t=40. This commercial aired during Saturday Night Live, The Simpsons, and other popular shows of the time. North America had the largest ad spending over the other regions in the world which likely helped in JRPGs gaining a foothold in the market with at least half of the $40 million going to that region alone.
+- This was the first Final Fantasy to be released in PAL regions.
+- After the release in Japan and in preparation for a worldwide release, Square created the "international" version of the game, which made improvements to the materia system and other menus, guardrails for the chocobo race track, more cutscenes involving Cloud's past, and aids for map navigation. Oh yeah, and two new superbosses were added as well. 🙂
+- Much of the game is presented using mostly static (aside from occasional animations and light effects), two-dimensional, pre-rendered backgrounds that low polygonal character models walk around on. There are a couple of moments where characters can move around while full motion video (FMV) plays on screen as well. Only the world map itself is a three-dimensional locale that can be traversed.
+- All of the game's locales, script, character models, and logic are stored on all three discs. Only the FMVs are unique to each disc.
+- When you obtain all four Huge Materia and store them in Bugenhagen's planetarium, the Huge Materia themselves resemble the crystals of the first game in the series, even sharing the color scheme for the elements that they represented (though those colors weren't used until the first remake for Final Fantasy I on the WonderSwan).
+  ![Cloud stands in the elevated planetarium with the four Huge Materia, large crystals each colored yellow, green, red, and blue](huge-materia-crystals.png)
 
 ## Save Support
 
-**TODO:** Update the save support section. Perhaps similar to what was used for DQ8. Mention my save strategy of using multiple saves across both save slots, filling up checkpoint saves from the bottom up. When both memory cards are full, I roll them back so that I have a new memory card with more slots. I'll probably have three or four memory cards by the end of this.
+Final Fantasy VII uses the PlayStation memory card to hold save data with up to 15 save files per card. With emulators, you can create as many memory cards as you wish! DuckStation, the emulator I used for my playthroughs, provides an option for making unique memory card files for each game. Definitely turn this option on if you haven't already as it will make creating an archive of your progress through the game easier, which will also provide a way for you to go back to points in time where you may have missed an achievement but now you won't have to do a full playthrough again to get it. I ended up filling up both memory card files with saves in my normal run and had to load an old save once for an event that I missed.
 
-The game uses a battery to save game data across four slots. Players can save the game at any time while on the overworld map or in certain safe spots in dungeons to any one of the slots.
+***TODO***: Link to David and Goliath walkthrough in the sentence below.
+I have a specific strategy handling save files for **David and Goliath** that I will describe in that portion of the guide.
 
 ## Compatibility
 
@@ -65,7 +70,7 @@ There are nine leaderboards currently associated with the game. The tenth one, "
 
 ## Achievement Categories
 
-**TODO:** This section should link to the breakdown sections below.
+***TODO***: This section should link to the breakdown sections below.
 
 There are a currently a total of 198 achievements, which can be broken down into the following categories:
 
@@ -357,6 +362,8 @@ Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, an
 ## Category Breakdowns
 
 **TODO:** Obviously, this will get an overhaul on my strategies when I take my notes and put them here...
+
+![Cloud faces the party as they are about to descend toward the center of the planet and Sephiroth, stating "All right, everyone, let's mosey."](lets-mosey.png)
 
 ### Story/Progression
 
