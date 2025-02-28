@@ -90,17 +90,17 @@ There are a currently a total of 198 achievements, which can be broken down into
 
 **TODO:** There will definitely be a roadmap for this set. Two playthroughs minimum.
 
-The following is a breakdown of the order of achievements based on my personal playthrough. Note that your mileage may vary due to the path you may desire to take, such as getting Odin before going to the Moon.
+The following is a breakdown of the order of achievements based on my personal playthrough. Note that this is only a potential order for you to follow and not a strict timing on when achievements should be unlocked, especially when mutually exclusive achievements are considered and how you may pair them with the **David and Goliath** low-level run. The main goal is to minimize the total number of playthroughs needed to two.
 
-Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. The dropdown names have the number of achievements in the section so that you can see at a glance about how many achievements you should have by the end of a section, if you were to follow my guide to the letter. I have call outs to sections where a grind may be appropriate for the three grind achievements. If you want to see the entire thing without having to click the arrows, [checkout the fully expanded roadmap!](Final-Fantasy-IV-Roadmap)
+Each section is grouped under story achievements and hidden under a dropdown to avoid spoilers. If you want to see the achievements, **click on the arrow** next to each section to reveal the table. The dropdown names have the number of achievements in the section so that you can see at a glance about how many achievements you should have by the end of a section, if you were to follow my guide to the letter. If you want to see the entire thing without having to click the arrows, [checkout the fully expanded roadmap!](Final-Fantasy-IV-Roadmap)
 
 :no_entry: **MINOR SPOILER SECTION** :no_entry:
 <br>The tables only reveal when achievements can be earned and possibly missed. No strategies on earning the achievements are provided here, just the order I earned them in.
 
-<details>
-<summary>The Departure ➡ A Heart's Resolve <b>(7/130)</b></summary>
+***TODO***: Note achievements that may be ongoing during a section, such as Tower Defense 101.
 
-**Grind alert!** Goblins in the overworld very rarely drop their eponymous summon. The only other Goblin type that drops the summon is in the Lunar Subterrane with the same drop rate.
+<details>
+<summary>Normal Run Start ➡ The Flower Girl <b>(8/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -115,7 +115,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>A Heart's Resolve ➡ Scars in the Heart <b>(16/130)</b></summary>
+<summary>The Flower Girl ➡ A Truly Grave Setback <b>(21/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -132,7 +132,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Scars in the Heart ➡ Music for a Moonless Sky <b>(23/130)</b></summary>
+<summary>A Truly Grave Setback ➡ Reminiscence ~ Scars Carved by Fire <b>(36/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -147,9 +147,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Music for a Moonless Sky ➡ Hatred Crossroads <b>(34/130)</b></summary>
-
-**Grind alert!** Cockatrices on Mt. Hobs and surrounding overworld areas can very rarely drop their eponymous summon for Rydia.
+<summary>Reminiscence ~ Scars Carved by Fire ➡ Battleready Stowaways <b>(49/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -168,7 +166,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Hatred Crossroads ➡ Embrace the Light <b>(42/130)</b></summary>
+<summary>Battleready Stowaways ➡ The Cosmo Warrior <b>(63/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -184,9 +182,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Embrace the Light ➡ Wings of the Enterprise <b>(48/130)</b></summary>
-
-**Grind alert!** You can grind Spirits and Souls at the base of Mt. Ordeals for the Cursed Ring. See the Miscellaneous section below for the strategy. I did it here because of the need to level Cecil up after his class change.
+<summary>The Cosmo Warrior ➡ Foul Mouth Space Pilot <b>(72/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -200,11 +196,7 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 <details>
-<summary>Wings of the Enterprise ➡ Partings and Reunions <b>(71/130)</b></summary>
-
-Things really open up now that an airship is in your possession!
-
-**Grind alert!** Mindflayers in the Magnetic Cave can very rarely drop their eponymous summon. This is the only location they appear in this game, which is pretty inconvenient. It may be best to grind for the summon AFTER defeating the Dark Elf since the cave's magnetic properties will subside.
+<summary>Foul Mouth Space Pilot ➡ It is the Key to Something <b>(83/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -235,9 +227,7 @@ Things really open up now that an airship is in your possession!
 </details>
 
 <details>
-<summary>Partings and Reunions ➡ Savior of Mist <b>(74/130)</b></summary>
-
-A very short section...
+<summary>It is the Key to Something ➡ Valse Aerith <b>(90/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -248,9 +238,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Savior of Mist ➡ Pride of Fabul <b>(84/130)</b></summary>
-
-**Grind alert!** Balloons in the Tower of Babil can very rarely drop their eponymous summon. You can also get it from them and the Grenades on the Moon later, if you'd rather wait, since the drop rate is low.
+<summary>Valse Aerith ➡ Reminiscence ~ False Relations <b>(98/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -268,7 +256,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Pride of Fabul ➡ Forever Loved <b>(88/130)</b></summary>
+<summary>Reminiscence ~ False Relations ➡ Reminiscence ~ The Bitter Taste of Truth <b>(108/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -280,9 +268,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Forever Loved ➡ Mysidian Legend <b>(104/130)</b></summary>
-
-**NOTE:** Elemental Cure is broken. It triggers when a FellKnight uses Absorb in the Defender Sword Monster-in-a-Box fight. It should be available to earn when a character has a Cursed Ring with an elemental reducing armor equipped. It isn't too big of a deal that this one achievement out of 130 pops early, given that you still need to grind for a Cursed Ring anyway... 😉
+<summary>Reminiscence ~ The Bitter Taste of Truth ➡ The Path of the Condor <b>(120/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -306,9 +292,7 @@ A very short section...
 </details>
 
 <details>
-<summary>Mysidian Legend ➡ To the Dark Depths <b>(118/130)</b></summary>
-
-**Grind alert!** If you didn't get the Bomb summon earlier, grinding Balloons and Grenades in the Lunar Path caverns or the Moon overworld may be the next best opportunity.
+<summary>The Path of the Condor ➡ Under the Sea <b>(134/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -330,11 +314,7 @@ A very short section...
 </details>
 
 <details>
-<summary>To the Dark Depths ➡ Life's Triumph <b>(127/130)</b></summary>
-
-**Grind alert!** If you don't have the remaining summon items, now is the time to get them. You will also be grinding for Pink Tail(s) in the Lunar Subterrane, and the Cursed Ring from the Souls and Spirits at Mt. Ordeals if you didn't get that earlier.
-
-The final boss must be fought more than once to complete the set. I would think it may be best to beat the game with the full party first, reload the save, then grind to get Cecil ready for the final fight...
+<summary>Under the Sea ➡ Broken Diamond <b>(152/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
@@ -350,14 +330,47 @@ The final boss must be fought more than once to complete the set. I would think 
 
 </details>
 
-<br>
-Special call out: The incredibly grind heavy Evil Jewelry, Summoning Mastery, and One of a Kind. They are not included in the order list above because of the rare drops involved in their achievements: 1/64 chance for the applicable item IF an item drops from the monster. See the Grind section below for strategies on how to complete the grind.
+</details>
+
+<details>
+<summary>Broken Diamond ➡ Chemical Mess <b>(170/198)</b></summary>
 
 | Category | Badge | Title | Missable? |
 |---|:---:|---|:---:|
-| Item | [![Ring topped with jeweled skull emitting evil aura](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118270.png "Evil Jewelry")](https://retroachievements.org/achievement/108718) | [Evil Jewelry](https://retroachievements.org/achievement/108718) | No |
-| Command | [![An open book with a bubble containing fire floating over it](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118132.png "Summoning Mastery")](https://retroachievements.org/achievement/108681) | [Summoning Mastery](https://retroachievements.org/achievement/108681) | No |
-| Item | [![A glittering armored breastplate](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/118808.png "One of a Kind")](https://retroachievements.org/achievement/108720) | [One of a Kind](https://retroachievements.org/achievement/108720) | Yes-ish |
+| Treasure | [![Cavern path with bridge over waterway](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117520.png "Treasure Hunter: Cave Eblan")](https://retroachievements.org/achievement/108706) | [Treasure Hunter: Cave Eblan](https://retroachievements.org/achievement/108706) | No |
+| Boss | [![Red faced demon draped in red and blue cape with hand extended](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117556.png "Malebranche of Fire")](https://retroachievements.org/achievement/108653) | [Malebranche of Fire](https://retroachievements.org/achievement/108653) | Yes |
+| Treasure | [![The top of a tall tower reaching for the heavens amid a mountain range](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117642.png "Treasure Hunter: Tower of Babil II")](https://retroachievements.org/achievement/108707) | [Treasure Hunter: Tower of Babil II](https://retroachievements.org/achievement/108707) | Yes |
+| Story | [![Ninja stands before king and queen](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117722.png "Forever Loved")](https://retroachievements.org/achievement/108632) | [Forever Loved](https://retroachievements.org/achievement/108632) | No |
+
+</details>
+
+</details>
+
+<details>
+<summary>Chemical Mess ➡ Duel of the Blades <b>(195/198)</b></summary>
+
+| Category | Badge | Title | Missable? |
+|---|:---:|---|:---:|
+| Treasure | [![Cavern path with bridge over waterway](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117520.png "Treasure Hunter: Cave Eblan")](https://retroachievements.org/achievement/108706) | [Treasure Hunter: Cave Eblan](https://retroachievements.org/achievement/108706) | No |
+| Boss | [![Red faced demon draped in red and blue cape with hand extended](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117556.png "Malebranche of Fire")](https://retroachievements.org/achievement/108653) | [Malebranche of Fire](https://retroachievements.org/achievement/108653) | Yes |
+| Treasure | [![The top of a tall tower reaching for the heavens amid a mountain range](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117642.png "Treasure Hunter: Tower of Babil II")](https://retroachievements.org/achievement/108707) | [Treasure Hunter: Tower of Babil II](https://retroachievements.org/achievement/108707) | Yes |
+| Story | [![Ninja stands before king and queen](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117722.png "Forever Loved")](https://retroachievements.org/achievement/108632) | [Forever Loved](https://retroachievements.org/achievement/108632) | No |
+
+</details>
+
+</details>
+
+<details>
+<summary>The Low-Level Run <b>(198/198)</b></summary>
+
+| Category | Badge | Title | Missable? |
+|---|:---:|---|:---:|
+| Treasure | [![Cavern path with bridge over waterway](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117520.png "Treasure Hunter: Cave Eblan")](https://retroachievements.org/achievement/108706) | [Treasure Hunter: Cave Eblan](https://retroachievements.org/achievement/108706) | No |
+| Boss | [![Red faced demon draped in red and blue cape with hand extended](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117556.png "Malebranche of Fire")](https://retroachievements.org/achievement/108653) | [Malebranche of Fire](https://retroachievements.org/achievement/108653) | Yes |
+| Treasure | [![The top of a tall tower reaching for the heavens amid a mountain range](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117642.png "Treasure Hunter: Tower of Babil II")](https://retroachievements.org/achievement/108707) | [Treasure Hunter: Tower of Babil II](https://retroachievements.org/achievement/108707) | Yes |
+| Story | [![Ninja stands before king and queen](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/117722.png "Forever Loved")](https://retroachievements.org/achievement/108632) | [Forever Loved](https://retroachievements.org/achievement/108632) | No |
+
+</details>
 
 ## Category Breakdowns
 
