@@ -49,9 +49,9 @@ This section is provided separately from the main guide to show all achievements
 - **NOTES**:
   - The second half of the **Killing Hope/Good Things...** pair of mutually exclusive achievements is only available after the Sector 7 collapse
   - The first part of the **Shinra Inc** treasure achievement takes place here, but won't be completed until MUCH later
-  - The biggest reason why **Moulin a Cafe** is missable is because of the poster in Shinra Headquarters so make sure to get it!
+  - The reason why **Moulin a Cafe** is missable is because of the poster in Shinra Headquarters so make sure to get it!
   - Your journey toward **The Possibility of Elemental Bliss** and **The Possibility of Beastmastery** begins here!
-  - Another mutually exclusive pair starts here with the invasion of Shinra Headquarters: **The Elevator Champion/The Stairmaster**. Since taking the stairs is required for **David and Goliath**, I opted to get the second of the pair for the low-level run instead.
+  - Another mutually exclusive pair starts here with the invasion of Shinra Headquarters: **The Elevator Champion/The Stairmaster**. Since taking the stairs is required for **David and Goliath**, I opted to get the second of the pair during the low-level run instead.
   - The treasure for **On the Outskirts** starts to be found here, but won't be completed until Disc 2 (it's not missable though)
   - The journey toward **Strago's Tribute** begins as soon as you depart Midgar
 

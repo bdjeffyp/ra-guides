@@ -12,9 +12,9 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 :no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
 
-***TODO***: Update the achievement count date
+***TODO***: Update the achievement count date and version date above
 
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (198 as of *date to be determined*) available on [RetroAchievements](https://retroachievements.org/game/11242). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information.
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (198 as of *date to be determined*) available on [RetroAchievements](https://retroachievements.org/game/11242). This guide will give the player tips on earning the achievements and any other necessary or useful information.
 
 **A note about spoilers**: Strategies and solutions for achievements as well as a potential order to earning them will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
@@ -22,7 +22,7 @@ This is not an official manual, walkthrough, or critical review. This document i
 
 Final Fantasy VII is a role-playing video game developed by Square for the Sony PlayStation. It was released in Japan on January 31, 1997, North America on September 7, 1997, and Europe on November 17, 1997. This seventh game in the series followed suit with Final Fantasy VI in eschewing the fantasy aspects and focused more on the science fiction side of the series. The story centers on a mercenary who aids an eco-terrorist group fighting back against a global electric power company that is consuming the planet's life essence and coming to terms with the force from the stars that ravaged an ancient civilization and continues to persist via a genetically modified super soldier. Many of the mainstays of the Final Fantasy series continue to appear here: chocobos (now with even MORE colors), summon beasts, an airship, recurring monsters (malboros, cactuar, goblins, and so many more), and lots of weapons and skills. Replacing the Esper system of FFVI is the Materia system, which imbues characters with specific magic, skills, stat boosts, and other effects when equipped to slots in a character's weapon and armor.
 
-As with the other Final Fantasy games in the SNES era, this game will push you into situations that can lock you out of areas, characters, and abilities as you progress. As a result, many achievements for Final Fantasy VII will become missable if you are not diligent. With that said, nearly all achievements can be earned in one playthrough, with some notable exceptions. **Two playthroughs are required at a minimum**, specifically for the low-level run of the game.
+As with the other Final Fantasy games in the SNES era, this game will push you into situations that can lock you out of areas, characters, and abilities as you progress. As a result, many achievements for Final Fantasy VII will become missable if you are not diligent. With that said, nearly all achievements can be earned in one playthrough, with some notable exceptions. **Two playthroughs are required at a minimum**, specifically for the low-level challenge run of the game.
 
 I played through the entire game using the DuckStation emulator with no issues. There were reports of problems with achievements unlocking with that emulator in the past but that seems to not be an issue any more. There was an issue involving fast forwarding when the disc speed is set higher than normal speed that causes some crazy shenanigans during combat or failing to load other areas. As long as you are on normal disc speed though, you'll be fine.
 
@@ -32,18 +32,19 @@ In playing through the game and making this guide for the achievement set, I use
 
 ## Trivia
 
-- Final Fantasy VII is widely considered to be THE game that brought the Japanese Role Playing Game (JRPG) style to the mainstream. It had the highest sales worldwide for the series at the time. Sony was a big player in the game's release outside of Japan, offering to help Squaresoft with the publishing, probably in hopes of increasing console sales in the competition with Nintendo and Sega.
+- Final Fantasy VII is widely considered to be THE game that brought the Japanese Role Playing Game (JRPG) style to the mainstream outside of Japan. It had the highest sales worldwide for the series at the time. Sony was a big player in the game's release in other regions, offering to help Squaresoft with the publishing, probably in hopes of increasing console sales in the competition with Nintendo and Sega.
 - In the USA, in particular, there was a huge marketing push for the game, showcasing only the FMV segments in television commercials, like this one: https://youtu.be/QDz9A4ByHIQ?si=wZQ3xLO0T4ZsTdTq&t=40. This commercial aired during Saturday Night Live, The Simpsons, and other popular shows of the time. North America had the largest ad spending over the other regions in the world which likely helped in JRPGs gaining a foothold in the market with at least half of the $40 million going to that region alone.
 - This was the first Final Fantasy to be released in PAL regions.
 - After the release in Japan and in preparation for a worldwide release, Square created the "international" version of the game, which made improvements to the materia system and other menus, guardrails for the chocobo race track, more cutscenes involving Cloud's past, and aids for map navigation. Oh yeah, and two new superbosses were added as well. 🙂
 - Much of the game is presented using mostly static (aside from occasional animations and light effects), two-dimensional, pre-rendered backgrounds that low polygonal character models walk around on. There are a couple of moments where characters can move around while full motion video (FMV) plays on screen as well. Only the world map itself is a three-dimensional locale that can be traversed.
+- After the release of Final Fantasy VI, the development staff was experimenting to see what they could potentially accomplish with their next game on newer hardware. Using Silicon Graphics workstations, they created a technical demo called [Final Fantasy VI: The Interactive CG Game](https://www.youtube.com/watch?v=TPO7c_XmesU). Showing Terra with blonde hair, Locke, and Shadow facing off against a golem. It showcases dynamic camera angles that would be adopted by Final Fantasy VII's battles. The hardware to make it would end up being used to create the FMV sequences.
 - All of the game's locales, script, character models, and logic are stored on all three discs. Only the FMVs are unique to each disc.
-- When you obtain all four Huge Materia and store them in Bugenhagen's planetarium, the Huge Materia themselves resemble the crystals of the first game in the series, even sharing the color scheme for the elements that they represented (though those colors weren't used until the first remake for Final Fantasy I on the WonderSwan).
+- When you obtain all four Huge Materia and store them in Bugenhagen's planetarium, the Huge Materia themselves resemble the crystals of the first game in the series, even sharing the color scheme for the elements that they represented (though those colors weren't used until the first remake for Final Fantasy I on the WonderSwan Color).
   ![Cloud stands in the elevated planetarium with the four Huge Materia, large crystals each colored yellow, green, red, and blue](huge-materia-crystals.png)
 
 ## Save Support
 
-Final Fantasy VII uses the PlayStation memory card to hold save data with up to 15 save files per card. With emulators, you can create as many memory cards as you wish! DuckStation, the emulator I used for my playthroughs, provides an option for making unique memory card files for each game. Definitely turn this option on if you haven't already as it will make creating an archive of your progress through the game easier, which will also provide a way for you to go back to points in time where you may have missed an achievement but now you won't have to do a full playthrough again to get it. I ended up filling up both memory card files with saves in my normal run and had to load an old save once for an event that I missed.
+Final Fantasy VII uses the PlayStation memory card to hold save data with up to 15 save files per card. With emulators, you can create as many memory cards as you wish! DuckStation, the emulator I used for my playthroughs, provides an option for making unique memory card files for each game. Definitely turn this option on if you haven't already as it will make creating an archive of your progress through the game easier. This will provide a way for you to go back to points in time where you may have missed an achievement but now you won't have to do a full playthrough again to get it. I ended up filling up both memory card files with saves in my normal run and I even had to load an old save once for an event that I missed.
 
 I have a specific strategy handling save files for [**David and Goliath**](#david-and-goliath-low-level-challenge) that I will describe in that portion of the guide.
 
@@ -79,7 +80,7 @@ There are a currently a total of 198 achievements, which can be broken down into
 - **[Minigame](#minigame)**: 25 achievements (**6 are missable**) which involve playing a game given by an NPC or one of the games at Gold Saucer, and succeeding in that game
 - **[Side Quest](#side-quest)**: 20 achievements (**9 are missable**) for completing quests (or milestones toward the quest) that are off the beaten path and aren't required to finish the game
 - **[Steal/Morph](#stealmorph)**: 12 achievements (**5 are missable**) for stealing items from specific enemies or morphing them into rewards
-- **[Materia](#materia)**: 19 achievements (**13 are missable**) which require obtaining materia, using materia, or materia mastery
+- **[Materia](#materia)**: 18 achievements (**13 are missable**) which require obtaining materia, using materia, or materia mastery
 - **[Mutually Exclusive](#mutually-exclusive)**: 10 achievements (**all are missable**) are pairs of achievements where only one can be earned in a playthrough (or reverting to a previous save to get the opposite achievement)
 
 Out of all of the achievements, **101 are missable**.
@@ -145,9 +146,9 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 - **NOTES**:
   - The second half of the **Killing Hope/Good Things...** pair of mutually exclusive achievements is only available after the Sector 7 collapse
   - The first part of the **Shinra Inc** treasure achievement takes place here, but won't be completed until MUCH later
-  - The biggest reason why **Moulin a Cafe** is missable is because of the poster in Shinra Headquarters so make sure to get it!
+  - The reason why **Moulin a Cafe** is missable is because of the poster in Shinra Headquarters so make sure to get it!
   - Your journey toward **The Possibility of Elemental Bliss** and **The Possibility of Beastmastery** begins here!
-  - Another mutually exclusive pair starts here with the invasion of Shinra Headquarters: **The Elevator Champion/The Stairmaster**. Since taking the stairs is required for **David and Goliath**, I opted to get the second of the pair for the low-level run instead.
+  - Another mutually exclusive pair starts here with the invasion of Shinra Headquarters: **The Elevator Champion/The Stairmaster**. Since taking the stairs is required for **David and Goliath**, I opted to get the second of the pair during the low-level run instead.
   - The treasure for **On the Outskirts** starts to be found here, but won't be completed until Disc 2 (it's not missable though)
   - The journey toward **Strago's Tribute** begins as soon as you depart Midgar
 
