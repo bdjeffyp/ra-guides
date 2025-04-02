@@ -4,7 +4,7 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 ## Version History
 
-- v1.0.0 (*date to be determined*): Initial release
+- v1.0.0 (4/2/2025): Initial release
 
 ## About
 
@@ -12,9 +12,7 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 :no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
 
-***TODO***: Update the achievement count date and version date above
-
-This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (198 as of *date to be determined*) available on [RetroAchievements](https://retroachievements.org/game/11242). This guide will give the player tips on earning the achievements and any other necessary or useful information.
+This is not an official manual, walkthrough, or critical review. This document is a simple guide for the current achievement set (198 as of 4/2/2025) available on [RetroAchievements](https://retroachievements.org/game/11242). This guide will give the player tips on earning the achievements and any other necessary or useful information.
 
 **A note about spoilers**: Strategies and solutions for achievements as well as a potential order to earning them will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
