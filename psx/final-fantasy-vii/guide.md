@@ -4,6 +4,7 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
 
 ## Version History
 
+- v1.1.0 (5/18/2025): Added links to KhobarKast's helpful companion spreadsheet! Thanks so much for making this tool to further aid people in completing this set!
 - v1.0.0 (4/2/2025): Initial release
 
 ## About
@@ -27,6 +28,9 @@ I played through the entire game using the DuckStation emulator with no issues. 
 ## Sources and Shoutouts
 
 In playing through the game and making this guide for the achievement set, I used the [GameFAQs guide by bover_87](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/71240) to find all the items.  For the low-level playthrough to get the **David and Goliath** achievement, I formed my experience point plan by using [GarlandG's guide on GameFAQs](https://gamefaqs.gamespot.com/ps/197341-final-fantasy-vii/faqs/32536) as a starting point. Many many many comments from users playing the set on RetroAchievements were a great help in figuring out some of the achievements.
+
+A HUGE shoutout to [KhobarKast](https://retroachievements.org/user/KhobarKast) who created [an amazing spreadsheet](https://docs.google.com/spreadsheets/d/1Wt7uAgVYUEPzEqB5yMywuZi1SzqvQfldQ3DCHD77mCo/edit?usp=sharing) that makes marking off progression through the set, identifying some of the pain points, and provides convenient links back to this guide for further details. This is a perfect companion to this guide and I highly recommend it. KhobarKast was generous to go through all that work and then provide access to it for all of you via this guide. Thanks again, friend!
+- **NOTE**: Make sure to MAKE A PERSONAL COPY of the spreadsheet so that you can save the progress of your checkmarks as you go through the game.
 
 ## Trivia
 
@@ -483,6 +487,13 @@ Each section is grouped under story achievements and hidden under a dropdown to 
 </details>
 
 ## Category Breakdowns
+
+As I stated in the [Sources and Shoutouts](#sources-and-shoutouts) section, [KhobarKast](https://retroachievements.org/user/KhobarKast) made an amazing companion spreadsheet that provides a way to track your progress through the set, highlights some of the pain points and missables in the set, and checklists specifically for the minigames and game-length side quests.
+- Open the link to the spreadsheet here: https://docs.google.com/spreadsheets/d/1Wt7uAgVYUEPzEqB5yMywuZi1SzqvQfldQ3DCHD77mCo/edit?usp=sharing.
+- MAKE A PERSONAL COPY for your own Google Drive so that you can retain your checked boxes. You don't have permission to edit the sheet, so your progress will not be saved unless you MAKE YOUR OWN COPY!
+  - To do this, click on File->Make a Copy. This opens the "Copy document" dialog box where you can name the sheet and specify where it gets stored. Press the "Make a copy" button to save it. This will open the copied sheet in a new tab. You are now ready to mark your progress!
+
+<br>
 
 ![Cloud faces the party as they are about to descend toward the center of the planet and Sephiroth, stating "All right, everyone, let's mosey."](https://i.imgur.com/taza9GH.png)
 
