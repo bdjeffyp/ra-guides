@@ -33,6 +33,7 @@ As with other role-playing games, Dragon Quest VIII will push you into situation
 ***TODO***: Add the sources I used and any shoutouts to the RA community here.
 
 Guide: https://gamefaqs.gamespot.com/ps4/191202-final-fantasy-xii-the-zodiac-age/faqs/78871
+Roostalol's RNG manipulation for Seitengrat video, with detailed explanation: https://www.youtube.com/watch?v=oyjzj_cN6Ic
 Agnam's RNG manipulation for Seitengrat video: https://www.youtube.com/watch?v=R_aQNBo9PAQ
 
 ## Trivia
@@ -711,6 +712,15 @@ I'll focus these notes for now on the achievements that take place between the s
 
 **Blood Dancer**: This unlocked as soon as I hit the 500 enemies defeated point.
 
+**Spellsinger**: This unlocked as soon as I hit 200 spells used.
+
+### Some Mechanics Notes
+
+- You can force a character to be a Tank type by casting Decoy on them. This Green Magick spell becomes available from the Clan Provisioner when you have completed two hunts (generally Rogue Tomato and Thextera are the first two).
+  - Having the Bubble Belt or casting Bubble on the decoy'd character makes them even more tanky by doubling their HP!
+- While the chance for a character or enemy to do a combo is based on the RNG position, the number of attacks done in a combo is weighted by the remaining HP a character has. The lower the HP, the greater chance of doing higher combos. Being HP Critical can net you 8 or more hits in one attack!
+- Putting Reflect on your party members and using attack spells on the party will hit nearby enemies with that spell three times in one cast. Having two party members slinging spells at your party brings that up to six. Seems like a good strategy for bosses that have elemental weaknesses!
+
 ### A Treaty Signed With Steel ➡️ Exit Stage Right
 
 For RNG manipulation using Reks, while going through the prologue, you'll come across a Save Crystal. Use it and set aside a save slot for Reks in the prologue. Make the save after passing the room with the Save Crystal and Reks tells Basch to head toward the King while he handles the soldiers approaching from the back. You'll use this save to set up RNG for other saves using the [RNG Helper](https://github.com/blakehartley/RNGHelper/releases) tool. You can use the other party members in other saves as well, but it sounds like Reks makes things easier. Keep a save handy just in case. When you need to use Reks for RNG manipulation, you'll load the save and then head downstairs from the Save Crystal where soldiers spawn infinitely to get the values you need to record into the RNG Helper tool.
@@ -781,6 +791,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 **New and Exciting Ways to Kill a Man** (Challenge): Our first real boss and challenge! When you reach Garamsythe Waterway: Central Waterway Control, turn off all gambits on all characters, including your guest, and then make use of the Save Crystal. The battle does not present a primed achievement indicator unfortunately. Once ready, enter the door to the north to the boss fight against Firemane. It's time to mostly fight like a traditional turn-based RPG.
 - Cue up commands as they are being executed by a character. Attack will be your most frequent, for sure, but that command will auto-queue after use. If you happen to have a Water Mote, this might be a great opportunity to make use of it. If anyone has access to Blind, that can be helpful as well. As Attack commands continue, be ready to use items or Cure spells to heal up.
 - When Firemane teleports, your characters will sometimes stop their actions. Find the boss to continue the battle, requeuing your Attacks, other methods of dealing damage, or do more healing.
+- Want to do even MORE damage? Lure Firemane into the water on the ground in the area. Your attacks will be more effective while the water terrain effect is in place on Firemane. Thunder spells will be more effective too, though attacks should be more than enough for you.
 - Firemane has HP thresholds that will trigger it's use of the Bushfire skill: 80%, 50%, and 20%. Be ready to heal up as you reach these points on the boss' health bar. Also, remove poison status with Antidotes if that lands during the Bushfire (though it seems the chance of that happening is low).
 - It's probably not worth trying to steal from this boss. You are more than likely to get a Potion or Phoenix Down rather than the 3% rare steal of a Grimoire Togail. While the grimoire is needed for a bazaar item, you'll be able to get them later on.
 - After you win and the scenes play out, don't forget to turn your gambits back on as characters rejoin the party!
@@ -848,8 +859,8 @@ Reminder: Next level cap is 15 for the boss fight in the Lhusu Mines! Note that 
 
 **The Sky Sisters** (Side Quest): If you want to do the Seitengrat RNG manipulation, you'll need to have at least traveled in the passenger airships at least once as there is a cutscene that will play when you first board one that can affect your RNG position. So, this is a perfect time to kick off the Sky Sisters quest. To do so, board one of the flights and go speak to the Chief Steward. If it is Ann, she'll be hounded by a person named Rande, who seems to think you are some sort of rival love interest. This can be started at any time and you can't finish the quest yet, but if you are going for the Seitengrat, you may as well kick this off while trying to get past the initial flight cutscene.
 
-**Game Breaker (cont'd)**: The Bhujerba Aerodrome is now open for business. If you want to go for the Seitengrat, this is the best opportunity to do so, based on the video created by [Agnam](https://retroachievements.org/user/Agnam). Good luck and may the RNG be in your favor, manipulated or otherwise.
-- Again, reminder that the volume for the explanation is quite low, so make sure to turn your volume back down once you have listened to Agnam's explanation and try it out in-game.
+**Game Breaker (cont'd)**: The Bhujerba Aerodrome is now open for business. If you want to go for the Seitengrat, this is the best opportunity to do so, based on the video created by [Agnam](https://retroachievements.org/user/Agnam). You can also check out [a video by Roostalol](https://www.youtube.com/watch?v=oyjzj_cN6Ic) that provides a bit more context on how this RNG manipulation works. Good luck and may the RNG be in your favor, manipulated or otherwise.
+- Again, reminder that the volume for the Agnam's explanation is quite low, so make sure to turn your volume back down once you have listened to their explanation and try it out in-game. Roostalol is much louder so if you are having a hard time, use that video instead.
 - Get the [RNG Helper application](https://github.com/blakehartley/RNGHelper) that is shown in the video. Unfortunately, this may be only for Windows systems. Hopefully there is a similar application out there for other platforms or this one may already work in Linux (Android devices might be out of luck unless someone ports it over some day or you have a PC or something that can run it...).
 - Have a save file from the prologue with Reks and a file at Bhujerba Aerodrome. Your save at Bhujerba Aerodrome should have done at least one passenger flight already to avoid the unskippable cutscene that will play once you are on your maiden voyage.
 - By default, the Character Stats section is already filled out with Reks' stats. Double check it. If it is different, update the values in the RNG Helper application, close the game and restart it, loading the Reks save one more time.
@@ -866,12 +877,26 @@ Reminder: Next level cap is 15 for the boss fight in the Lhusu Mines! Note that 
 - Tell Reks to cast Cure on himself. Record the value of HP restored in the "Last heal" text box and press the Start button on RNG Helper.
 - For continued casts of Cure, update the value of HP restored in "Last heal" if it doesn't match and press the Continue button.
 - As you press Continue, the RNG position table will update to where it thinks you are at based on the Cure values you provide it. If you are far away from RNG position 544, have Reks attack himself and press the Consume button for each successful attack to advance the position by 11 spots. If I got a combo hit or a block, that seemed to mess up my RNG position and I needed to start the search over again. I wouldn't reset the whole thing, I'd just use the new unexpected heal value and press the Start button to start a new search. Make use of the Save Crystal as needed to restore HP and MP as you do this. Once you think you have your RNG position confirmed, use Cure again to verify that the number of HP gained matches what is shown in the "Last heal" text box.
+- If you have Reks attack himself when the "Combo after punch #" value says "0", Reks will combo himself and either die or throw off your RNG position. So if you see a 0 there, use Cure magic to get past that RNG position rather than attack.
   - One funny bit in Agnam's video is when Reks combos himself. If that happens to you, unfortunately you'll have to start over again. I hope that is a rare occurrence and Agnam's reaction suggests that it is.
   - Having Fast CDVD Loading on seems to affect the starting RNG position. If your starting position is above 544, toggle your Fast CDVD Loading setting in PCSX2 and try again.
+  - In my own personal struggles with this, I was constantly finding Reks blocking after a chain of cures and attacks which would completely throw off my RNG tracking because I don't know how much a block consumes, but it DOES consume because my Cure values would no longer be tracking the same. So, after starting with Cures to find my starting position, I would have Reks attack himself for as long as I could, using the Save Crystal when health got low enough, until I got close to the 544 position or the "Combo after punch #" value said "0". Then I would Cure the rest of the way.
 - The green rows on the table are the RNG positions used. So, you are looking for the last green row to be Position 544, meaning that the very next position will be 545, which is what will net you the Seitengrat.
 - Once at the correct position, pause the game by pressing Start on your controller and Quit to Title by pressing the Square button and confirming.
-- Now you will be loading your Aerodrome save and performing specific actions quickly. I will leave that part to the video so you can see how Agnam positions Vaan and the quickness of the actions. It'd be hard to explain here in text. If it doesn't work, practice makes perfect. Try to mimic the actions in the video and then try again if it doesn't work.
-
+- Now you will be loading your Aerodrome save and performing specific actions quickly. I will leave that part to the videos so you can see how Agnam positions Vaan and the quickness of the actions. It'd be hard to explain here in text, but I will try. If it doesn't work, practice makes perfect. Try to mimic the actions in the videos and then try again if it doesn't work.
+  - As soon as select your Bhujerba Aerodrome save, hold up-left on the stick to run toward the desk where the Flights to Rabanastre attendant will load in. Stand slightly away from the desk so that the attendant will actually load (too close and they won't appear).
+  - Turn the camera so that you are looking back at the Teleport Save Crystal, the attendant's desk to your left, and the center of the walkway. As soon as the City Parijanah loads in the center of the path, pause the game for about 10 seconds or so (some say 3-4 seconds, I paused longer) to ensure that the attendant loaded in.
+  - Hold the left stick in the direction of the desk, unpause, and spam the Circle button until your flight is confirmed and the screen goes black.
+  - Quickly skip the cutscene of the airship departing.
+  - Continue to mash Circle while holding up on the left stick as the Chief Steward talks to you over a black screen.
+  - As the scene on the sky ferry's Observation Parlor comes into view, you'll be moving up the stairs. Take a left and continue up the next step of stairs, turning the camera to follow behind Vaan.
+  - Once against the door that leads outside to the Air Deck, continue walking forward and press Circle to open the door on the second step. This delay to open the door is critical to ensuring that the invisible chest appears.
+  - Hold up-left on the left stick to go around the wall to get to some stairs. Head up the stairs long the center and keep walking until you, hopefully, run into an invisible chest.
+  - Position Vaan next to the chest and equip the Diamond Armlet if not already equipped.
+  - Begin to observe two NPCs: a person walking around in a green tank top, and a person walking up and down the stairs you just climbed that is in red and black clothes. The behavior of these NPCs will help you time opening the invisible chest to guarantee the Seitengrat:
+    - The red NPC must go up and down the stairs twice. When they descend the second time, now you will keep your eyes on the green NPC.
+    - The green NPC will come to a stop of the lower right corner of the emblem on the ground. They will then turn away from you and walk toward the upper right corner of the emblem. On that NPC's 3rd step, press Circle to open the invisible chest. That should be your Seitengrat! Have fun breaking the game, if you wish.
+- One thing to not forget (which I kept forgetting...) is that you make sure Vaan has the Diamond Armlet equipped. You can do this on the ferry airship while standing next to the chest if you wish. If you don't equip it, the chest will spawn but it will give you a Knot of Rust instead.
 
 **The Cry of Its Power/No One Likes My Pets, Kupo...** (Hunts/Side Quest): If you got the Rocktoise quest from Montblanc, you can find Pilika in Bhujerba: Skygrounds to accept the quest. If your levels are low, especially for the Ba'Gamnan level cap, it may be a bit tough to defeat this right away. You could grind a bit in Lhusu Mines as you make your way toward Site 2 for the hunt, but keep the next level cap of 22 in mind and that you will have some fights coming up after your meeting with the Marquis. Rocktoise is level 16, so around there should be a good target.
 - General strategy:
@@ -879,3 +904,31 @@ Reminder: Next level cap is 15 for the boss fight in the Lhusu Mines! Note that 
   - Get the tank up to Rocktoise as the primary attack to draw its aggro toward the tank. Meanwhile, your healer's gambits should be set up for them to be slinging cure spells or Potions/Hi-Potions frequently. The healer should also be prepared to recover any status effects on the party (if you don't have gambit slots, just issue the commands manually). Finally, your DPS will be primarily attacking with their gambit setup, typically by targeting the foe the tank/party leader is attacking.
   - Rocktoise will start increasing its attack frequency when around 30-20% HP remaining. This is a perfect time to unleash quickenings to deplete the remaining health.
 - Once defeated, return to Pilika to get your reward and complete the hunt, awarding **The Cry of Its Power**. Talk to the moogle again to start the side quest, where they hand you a Merchant's Armband. No matter what you decide to do while retrieving the diary they ask you to get, respond with "I've done nothing." to Pilika to get the better prize and the **No One Likes My Pets, Kupo...** achievement.
+
+**Marauder in the Mines** (Hunts): You can also take this hunt on as you head into the mines to defeat the Rocktoise if you wish. Talk to Aekom near the mine entrance to start the hunt.
+- Nidhogg will be at Lhusu Mines: Transitway 1 near the main split path. You'll probably see the giant blue snake as soon as you enter the zone. Using the Tank, DPS, Healer combo will continue to aid you here. Note that the healer may have trouble keeping up with Cure spells if that is all that's available so supplement by the tank using Hi-Potions or Potions. It's also a good idea to have a gambit for treating poison, though if you don't have the slots available, feel free to manually use Antidotes.
+- Nidhogg is weak to Fire! You probably have the Fire spell, AND you may even have the Oil spell! Make use of that weakness and the 3x damage boost from Oil.
+- As with other hunt monsters, Nidhogg will increase attack frequency, physical power, physical defense, and speed as it's HP gets low.
+- After your victory and talking to Aekom again, the Seeq will give you a Great Serpentskin. This item is needed for the **Covered Up In Flowers/Treasure Hunter Mog** quests! DO NOT SELL IT!!!
+
+**Cartographer (cont'd)**: After going to see the Marquis and a bunch of cutscenes, you'll be onboard the Leviathan, receiving the map of the area.
+
+**Spellsinger** (Sky Pirate's Den): I unlocked it while onboard Dreadnought Leviathan but you mileage will vary depending on how much you are using spells.
+
+### Proof of Royal Lineage ➡️ Power of Dawn
+
+**Tale of the Forgotten Grimoire** (Inventory? Side Quest?): When you buy your first Forgotten Grimoire from the bazaar, this will unlock. I happened to buy my first one after doing a bit of grinding of skeletons in the Lhusu Mines after the events on the Dreadnought Leviathan and selling the loot. 
+
+**Ivalice Explorer (cont'd)**: After checking in with the Marquis and the cutscenes that follow, you'll be at Dalmasca Westersand: The Western Divide. Touch the Teleport Save Crystal to register a new teleport spot.
+
+**Sister's Path (cont'd)** After leaving Bhujerba finally, ready to head to Raithwall's Tomb, you can return to Rabanastre to respond to the next thing  discusses. To stay on the path toward the Runeblade, when Ktjn says, "I knew my choice would bring hardship, yet...", respond with "You should've thought it through."
+
+**Of the Highest Grade!** (Side Quest): I hadn't done the Cluckatrice hunt yet so I made my way back to Giza Plains and the giant dusk crystals were shining again. Talking to Masyua will let you charge up a new sunstone. All you need to do is go around to the shining dusk crystals again (marked on your map as well). When you charge your sunstone, the dusk crystal goes dark and the opposite crystal on the other side of the plains will light up. You can either circle around the zones to charge your sunstone to 100%, or you can go back and forth between two alternating stones. Either way, once at 100%, return to Masyua again and give the sunstone to her to get the reward and the achievement. As the description states, make sure you have the room for the reward. I assume this is due to how the set developer determined that the sunstone was fully charged.
+
+**Little Love on the Big Plains** (Hunts): The Cluckatrice and its three Chickatrices are a tough fight at lower levels. I waited until after Bhujerba so that I could have higher levels, better weapons and armor, and more skills to work with before the fight. To get the mark to appear, you must clear out all of the fiends in Giza Plains: Gizas North Bank. Once done, leave the zone (if you go back to the village you can save just before hand) and return to find one of the Chickatrices. If you attack it, the Cluckatrice and other chicks will join in on the fight!
+- First thing prior to engaging is to ensure that you have adequate defenses on your tank and make sure that they engage first. If you are using a spellcaster, make sure that you don't use Aero type spells if you have them. They are weak to Earth spells, but you may not have them this early. With all of these enemies, expect to be taking a ton of damage quickly. Make sure you have a dedicated healer.
+- Quickenings can be very useful. Once all of the marks are gathered around, let loose! I would recommend targeting the Cluckatrice since it has the most HP. Getting a decent chain could nearly or completely take it out and do decent damage to the chicks to make wiping them up easy.
+- The Cluckatrice can cause a variety of status ailments. If you have unlocked Remedy Lore licenses, you probably have a few vials of Remedy by now to clear up Petrify or Slow statuses.
+- The Cluckatrice will attack much more quickly at less than 20% health so if the quickenings and follow up Concurrence doesn't eliminate it, finish the job quickly.
+- Of course, you may have Seitengrat by now as well. I won't mention it any more after this, but there is no restriction for using it with the Hunts. So, feel free to go wild with it, I guess. 🤷‍♂️
+- After turning in the hunt results and getting the reward (and achievement), sell the Rainbow Egg to unlock a Hi-Potion Pack in the bazaar. A worthy investment!
