@@ -369,14 +369,15 @@ For the most part, job selection doesn't matter too much other than making your 
 - Vaan: Monk
 - Penelo: Black Mage
 - Balthier: White Mage
-- Fran: Red Mage
+- Fran: Red Mage (Highly recommended for the **Ward of the Wood** challenge)
 - Basch: Knight (I've seen people use Archer, but I went with Knight for a second Tank)
 - Ashe: Samurai
 
 An issue with this particular setup is the achievements requiring use of the Poach skill. Poach is easily accessible on the license board for the Uhlan, Machinist, Time Mage, and Archer. It is also available for Black Mage if that job is assigned to Vaan, Balthier, or Fran because they naturally have the Steal license. Since I used Penelo for Black Mage and none of the other jobs were assigned in my party, I **MUST** give Penelo the Zalera summon in order to access Steal and then Poach. The only affect of this that I see is Vaan losing access to Traveler and Ashe can't get the Blood Sword licenses because of this.
 
-***TODO***: If I see any other potential gotchas with achievements and the jobs, write about them here.
+Fran is a particularly tough choice because her stats are lower than everyone elses so no jobs are particularly suited for her over any other. This is why I felt Red Mage made the most sense with her as that class typically is known for being a "jack of all trades but master of none". Turns out that Red Mage or Black Mage is an ideal choice for the **Ward of the Wood** challenge. Of course, there are other ways to handle this challenge that people have discussed in the achievement's comments and I'll bring them up there.
 
+***TODO***: If I see any other potential gotchas with achievements and the jobs, write about them here.
 
 ### Sky Pirate's Den Notes
 
@@ -417,7 +418,7 @@ The first achievement to unlock will be **A Treaty Signed With Steel** for compl
 - Vaan: Monk
 - Penelo: Black Mage
 - Balthier: White Mage
-- Fran: Red Mage
+- Fran: Red Mage (highly recommended for a later challenge)
 - Basch: Knight
 - Ashe: Samurai
 
@@ -485,7 +486,11 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 
 **Cartographer (cont'd)**: After defeating the three Seeq bullies in Nalbina Dungeon: The Arena and the scenes, you'll be in Confiscatory, where you'll get your equipment back as well as the map of the location.
 
-**Hold All the Cards** (???): Once in Barheim Passage: The Lightworks, you'll find your first merchant that sells gambits. Convenient! Even better, there is a guaranteed chest that contains 2510 gil in the alcove to the right from where you first appear in the area. Buying all available gambits from the merchant costs 2000 gil. Even more convenient! These gambits will be available at other gambit shops and merchants so you don't have to get them all now, but it certainly can't hurt and you probably have more than enough money to spare at this point. You probably have a lot of loot to sell as well. The journey to getting all of the gambits begins!
+**Hold All the Cards** (Characters?): Once in Barheim Passage: The Lightworks, you'll find your first merchant that sells gambits. Convenient! Even better, there is a guaranteed chest that contains 2510 gil in the alcove to the right from where you first appear in the area. Buying all available gambits from the merchant costs 2000 gil. Even more convenient! These gambits will be available at other gambit shops and merchants so you certainly don't have to get them all now, but it certainly can't hurt and you probably have more than enough money to spare at this point. You probably have a lot of loot to sell as well. The journey to getting all of the gambits begins!
+- Regarding getting ALL of the gambits, once the rest of them are accessible after escaping from Barheim Passage, you'll see prices range from 50-500 gil per gambit.
+- Ideally, you'll want to focus on getting those that will see the most use in these beginning chapters. Don't sweat purchasing more than you need, or the rest of them, until you have too much money to know what to do with it all. This can be a late game/post game unlock.
+- **Total number of gambits:** 249
+- **Total cost:** 27,410 gil
 
 **Arrive To the Mist** (Characters): This can be unlocked at any time when a character has a job license board, but I got my first one in Barheim Passage.
 
@@ -671,6 +676,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - If you need to swap out party members for some reason, make sure to ADD a party member before removing! The achievement tracks if you have less that 3 party members in action, even while in the menu, and will disable the achievement if that happens.
 - Since the other party members can only use Potions, throw them judiciously at Vossler to keep him alive. Before the fight, look at your license board and unlock any Potion Lore licenses for your jobs if available to help increase their effectiveness. Make sure you have a full stock of Potions as well! Leave the tomb to restock if necessary. Party members can die freely and then you can swap in new one to keep the Potions flowing, just be careful doing so as described above. I had 89 in my inventory before the fight but I left to go save and get the remaining 10, just in case. Dyce, the merchant you meet in the Sandsea will be at the tomb's entrance to buy more supplies. By the end of the fight, I had used 55 Potions.
 - Keeping your other party members alive to throw potions is secondary, since you have three backup characters. However, it may be a good idea to have the highest HP party members out initially. If everyone is alive, that's more License Points for them all.
+- ***NOTE***: I apparently misunderstood and didn't realize that Vossler could still have gambits on until I got to the Tiamat fight for **Beast My Guest II**. Whoops!
 
 **Privateer** (Sky Pirate's Den): I got this while stocking up on Potions and selling loot at Raithwall's Tomb. Selling at least 1000 loot will unlock the Migelo statue in the Den.
 
@@ -684,7 +690,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 
 ***Level Cap Reminder***: Level 30 for the next two bosses. You will have a guest character for both of these fights and they will join at a higher level than your party (average level of the two highest level characters + 2 levels).
 
-**Passage of Death/Thief of the Sand Falls** (Treasure?): After the events that result in the **Power of Dawn** achievement and you regain control in Rabanastre, the primed achievement marker appears for **Passage of Death**. However, BOTH of these achievements must be earned prior to seeing the Garif War-chief. The **Thief of the Sand Falls** primes only in the room that they can spawn in at Zertinan Caverns. So keep both of these in mind before events that require speaking to the Garif War-chief.
+**Thief of the Sand Falls/Passage of Death** (Treasure?/Stealing?): After the events that result in the **Power of Dawn** achievement and you regain control in Rabanastre, the primed achievement marker appears for **Passage of Death**. However, BOTH of these achievements must be earned prior to seeing the Garif War-chief. The **Thief of the Sand Falls** primes only in the room that they can spawn in at Zertinan Caverns. So keep both of these in mind before events that require speaking to the Garif War-chief.
 
 **A Scream from the Sky** (Hunts): The Wyvern Lord is in Nam-Yensa Sandsea: Simoon Bluff, an optional area with some good gear on top of this mark. You could do the fight before The Tomb of Raithwall (and Vossler will be helpful with his Telekinesis technick) but if levels are close to cap, like mine was, you may want to wait until afterword. There are a lot of other enemies in the region that will like to butt in while fighting the Wyvern Lord and their experience points may push you over. As for the fight, you'll want to use characters that can hit airborne enemies: ranged fighters, magic users, and pole or spear wielders. Quickenings can help as well. If you don't have a lot of ranged attackers, make one that can't hit a tank using Decoy to avoid the mark from picking on your magic users. Sleep is a good status effect as well. Set up a party of magic casters and one with a gambit that casts Sleep whenever it wears off and you'll stun lock this fiend until it's dead. Just don't cast Aero or you'll heal it.
 
@@ -708,6 +714,24 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 
 **Treasure Hunter Mog (cont'd)**: Return across the river yet again and speak to Dantro's Wife once more to finally deliver the Valeblossom Dew and Great Serpentskin. Head out of the village and return to speak to her yet again. Head behind her house once again and find the moogle that you have helped cure. If you found all of the ingredients that Dantro's Wife needed, you'll get the Barheim Key, a Golden Amulet, and the achievement. If the moogle doesn't appear right away (Dantro's Wife says they should be recovering soon rather than fully healed), go back out of the village and wait a bit before returning.
 
+**Passage of Death** (Stealing?): With both the Thief's Cuffs and the Barheim Key, you are prepared to try to get the Deathbringer. The weapon is stolen from the rare game Ithuno in Barheim Passage: Special Op Sector 5. The fiend is similar to the Mimics in that it will appear as a treasure chest. It has a 20% chance of spawning at the end of the zone, nearby the one-time Arc Scale chest and directly next to a 90% spawning chest that may contain an Aero Mote or Glacial Staff.
+- From Dalmasca Estersand: South Bank Village, head to the locked door that leads to Barheim Passage, found in the Murmuring Defile zone. Use the Barheim Key to unlock it and you'll be back in Barheim Passage: The Zeviah Subterrane. Proceed to Special Op Sector 5 via Great Central Passage's southwest exit.
+- Be aware that the enemies in this zone will greatly exceed your current level and will take you out in one or two hits. Just run!
+- Make your way to the end of Special Op Sector 5 and hope that the mimic chest is there. It'll have a purple body with silver sides compared to the normal brown and gray chest color. You'll see it directly behind a bolder on the train tracks.
+- There is a high level Suriander (frog enemy) that hangs out directly near the mimic chest.
+- Some good preparation can make this go more smoothly:
+  - Tank: Set them as the party leader. As your highest defense character, they should be attacking the Ithuno to keep aggro on themselves while your stealer is busy. Add gambits to throw Hi-Potions and Ethers if necessary.
+  - Healer: Set up gambits to cast Protect on the whole party. It's not a huge defense boost, but it will keep the party alive a little bit longer to get healing done. Set up Cura casts at a higher HP threshold than normal. I used less than 60% HP to keep the Cura flowing.
+  - Stealer: Ensure they have the Thief's Cuffs equipped! Their ONLY gambit should be to steal from whatever foe the party leader is targeting.
+- After running in and seeing if Ithuno is even spawned, use the corner away from the tortoise and the Suriander by Ithuno where your healer can prep Protect on everyone and heal up if any damage was taken on the way in. You should draw no aggro in this corner, nor should your party end up targeting any monsters in this spot.
+- Attempt to interact with the Ithuno chest to start the stealing process while the Suriander is not looking. If you do draw in the Suriander, run back to the corner and it should pull back, along with the Ithuno.
+- Once the Ithuno and ONLY the Ithuno is targeting your tank, the stealing should commence. With Thief's Cuffs, the steal chance is 6% so it may take a while.
+- If it is taking long and MP is getting drained (or if you want to be preemptive about it while your Protect is up), try to lure Ithuno toward the zone exit. This is tricky because of the other monsters along the way and Ithuno may try to run back if aggro is not maintained. The tank should be able to continue maintaining attacks while you also pull back and the healer tries to keep everyone alive.
+  - The goal of drawing Ithuno to the exit is so that you can zone out, heal and buff up without dealing with taking damage, and then zone back in where Ithuno will be waiting for you to continue stealing from.
+- In my own attempts at this, I struggled initially just trying to run in there and steal as I was getting wiped by the Ithuno and Suriander. I came up with the formation and gambits above to try to do a sustained stealing session with the intent that I'd just get the achievement and then reset. Once I set up my party of Basch, Balthier, and Fran with the above and drew the Ithuno into the safe corner, Fran stole the Deathbringer in three attempts! As soon as I heard the achievement, I booked it out of there and got to keep the thing without burning through a ton of resources. I hope others are just as lucky with this as I was but hopefully this strategy helps with making this a bit easier to deal with.
+
+**Ivalice Explorer (cont'd)**: With Barheim Passage accessible again, make sure to touch the Teleport Save Crystal in the North-South Junction to activate this teleport spot.
+
 **The Bhujerba Madhu Man** (Side Quest): Completing this little quest that has no impact on the game will enable you to make some money as well as enter all of Bhujerba's zones for the **Cartography** achievement. The goal here is to find all of the bottles of Bhujerban Madhu around the city and give them to people who want them to earn 1000 gil per bottle. I'll list location, where the bottle is found, and who wants to buy it. For the achievement, you do not have to have all of the bottles in your possession first. Feel free to sell them as you find them. You can sell another bottle to the same seller if you leave a zone and reenter to reset their status.
 - Aerodrome: Bottle is on suitcases north of the Save Crystal. The buyer is sitting on railing talking to imperials right nearby.
 - Armor shop: Bottle is in a partially open cupboard by the store merchant. Sell it to the Shop Clerk standing in front of the counter (right next to the cupboard).
@@ -723,3 +747,83 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - The Staras Residence: Bottle is just right of the entrance, on some boxes behind a large dresser. You can sell it to Niray, but you can't sell it to her until later. Perhaps you can sell it to one of the others who wants to buy bottles.
 - Cloudborne Row: Bottle is just south of the Staras Residence on some boxes in the dead end alley. Sell it to the Cloudborne Patron hume standing over a collapsed bangaa.
 - The Cloudborne: The final bottle is on a table with two women, one with her head on the table. The achievement unlocks once you pick it up. You can sell it to Magu, a seeq sitting among a bunch of urns in an alcove of the tavern near the entrance.
+
+**Show Off I and II (cont'd)**: While traversing Giza Plains during the Rains, there is a 20% chance of the Rain Dancer rare game spawning in a few of the zones. I found it in Toam Hills just south of the bridge where a Gigantoad was sleeping.
+
+**Paradise Risen** (Hunts): While you are probably not ready to defeat the Gil Snapper yet, you can certainly prepare to access the location it is in while making your way around Giza Plains by knocking down withered trees. There are six trees in all the Giza Plains zones except for Gizas South Bank and Warrior's Wash. Knocking all of them down lets you reach Tracks of the Beast. I'll be tackling Gil Snapper later. I have knocked down four of the trees, leaving only the ones in Gizas North Bank and Crystal Glade since I didn't go to those zones while hunting the Croakadile.
+
+**A Ring in the Rain** (Hunts): Since the Rains are currently active in Giza Plains, this is a good time to tackle the Croakadile. Find the quest giver in Nomad Village near the cockatrice pen to start the quest. Travel west and south to Starfall Field. Cross the bridge and head east until the Croakadile jumps out of the water and begins to sing...
+- It starts off with Shell and Bravery and uses the Angelsong skill as it's first move, giving itself Regen. If you cast Dispel (or use a Dispel Mote), it'll remove all of the buffs and then keep trying to reapply Regen. You could keep it locked in this state for a while.
+- Once about halfway down, it increases in strength with Growing Threat but it isn't too terrible with it's increased damage output. Throw Hi-Potions and cast Cura as needed while keeping up with dealing damage.
+- Return the Ring of the Toad and you'll get your reward, achievement, and asked to return the ring to its owner later.
+
+**Hunter of Monsters I** (Bestiary?): If you haven't unlocked this achievement before entering Ozmone Plain, you more than likely will then. As with some of these other bestiary type achievements, experiences will vary for when you unlock them.
+
+**Cartographer (cont'd)**: You can get maps for Ozmone Plain and Jahara from a Cartographer's Guild moogle near the chocobo stable in Jahara. You still have to enter every zone in these areas, but the maps will make things easier.
+
+**Thief of the Sand Falls/Passage of Death (cont'd)**: Reminder that these must be completed prior to continuing into Jahara as you will meet the Garif War-chief upon trying to cross the bridge.
+
+**Ivalice Explorer (cont'd)**: Another Teleport Save Crystal is at the entrance into Jahara. Interact with it to register the location.
+
+**Beast My Guest II/Ward of the Wood** (Challenge): After the events at Jahara, Larsa will join as a guest (average of the two highest character levels + 2 levels). My Larsa joined at level 23, as a point of reference. Now you will want to keep an eye on Larsa's level for these two boss challenge achievements. Don't let him reach level 31!
+
+**The Defense of Ozmone Plain** (Hunts): Speak to the petitioner in Jahara to start the hunt and then head to The Shred. Enkelados shouldn't be too difficult for a party with levels in the low 20s.
+- It starts off with Protect and Shell. You can Dispel these if you wish and Enkelados may occasionally reapply these buffs., but not necessarily as aggressively as Croakadile did.
+- This mark seems to just use physical attacks, dealing more damage as it's health drops. It also uses a multihit physical skill called Spinkick.
+- It can cure itself with the Restore skill up to three times.
+- My strategy was to use Larsa's Bubble spell and Decoy from any other caster on my tank to keep Enkelados off of my magic user, who was using the Aero spell. Everyone else was doing physical attacks and curing as needed. I could have used Dispel but it wasn't really necessary. It only healed itself once and tried a second time before I killed it.
+
+**Soul Mate Matchmaker** (Side Quest): A little quest that you can handle at any time after having visited Jahara for the first time. In Rabanastre: Southgate, speak to the viera at the chocobo stables. You'll know you are talking to the right one when the title during her text box says, "Wandering Viera". She walks off toward Southern Plaza. Follow after her and speak with the hume on the north side of the fountain, labeled as "Lovestruck Man". He says that he saw a viera that looks like the one that he fell in love with that went into East End. Follow after her (this is creepy...) and you'll not find her there. She actually went to the gambit shop in North End. After speaking with her, the wandering viera wanders off again, this time to The Sandsea. Speak to her twice more (she's sitting on the railing upstairs). Now run back to Lovestruck Man and agree to be his matchmaker. Return to The Sandsea once more to let her know and then go back to the fountain to get the viera's bow and the achievement. Good job, Cupid!
+
+**Cartographer (cont'd)**: There is a map urn in Golmore Jungle: Paths of Chained Light, the first zone you'll enter. You won't be able to enter all zones in the region just yet, but the map will help you track it later.
+
+**Show Off I and II (cont'd)**: The rare game Midgardsormr has a 20% chance of appearing anywhere in the zone when entering it. If you wish to take it down now, it may be easier to clear out the enemies in the zone first and then just rezone and pass through quickly to see if it spawned while the enemies are gone. It's probably best to wait for this until later, unless you get lucky and it shows up on your way through, since Larsa will gain levels quickly and approach the level cap before you know it.
+
+**Cartographer (cont'd)**: Upon entering Eruyt Village speak to the moogle Lulluce to buy a map of the town. You will be visiting all of the zones while you are here.
+
+**Ivalice Explorer (cont'd)**: New village, new Teleport Save Crystal. Touch it and be registered.
+
+**Cartographer (cont'd)**: The map urn for The Henne Mines is in the Phase 1 Shaft zone, but you have to press the Gate Switchboard button in Pithead Junction A to open the gate to access it. Be cautious of the Jelly ambush after pressing the switch. You don't want to gain too much XP on Larsa before these two upcoming boss fights! Again, the map will be helpful in ensuring all zones are entered.
+
+**Ivalice Explorer (cont'd)**: Another Teleport Save Crystal is placed just before the Tiamat boss fight in the Henne Mines. Make use of it to register the spot as well as save.
+
+**Beast My Guest II** (Challenge): This is the first of two boss fight challenge achievements with a level 30 cap.
+- It has the same restrictions as the fight with Belias: Party members must have gambits off (Larsa can still use gambits), always have three party members active (though they can die), party members can ONLY use Potions, and Larsa does everything he can to take down Tiamat.
+- Since there is a teleport spot just before the boss, make use of it to max out your stock of Potions and get a handful of Gold Needles as well.
+- Once you take the northern exit into the boss' arena, you'll see the primed achievement indicator if you met all of the conditions.
+- At the start of the battle, make Larsa the party leader. Keep moving him around so that he can regenerate MP during the course of this long fight.
+- Larsa has the Focus augment, increasing his strength by 1.5x when his HP is full. If Tiamat is focused on another character, it may help cut down on the time of the battle to try to top up Larsa's HP so that he does more damage.
+- Take advantage of Larsa's Balance spell, especially when combined with Bubble. If Larsa is getting targeted and is at about half HP, use Balance to do a bunch of damage to Tiamat AND force the boss to cast Reflect. This gives you time to get Larsa's health back up. Just be careful to not let Larsa get too low on HP because Tiamat can do combo attacks on occasion and will decimate any character who's HP is too low. Once Reflect wears off, feel free to repeat the above when the opportunity presents itself. It may not be as possible to use this when Tiamat's health gets low though due to Tiamat's script changes.
+- Tiamat will use Breath twice during the battle as its HP passes 40% and 20% thresholds. This will most likely inflict Sap on everyone except Larsa because of his Tourmaline Ring. Because of Breath happening twice, it may be prudent to try to keep the initial party members alive until the second Breath. This will ensure that the second group of characters don't get afflicted with the condition.
+- Before swapping in your second team of characters, make absolutely certain that they have their gambits turned off before exiting the menu... Don't be like me and have to start over because of this. Turn them off on everyone before the fight! Also, make sure there are always three active party members while swapping. Bring the inactive characters in first before removing the active party.
+- Disablega is, without a doubt, the worst part of this challenge. This will be the thing that causes a drain on your Potions the most as you try to keep Larsa alive with anyone who manages to not get afflicted. Hopefully you get lucky and Larsa will not get proc'd but it seemed to happen pretty frequently, lengthening the battle. The AI script states that Tiamat will use it when the opponents it wants to target are far away. However, I was standing right in front of the fiend along with the rest of my party and Tiamat was using it all the time... Maybe that was just bad luck on my part.
+- I did notice that Tiamat is, seemingly, lazy in its selection of character to attack. If someone is directly in front of the fiend, it seems to want to attack them more than others. You can use this to your advantage by swapping party leader to someone else with high HP and put them in front of Tiamat as a potentially appetizing snack. This can spread the wealth in HP reduction or focus it on one who may be better at guarding than others.
+- At 20% HP remaining, Tiamat's defense will increase as shown by Larsa's attacks doing about 60-75% less damage. Be on your toes for the remainder of the battle. Of course, Balance will still do the full amount of damage, as long as Reflect is off of Tiamat.
+- Achievement will unlock on the final hit. That was definitely a test of endurance... Now there's only one of these **Beast My Guest** challenges remaining...
+
+### A Pleasant Lie That ➡️ To Wield Power Against Power
+
+***Level Cap Reminder***: The cap of level 30 still stands with one more boss fight rapidly approaching.
+
+**Ivalice Explorer (cont'd)**: The number of teleport spots is getting larger. Interact with the newly accessible one in Golmore Jungle: The Parting Glade.
+
+**Ward of the Wood** (Challenge): And here is the other level capped challenge! For this challenge, on top of being less than level 30, only Fran and Larsa can participate in the fight with none of them dying. Larsa cannot have gambits on (but can use anything available to him). Fran cannot use espers or quickenings. Thankfully, the Save Crystal is nearby so you can prepare and try different things quickly to see how it works.
+- Prepare by ensuring Larsa's gambits are off, and putting at least Bubble on Fran and Larsa. If you have Protect available on Fran, that would be good to prepare as well. If you have Aero available on Fran, that would be the spell to have as your primary attack gambit. Aero/Aeroga Motes are a backup to Aero, if you happen to have any. If you have the Sleep spell on Fran, that should be used before your attack gambit, if you have spells available for attacking. Stock up on items to cure status effects like Smelling Salts for removing Confuse, Handkerchief for removing Oil, or if you have Esuna available, you could use that though it may be better to save MP for dealing damage.
+- When using spells, keep moving around the arena to keep your MP regenerating as long as you can. While Fran acts automatically with gambits, manually direct Larsa to use items or Shades of Black to support Fran. Keeping your distance, if possible, can also help potentially avoid the Sporefall skill when the Elder Wyrm uses it.
+- When Sporefall is used, recover from any status effects as necessary. Oil is particularly important to remove because if Elder Wyrm follows up with Fireball, expect to die.
+- Larsa should be focused on healing and perhaps trying to keep Elder Wyrm's focus with attacks or Shades of Black. You'll need to be attentive to Larsa being inactive and issue commands as the battle goes on. This is hard to do in fast forward, unfortunately, but if you can manage keeping Larsa active while in fast forward, by all means do so. With luck, Larsa's Shades of Black uses will produce things like Scathe, Flare, and Aeroga! If Fran is NOT a Red or Black Mage, then Shades of Black will probably be your primary means of dealing damage instead.
+- So, if Fran isn't a Red or Black Mage, there are some recommendations on the achievement's comments about what to do. The consensus is to get the Nihopalaoa accessory. This makes items do the inverse of what their intended action is. For example: throwing a potion will hurt the target rather than heal. For the Elder Wyrm, using Alarm Clocks on it will put it to sleep, guaranteed! Fran should then be trying to keep Elder Wyrm asleep while Larsa uses Shades of Black.
+  - To get the Nihopalaoa, you'll need to grind for loot to sell that will unlock it in the bazaar. You need to sell three Blood-stained Necklace, two Death's-Head, and three Leo Gem. Note that these all come from higher level enemies and will require stealing to avoid exceeding levels.
+    - Blood-stained Necklace: Shambling Corpse (found in Zertinan Caverns: Athroza Quicksands) rare steal or dropped from them if you have the Warmage's Monograph
+    - Death's-Head: Dark Skeleton (found in Golmore Jungle: The Rusting Chapel) drop with Warmage's Monograph, rare game Grave Lord's rare steal (found in same place after chaining the Dark Skeletons that appear there)...
+    - Leo Gem: Drop/steal from various dragons and dinosaurs. Wild Saurian is probably the most accessible to steal them from.
+    - As you can see, this is pretty ridiculous to do while trying to maintain low levels. It may be easier to just fight it out if you have a damage dealing Fran, or a Fran that blocks a lot can take point on tank duties while Larsa casts random black magic. You can grind Aero/Aeroga Motes from chests as well. There are options, but Nihopalaoa seems excessive to get.
+- Once the Elder Wyrm is defeated, we have a new level cap: level 32. It's not much of a difference, but Larsa won't be with us for the next one, so you should actually have more room.
+
+**Show Off I and II (cont'd)**: With the level cap lifted somewhat, you can try to take out the rare game Phyllo in The Branchway. It has a 20% spawn chance at the dead end on the west side or on the west side of the southern path. It's probably easiest to just rezone and check the western dead end until it shows up. Phyllo is a bat-like Redmaw enemy. Some sources mention that its appearance is based on wiping out the malboros in the area but that is not the case.
+
+**Ivalice Explorer (cont'd)**: Welcome to Mt. Bur-Omisace. New city area, new Teleport Save Crystal. Touch it and add this location to your collection.
+
+**Cartographer (cont'd)**: Another Cartographer's Guild moogle is here with maps for Mt. Bur-Omisace and Paramina Rift. Stock up and we'll eventually enter the associated zones.
+
+**Show Off I and II (cont'd)**: In Paramina Rift: Karydine Glacier, the rare game Anchag can spawn near the south center section of the zone if all enemies are defeated. Clear everyone out, including Wild Onions, then zone out and back in to find it wandering alone. It is a Dullahan type fiend.
