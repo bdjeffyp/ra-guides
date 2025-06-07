@@ -446,7 +446,6 @@ Upon gaining control of Vaan after returning to Rabanastre and seeing the cutsce
 **Wolf in the Waste** (Hunts): After all of the prep for getting the Gladius from the Lindbur Wolf, I was more than ready to take on Thextera. This fight could probably be easily done at level 4 or 5 even, though the Call for Help skill will add more wolves to the fight and make this a bit more difficult. Also, Thextera will become more evasive and counter more at half health. Just heal up if HP gets low and keep the press on to win. Return to The Sandsea to report success for your reward. Also, get the next hunt (Flowering Cactoid) from the Hunt Board.
 - After completing this hunt, you can find Gatsly has moved to Rabanastre: Muthru Bazaar, nearby the Clan Provisioner. Speak to them here and they'll mention that a new bazaar item is in stock for us to buy: a Forgotten Grimoire. This one, when purchased for 18,000 gil, will become the Hunter's Monograph. Purchasing your first Monograph will unlock the **Tale Of the Forgotten Grimoire** achievement. You may not have the funds to get this now (I sure didn't), but you'll get this and many others throughout the game to eventually get the **Epic of the Forgotten Grimoires** achievement.
 - There are several other monographs that you can unlock as well at this point if you wish:
-  - ***TODO***: Validate the translations of these names...
   - Knight's Monograph (19,000 gil): Speak to a weapon shop owner 30 times
   - Warmage's Monograph (20,000 gil): Check the Hunt Board 20 times
   - Mage's Monograph (21,000 gil): Talk to a magick shop owner 25 times
@@ -487,7 +486,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 **Cartographer (cont'd)**: After defeating the three Seeq bullies in Nalbina Dungeon: The Arena and the scenes, you'll be in Confiscatory, where you'll get your equipment back as well as the map of the location.
 
 **Hold All the Cards** (Characters?): Once in Barheim Passage: The Lightworks, you'll find your first merchant that sells gambits. Convenient! Even better, there is a guaranteed chest that contains 2510 gil in the alcove to the right from where you first appear in the area. Buying all available gambits from the merchant costs 2000 gil. Even more convenient! These gambits will be available at other gambit shops and merchants so you certainly don't have to get them all now, but it certainly can't hurt and you probably have more than enough money to spare at this point. You probably have a lot of loot to sell as well. The journey to getting all of the gambits begins!
-- Regarding getting ALL of the gambits, once the rest of them are accessible after escaping from Barheim Passage, you'll see prices range from 50-500 gil per gambit.
+- Regarding getting ALL of the gambits, once the rest of them are accessible after escaping from Barheim Passage, you'll see prices range from 50-300 gil per gambit.
 - Ideally, you'll want to focus on getting those that will see the most use in these beginning chapters. Don't sweat purchasing more than you need, or the rest of them, until you have too much money to know what to do with it all. This can be a late game/post game unlock.
 - **Total number of gambits:** 249
 - **Total cost:** 27,410 gil
@@ -678,6 +677,8 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - Keeping your other party members alive to throw potions is secondary, since you have three backup characters. However, it may be a good idea to have the highest HP party members out initially. If everyone is alive, that's more License Points for them all.
 - ***NOTE***: I apparently misunderstood and didn't realize that Vossler could still have gambits on until I got to the Tiamat fight for **Beast My Guest II**. Whoops!
 
+**A Song of Ice and Fire** (Challenge): A boss challenge later in the game involves going into the fight with Mateus using one character and Belias. Think about who you want to assign Belias to ahead of time (or even wait until just before the fight) so that you can decide which character would work best with your job, skills, and equipment.
+
 **Privateer** (Sky Pirate's Den): I got this while stocking up on Potions and selling loot at Raithwall's Tomb. Selling at least 1000 loot will unlock the Migelo statue in the Den.
 
 **Seething Mist** (Challenge): This fight requires that we have Fran in the party and don't use our new summon, any quickenings, and no deaths. Everyone should still be less than level 25 as well if you skipped back to the entrance after getting the Dawn Shard.
@@ -801,7 +802,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - At 20% HP remaining, Tiamat's defense will increase as shown by Larsa's attacks doing about 60-75% less damage. Be on your toes for the remainder of the battle. Of course, Balance will still do the full amount of damage, as long as Reflect is off of Tiamat.
 - Achievement will unlock on the final hit. That was definitely a test of endurance... Now there's only one of these **Beast My Guest** challenges remaining...
 
-### A Pleasant Lie That ➡️ To Wield Power Against Power
+### A Pleasant Lie That ➡️ Differences Between Our Lands Fades
 
 ***Level Cap Reminder***: The cap of level 30 still stands with one more boss fight rapidly approaching.
 
@@ -817,7 +818,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
     - Blood-stained Necklace: Shambling Corpse (found in Zertinan Caverns: Athroza Quicksands) rare steal or dropped from them if you have the Warmage's Monograph
     - Death's-Head: Dark Skeleton (found in Golmore Jungle: The Rusting Chapel) drop with Warmage's Monograph, rare game Grave Lord's rare steal (found in same place after chaining the Dark Skeletons that appear there)...
     - Leo Gem: Drop/steal from various dragons and dinosaurs. Wild Saurian is probably the most accessible to steal them from.
-    - As you can see, this is pretty ridiculous to do while trying to maintain low levels. It may be easier to just fight it out if you have a damage dealing Fran, or a Fran that blocks a lot can take point on tank duties while Larsa casts random black magic. You can grind Aero/Aeroga Motes from chests as well. There are options, but Nihopalaoa seems excessive to get.
+    - As you can see, this is pretty ridiculous to do while trying to maintain low levels. It may be easier to just fight it out if you have a damage dealing Fran, or a Fran that blocks a lot can take point on tank duties while Larsa casts random black magic. You can grind Aero/Aeroga Motes from chests as well. There are options, but Nihopalaoa seems excessive to get. Of course, it does seem other people have done this so it's certainly possible...
 - Once the Elder Wyrm is defeated, we have a new level cap: level 32. It's not much of a difference, but Larsa won't be with us for the next one, so you should actually have more room.
 
 **Show Off I and II (cont'd)**: With the level cap lifted somewhat, you can try to take out the rare game Phyllo in The Branchway. It has a 20% spawn chance at the dead end on the west side or on the west side of the southern path. It's probably easiest to just rezone and check the western dead end until it shows up. Phyllo is a bat-like Redmaw enemy. Some sources mention that its appearance is based on wiping out the malboros in the area but that is not the case.
@@ -827,3 +828,52 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 **Cartographer (cont'd)**: Another Cartographer's Guild moogle is here with maps for Mt. Bur-Omisace and Paramina Rift. Stock up and we'll eventually enter the associated zones.
 
 **Show Off I and II (cont'd)**: In Paramina Rift: Karydine Glacier, the rare game Anchag can spawn near the south center section of the zone if all enemies are defeated. Clear everyone out, including Wild Onions, then zone out and back in to find it wandering alone. It is a Dullahan type fiend.
+
+**Epic of the Forgotten Grimoires** (Bazaar? Items?) Once you have purchased the last of the Forgotten Grimoires in the bazaar, this achievement will unlock. I had the funds while grinding some equipment and levels in Paramina Rift so I purchased my last couple from a Mt. Bur-Omisace merchant. As always, there is no rush on getting these now unless you want to get them off of your bazaar list (like me!).
+
+**Ivalice Explorer (cont'd)**: The Stilshrine of Miriam has a Teleport Save Crystal just outside the front door. Use it and it'll be registered!
+
+**Show Off I and II (cont'd)**: The rare game Negalmuur can be found in the Ward of the Sword-King zone. To get it to spawn, kill the lone Darkmare in the zone standing in front of the stairs leading down to the Sword of Judgment. Leave the zone and wait for 30 minutes in-game while still in the Stilshrine. Yeah... After returning to Ward of the Sword-King, Negalmuur will be waiting for you. If your levels aren't too high, this may be the best time to take it on, but you can always do this fight later as well. Darkmare respawns if you save and reload the game, so the opportunity could be taken later. Negalmuur spawns in Ghasts which can result in gaining a ton of experience if the rare game isn't eliminated quickly so definitely don't do this if you are close to exceeding level 32. If you do plan to fight it, feel free to just fast forward in the room with the Crystalbug/Save Crystal, where no enemies will spawn, or explore the Stilshrine more and come back to the zone later.
+- Negalmuur will spawn near the Miriam Guardian and is a Nightwalker type enemy (giant skull with horns and massive claws).
+
+**Show Off I and II (cont'd)**: There is a secret passage through a fake wall to the west from where the Darkmare was at. Just walk along that wall until it disappears and climb the steps. At the top of all of the stairs is a secret room in the Cold Distance zone which has a bunch of traps as soon as you walk in. Head in with the Float status or take the traps anyway. Hopefully the rare game Matriarch Bomb is in there. If not, you'll need to clear out the Oilings in the room and then rezone and try again. I went in, got hit with Confuse and Berserk from the traps, and Matriarch Bomb was there. My team hit each other, removing the Confuse and then decimated the rare game with physical attacks. Take heed that you will face a TON of Oilings as you descend the stairs and possibly gain a level while taking them on so just run if you are too close to exceeding level 32 or come back for this later.
+
+**Cartographer (cont'd)**: You'll naturally go through all of the zones in Stilshrine of Miriam, but you may not fully uncover each zone, especially Walk of Reason if you are just trying to get through without battles. There is a map urn in Ward of Steel in the room with the rotating statue after the boss fight with Vinuskar.
+
+**A Song of Ice and Fire (cont'd)**: Make your way back to where the Sword of Judgment was now that the path is open to reach the Hall of Worth where Mateus is waiting. Prior to entering, you'll want to reduce your party down to only the character that has Belias. If you haven't assigned that esper to a character yet, now is the time! The challenge here, aside from the level cap and not dying, is to not use the attack command with your party member AND defeat Mateus with Belias' Hellfire (the esper's ultimate attack). The irony here is that Mateus and his Ice Azers have resistance to fire attacks.
+- With my setup of a Samurai Ashe having Belias, it was trickier than I expected. I ultimately ended up "brute forcing" this challenge. I opened by summoning Belias, taking control of him, and physically attacking the Ice Azers with him. Once all Ice Azers were killed (they need to be or they'll start healing Mateus with Curaga as he gets to half HP), I let Belias control himself as he used Painflare until he would leave with a Hellfire. With my Ashe at level 29, Belias was only doing 575-600 HP with Painflare and a paltry ~950 HP with Hellfire. Once gone, my Ashe was programmed to just heal herself with Cure magic at 50% HP. So I let her get hit by Mateus until her Mist Charge was restored (she only had 2 at this point). Once restored, I brought Belias back to let him fight with Mateus. Ashe would continue to Cure both of us. Once Mateus phase changes at 50% HP, he gets quite aggressive with Blizzaja. Though not too damaging to either Belias or Ashe, it can cause Sap on Ashe. That's still not an issue with her MP stock and constant curing. After Belias knocked down Mateus to less than 20% HP and used Hellfire again, I summoned him one more time, keeping the intensity on healing Belias while he used Painflare. Mateus has no charge time for attacks so he is much quicker and drains Belias' health quite fast. I ended up using an Elixir on him just to make sure he survived long enough to get Mateus' HP down. Once Mateus' HP was within 5%, I manually trigger Hellfire and won. I then reset so that I could do the fight with a full party without consuming my Elixir.
+- One strategy mentioned on the achievement's comments was to get an Opal Ring so that my Samurai (or a Black/Red Mage character) could use Shades of Black without fear of spells reflecting back from Mateus. That would have definitely made my life easier if I had be able to acquire one before hand. Another strategy was to use a character with access to Souleater and Belias just heals you as you sacrifice HP to do damage. There is a lot of flexibility though! Just make sure your party member doesn't attack, use Belias as a support or primary attacker while your character supports, and don't die!
+- ***New Level Cap***: With the defeat of Mateus, the next cap is level 35!
+
+**Welcome to Hell** (Espers?): If you haven't used Belias before this fight, you will definitely get this achievement with the **A Song of Ice and Fire** achievement or during the battle, since you are required to use Hellfire. Once the skill is triggered, this achievement will unlock.
+
+### Differences Between Our Lands Fades ➡️ Consider Your Bones, Old Man!
+
+***Level Cap Reminder***: Level 35 is what needs to be maintained at or below before the next boss. This is a good time to get some more hunts done and optional bosses as well though as you continue to unlock more licenses and gain some more levels.
+
+**The Condemner** (Espers?): In order to access Zeromus in Stilshrine of Miriam, you will need the Stone of the Condemner. After the events that occur after defeating Judge Bergan and confirming the plans to head into Archades, you'll see a nu mou Acolyte walking nearby. Speak to them to receive the Stone of the Condemner. The fight against Zeromus is a ways off yet (unless you intend to cheese it with Seitengrat, perhaps?), but at least you'll have the key you need now.
+
+**Sister's Test (cont'd)**: Return to Rabanastre to speak to Ktjn once more. She'll discuss her warrior sister and how she thinks that maybe she should try to follow in her footsteps. When she asks, "What do you think?", reply with "I think it's a good idea". That will convince her to join a clan. She then says to speak with her again soon. Almost done!
+
+**Hold All the Cards (cont'd)**: With the amount of money I gained from my travels, I decided to finish up buying the remainder of the gambits at this point.
+
+**Lost in the Pudding** (Hunts): The White Mousse is found in Garamsythe Waterway: West Sluice Control. Head there to fight it and clear out the monsters in the vicinity before heading into the water.
+- Before the fight, consider putting Shell on the party or wearing armor that provides protection from the water element. Have one or two characters prepared to cast Fira spells. If you have a main tank character, consider Decoy to keep White Mousse focused on them with physicals. Regen, if available, can also be useful to negate the effects of Poison.
+- Doing this after Mt. Bur-Omisace shouldn't be too much trouble though. If you try to do it earlier, it may be tougher, but still doable.
+- Return to Sorbet in Westgate to complete the hunt and get your reward and achievement. You'll also get the Sluice Gate Key for further adventuring in the Garamsythe Waterway.
+
+**For Whom the Wyrm Tolls** (Hunts): Head to Dalmasca Westersand: Windtrace Dunes. If there is a sandstorm, the Ring Wyrm will appear around the south center of the map. Rezone until you have a sandstorm.
+- Fire is its weakness but also what it uses. If you have Ruby Rings, these will reflect the damage back, making this fight fairly simple. Also, start off with Dispel to remove its buffs.
+- Ring Wyrm can inflict Disable, Immobilize, and Sap. If you have Remedy Lore 1, this will help counter that. Thankfully, you can now purchase the Remedy item in shops so feel free to use them.
+- Belias can shine here as well, since fire element heals him and he uses fire attacks also.
+- Return to Balzac in Lowtown: North Sprawl to get the reward and achievement.
+
+**Calm the Sandstorm** (Side Quest): Get the Wind Globe from one of the two Dynast Cactus (large round cactus with a yellow flower on the top) in the isolated portion of Dalmasca Westersand: Windtrace Dunes. Head back to Rabanastre: Westgate and talk with Rimzat to get the Windvane. Head back to Dalmasca Westersand and enter the Wyrm's Nest zone to do battle with the Earth Tyrant.
+- The Earth Tyrant is a physical attacker. You can't go wrong with using Protect and Regen on your team. Decoy can be useful as well to ensure your tank is getting targeted while the spell casters or main attackers aren't. Wind is the weak element, so use Aero.
+- When the boss' HP gets low, it's physical defense will rise greatly. Keep the pressure up on maintaining your spell caster alive as Aero is still as effective. Have the tank support healing if necessary. Earth Tyrant will also attack more frequently and combo so be careful.
+- Upon defeat, the achievement will unlock. Congrats! You have another way to get to Dalmasca Estersand: The Yoma and North Bank Village!
+
+**Tingling Toast** (Hunts): Marilith can be found in Zertinan Caverns: Invitation to Heresy (the first zone when entering from Dalmasca Westersand). Clear out the zone of enemies and wait for five minutes in a dead end where the sun is shining and two Speartongue toads were hanging out.
+- Marilith is FAST! It uses physical attacks and will get more rapid when its health is very low. Your cure methods will probably not be able to keep up if you are doing this fight at this point in the game (I was level 29 at the time). So, save your quickenings for this point where Marilith is too quick and your attacks aren't landing. That'll finish the job.
+- It pays to be defensive again. Protect and Regen will be of use to get Marilith to the low HP threshold where it speeds up. You can also afflict it with Slow and Blind, though that will only help so much near the end of the fight. It also has buffs at the start so Dispel them.
+- Return the Serpentwyne Must to The Sandsea's Tavernmaster to complete the hunt and get the achievement.
