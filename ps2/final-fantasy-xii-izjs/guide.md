@@ -344,6 +344,7 @@ Some things I've noticed so far:
 - The Where is the Zodiac Spear? achievement is going to be a pain point I believe. You have to check the Necrohol of Nabudis' Cloister of the Highborn for chest 22, which as a 3% spawn rate to find the Ensanguined Shield. The name of this achievement is a reference to the fact that this chest is the one that would have the Zodiac Spear if the requirements were met. The other reason why this is a pain point is because you need to go to this location and find this chest with the shield before entering the Sochen Cave Palace for the first time. If I remember right, you pass by the Necrohol on the way to Sochen and comments from characters state that the Necrohol is dangerous and you should go there and it is never required by the story. I see talk about the [Immobilize Glitch](https://antifandom.com/finalfantasy/wiki/Immobilize_glitch) which may be helpful for traversing the area while low leveled that may still work in IZJS.
 - RNG manipulation really seems to be the name of the game here in getting some of these rare things to appear. Either that, or a shit ton of patience...
 - Overall, the set is a disordered mess. Achievements are all over the place and don't follow a logical flow. I can understand that some of them may not be possible (like the Sky Pirate's Den achievements) though... My roadmap may be able to help some here.
+  - Another look at the set now over these past few weeks has given me the chance to see that the achievements are grouped together with like types of achievements: story, bosses, treasure, stealing, poaching, Trial Mode, hunts, etc. This format makes sense for this game, given that there is a ton of flexibility in when players can unlock them. Even my roadmap will be unique and tough to categorize though it should give people an idea of when they should have certain achievements unlocked by.
 - There are achievements for various rewards from the Hunt Club outfitters. If I remember right, there are some mutually exclusive options here? This may require multiple saves or saving before hand to select one and then the other. I'll need to dig into that more when I get to that area.
 - Trial mode is separate from the main game and the achievements are similarly separate. There is only one missable involving stealing the Excalibur from and defeating Hell Wyrm. Working on Trial Mode will be reserved for the post game file.
 
@@ -357,6 +358,8 @@ I'll focus these notes for now on the achievements that take place between the s
   - Currently, I don't believe that this requires the full bestiary entry either (fighting the same monster until the entry adds a second page). The achievement measurement increases as soon as an interaction with a new monster occurs, even when an NPC fights a new monster.
   - I'm noticing that **Big Game Hunter I and II** and **Show Off I and II** don't seem to have measured tracking. I'm guessing maybe the set devs felt the smaller quantity of entries was worth not bothering with the tracking?
 - It's good to only sell the correct number of loot items that you need to complete unlocking bazaar packages. Selling too many will not "carry over" to another package if that item is used to unlock multiple packages. This is mostly important to remember when dealing with rarer loot.
+  - Specifically, you should hold on to Arcana, Damascus Steel, Serpent Eye, and Moon Ring loot until you have the quantities you need to unlock their bazaar items.
+  - ***TODO***: Any other items to add to this list of loot?
 - While rare game may appear as you explore areas on the way to the next boss or story moment, it's probably wise to only fight rare game IF it shows up, rather than trying to force their appearance. This is to ensure that levels are kept low to avoid getting close to the level caps for boss challenges. If you feel that your levels may be lagging a bit, that shouldn't be a problem, but keep extra save files just in case. I will do a rare game (and bestiary) cleanup after finishing the game to ensure that my levels don't get too high.
 - Guest characters levels will matter when worrying about the level caps for boss challenges. A guest character level will be calculated when they join with the following calculation:
   - Larsa and Reddas: average of the two highest level characters + 2 levels
@@ -398,6 +401,8 @@ Fran is a particularly tough choice because her stats are lower than everyone el
 **Spellsinger**: This unlocked as soon as I hit 200 spells used.
 
 **Plunderer**: This unlocked as soon as I accumulated over 100,000 gil during the game (don't have to have that amount all at once).
+
+**Record Breaker** This unlocked as soon as I hit 500,000 clan points.
 
 ### Some Mechanics Notes
 
@@ -816,7 +821,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - So, if Fran isn't a Red or Black Mage, there are some recommendations on the achievement's comments about what to do. The consensus is to get the Nihopalaoa accessory. This makes items do the inverse of what their intended action is. For example: throwing a potion will hurt the target rather than heal. For the Elder Wyrm, using Alarm Clocks on it will put it to sleep, guaranteed! Fran should then be trying to keep Elder Wyrm asleep while Larsa uses Shades of Black.
   - To get the Nihopalaoa, you'll need to grind for loot to sell that will unlock it in the bazaar. You need to sell three Blood-stained Necklace, two Death's-Head, and three Leo Gem. Note that these all come from higher level enemies and will require stealing to avoid exceeding levels.
     - Blood-stained Necklace: Shambling Corpse (found in Zertinan Caverns: Athroza Quicksands) rare steal or dropped from them if you have the Warmage's Monograph
-    - Death's-Head: Dark Skeleton (found in Golmore Jungle: The Rusting Chapel) drop with Warmage's Monograph, rare game Grave Lord's rare steal (found in same place after chaining the Dark Skeletons that appear there)...
+    - Death's-Head: Dark Skeleton (found in Golmore Jungle: The Rustling Chapel) drop with Warmage's Monograph, rare game Grave Lord's rare steal (found in same place after chaining the Dark Skeletons that appear there)...
     - Leo Gem: Drop/steal from various dragons and dinosaurs. Wild Saurian is probably the most accessible to steal them from.
     - As you can see, this is pretty ridiculous to do while trying to maintain low levels. It may be easier to just fight it out if you have a damage dealing Fran, or a Fran that blocks a lot can take point on tank duties while Larsa casts random black magic. You can grind Aero/Aeroga Motes from chests as well. There are options, but Nihopalaoa seems excessive to get. Of course, it does seem other people have done this so it's certainly possible...
 - Once the Elder Wyrm is defeated, we have a new level cap: level 32. It's not much of a difference, but Larsa won't be with us for the next one, so you should actually have more room.
@@ -877,3 +882,85 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - Marilith is FAST! It uses physical attacks and will get more rapid when its health is very low. Your cure methods will probably not be able to keep up if you are doing this fight at this point in the game (I was level 29 at the time). So, save your quickenings for this point where Marilith is too quick and your attacks aren't landing. That'll finish the job.
 - It pays to be defensive again. Protect and Regen will be of use to get Marilith to the low HP threshold where it speeds up. You can also afflict it with Slow and Blind, though that will only help so much near the end of the fight. It also has buffs at the start so Dispel them.
 - Return the Serpentwyne Must to The Sandsea's Tavernmaster to complete the hunt and get the achievement.
+
+**Crime and Punishment** (Hunts): Before the fight with Ultros, I mean Orthros, in Garamsythe Waterway: Southern Sluiceway, it may be a good idea to head to the Save Crystal in West Sluice Control so that you can retry quickly if you have problems. Also, you can grab the Garamsythe Candle from an urn near the Save Crystal too.
+- For the fight to start, you must be a party of Fran, Ashe, and Penelo (if you are familiar with Orthros from Final Fantasy VI and other games, he really hates muscle men). Once started, feel free to swap back to your ideal party.
+- As with the other previous hunts, Protect and Regen can be very helpful. Shell is a good addition this time since Ult... Orthros can cast Darkra. Expect tons of negative status effects as well. Consider a Remedy Lore character with a Remedy gambit. Since this iteration of Orthros is a flan, the fire element is effective. As typical with these marks, HP critical will result in increased attacks, defense, and attack power. Switch to quickenings and Belias as appropriate.
+- Return to the Contrite Thief in Lowtown to get the reward and the achievement. You'll also receive the Blackened Fragment, which is a part needed for eventually getting Chaos and a few achievements down the road.
+
+**Shrouded in Mist** (Characters?): This is definitely flexible for when it unlocks for players since it is dependent on the jobs picked, if a player wants to or is willing to wait for more advantageous quickening positions on the license board, or if a player just wants to unlock them all right away. I finally unlocked my last quickening and this achievement when I got to Ashe's Samurai license board spot that provides access to the +435 HP license, requiring unlocking a bunch of high LP accessory spots.
+
+**Paradise Risen** (Hunts): The weather now cycles in Giza Plains so if it is Dry, you'll have to wait for the Rains again before taking on the Gil Snapper. The cycle is 2 hours Dry, 1 hour Rains, using the in-game clock. Thankfully, once you have knocked down the six withered trees once, you won't have to repeat it if the weather cycles. If you are unsure of where you are at in the cycle, there is a seeq Adventurer you can talk to in Southgate who will become "Weather Eye" and give you a very general idea of how long until the next weather change (they'll say "The Rains can't be far off, now" when it is close, like 5-10 minutes). Do note that the weather will NOT change while you are in Giza Plains. If the time elapsed for a weather change, it won't occur until you leave the region.
+- Once you are in the Rains season and can cross the "bridge" into the Tracks of the Beast zone, Bansat the seeq will tell you if the weather is appropriate for Gil Snapper to appear. The mark will only show during a thunderstorm. Rezone until the weather is appropriate.
+- One thing to consider is if the weather is initially not right, use this time to clear the zone of the Silicon Tortoises so that they aren't an issue while fighting the Gil Snapper.
+- Once in the proper weather, prepare! Setup the usual Protect, Shell, Regen, at least on your tank. Also, Slow is effective in this fight. Dispel should be used at the start of the fight to remove the initial buffs. Thundara will be a primary source of damage.
+- As always, the fight will get tougher as its health drops. Be prepared for more aggressive attacks and less damage dealt to it.
+- After you win, make sure to get the Feather of the Flock item from the urn in the southeast. Return to Crystal Glade and read the Soggy Letter to learn that you can't finish the hunt until the Dry season. Speak with Nanau in the Nomad Village once it is Dry again and get your reward and achievement.
+
+**The Dead Ought Sleep Forever** (Hunts): Return to Henne Mines' front entrance with a chocobo and head through the blue gate exit to Phase 1 Shaft to find Ixtab.
+- Compared to Gil Snapper, this mark will be easier at these levels.
+- The mark will spawn near where the map urn was, at the crossroads.
+- Ixtab is susceptible to Berserk which will make it not be able to use any of its spells and skills that cause status effects. Blind can also be used to avoid contact damage. Stop and Slow also work though they are limited in time. If you can't use these, then be ready with Remedy or other restorative items.
+- This mark also likes to use Doom so if the fight draws on long enough, you may need to revive party members.
+- Continue on after defeating it to find the Mindflayer in Phase 1 Dig, or return to Jahara to report success and get your rewards and achievement.
+
+**The Mine Flayer** (Hunts): Return to Henne Mines' front entrance with a chocobo and go to Phase 1 Dig (or head there after fighting Ixtab, if you wish). It spawns in the south of the zone and only if the party has full MP.
+- The Mindflayer is tougher than Ixtab was but is also susceptible to Berserk, Blind, and Slow.
+- The mark's favorite move is Invert, which swaps HP and MP values. Be ready to heal up (or have gambits ready) if that happens. It can cause Blind and Sap status and even raise its own level. With a high magick resistance, it's best to have physical attackers.
+- At 20% HP, the Mindflayer can fully heal itself with Soul Etude. You can avoid this completely by using your quickenings near that point. I used my mist moves at around 30-40% HP on its life bar, killing it before it could heal itself.
+- Return to Jahara to report the successful hunt and get the achievement and rewards. Completing this hunt will eventually let you go to face Zodiark, once you have at least 10 espers under your control though.
+
+**Ivalice Explorer (cont'd)**: Reach Mosphoran Highwaste while enroute to Archades. The zone Babbling Vale has a Teleport Save Crystal.
+
+**Trouble in the Hills** (Hunts): Atomos waits for you in Mosphoran Highwaste: Northern Skirts. Clear out the Vultures surrounding the mark so that they don't join in.
+- This fiend has a high magick resistance, so stick with physical attacks. It starts with Protect, Shell, and Haste so Dispel those right away. It can be hit with Slow status but it will remove it and other status effects with Purify and then follow up with White Wind to make itself immune to all status effects.
+- Prepare with Protect and Regen and then beat Atomos up. It's physical defense is not that great so it shouldn't take too long to beat at low level 30s. If its HP gets low and starts to try to heal itself, consider quickenings to wrap it up before that happens.
+
+**Cartographer (cont'd)**: In The Salikawood: Trunkwall Road is a map urn. You won't need or want to access all of the zones here for now, but the map will help later on.
+
+**Ivalice Explorer (cont'd)**: Once you start exploring The Salikawood properly as part of the Moogle Boss quest to find their workers, you'll find a Teleport Save Crystal in Quietened Trace, right near where the King Bomb boss fight is.
+
+**Blow Up the Jungle** (Side Quest): Enter Grand Bower to face off against King Bomb. This boss is optional, blocking the way to the rest of The Salikawood as well as one of the entrances to the Necrohol of Nabudis. Given that we need to get over to this other side of The Salikawood to fight marks as well as get the Ensanguined Shield before going to Sochen Cave Palace, we will definitely need to fight this boss now.
+- Prepare by putting on Protect, Shell, and Regen. Set up a gambit specifically for removing Oil with Handkerchiefs. Spell casters should use the Water spell.
+- King Bomb starts off with Haste and spawning a couple of Bombs. Dispel the Haste effect right away and completely ignore the Bombs. Healing should be able to keep up with the damage they deal because of the buffs prior to the fight.
+- Completely focus everything on King Bomb. The boss will use Renew to fully restore its health and will do so at least once through the fight at our lower levels. If you keep the pressure up on King Bomb, getting the fiend down to around 30-40% of its health and you see it starting to Renew, use quickenings to finish the job.
+- You now have access to the back side of the region and the Necrohol as well.
+
+**Rodeo to the Death** (Hunts): You'll find Braegh, the lightning horse, in the Corridor of Ages zone, near the entrance to Necrohol of Nabudis. Set up the usual buffs and be ready to heal quickly with Hi-Potions because Braegh can use Invert, like the Mindflayer. It is weak to the ice element so Blizzara will do a lot of damage as well as physical attacks.
+
+**Hunter of Monsters II** (Bestiary?): While making my run through Necrohol of Nabudis to find the Ensanguined Shield, I unlocked this achievement as I was targeted by various enemies. Fun! Hopefully I don't die so I can not worry about losing the registration of these enemies (or just end up coming back here later anyway for Chaos and treasures).
+
+**Where is the Zodiac Spear?** (Treasure?): Upon entering the Cloister of the Highborn zone, a primed achievement marker will appear to identify that you are in the correct location. Being here at this level is obviously quite dangerous and enemies will take chunks out of you quickly. Using Protect, Shell, and Regen could help keep you alive while pacing back and forth between the zone entrance and the treasure chest location. Additionally, if the previous zone doesn't have enemies crowded around the entrance, that could be a spot to run to for healing back up and buffing.
+- The chest itself has a 3% spawn chance, appearing in a small room located at the northern most point of this zone and going south to enter the room. Expect to pace back and forth a lot.
+- A possible strategy is to use the Seitengrat to eliminate the enemies on the route. You'll gain a lot of experience points though, so only do this if you have some buffer before exceeding level 35. This strategy worked really well for me, allowing me to run up and down the path between the zone exit and the chest freely. I only gained one level (32 to 33) from clearing out the enemies along that path.
+- There are some really nice spells here if you want to pick them up now. However, if you gain too much experience, it may be better to just reset back to the previous save and not keep the spells. We'll be back here later anyway... I personally decided to not revert back to my save because I wanted to keep the spells and I only gained one level.
+
+**Ivalice Explorer (cont'd)**: When you arrive at the Hunter's Camp in Phon Coast, examine the Teleport Save Crystal after the cutscene.
+
+**Cartographer (cont'd)**: The Phon Coast is a very large region. Getting the map from the Cartographer's Guild moogle will make getting this achievement much easier. The moogle is located in the north between the two northern exits of the Hunter's Camp.
+
+**Mandragoran Royalty** (Side Quest?) This is required in order to progress with the game, but it is a distraction along the way just the same. In Tchita Uplands: The Nameless Spring is an Archadian Wayfarer. Speak to him to learn about his missing son and the terrible beasts that need to be destroyed. This person gives you the Soul Ward Key if you accept, which is required to progress in Sochen Cave Palace.
+
+**Ivalice Explorer (cont'd)**: If you head out the northwest exit of The Highlands, you'll come across the missing child in The Chosen Path zone! The son and parent are just in the wrong locations! Also there is a Teleport Save Crystal here to register.
+
+**Mandragoran Royalty (cont'd)**: Proceed north through Sochen Cave Palace: Doubt Abandoned and open the locked door with the Soul Ward Key. As you enter, the boss fight begins with five Mandragoras. They'll probably all run off initially, seemingly trying to separate the group as some of your party attacks and others prepare spells.
+- Use Escape to pull the party together and have the Mandragoras come towards you. Once grouped together, unleash your spells.
+- They all start with Haste. Dispel it.
+- Each Mandragora is a different type, each with different elemental weaknesses. Thankfully, none of them have any resistances. You could use different spells for each one, or just blast them all with Fira. It shouldn't take too long.
+- If you are feeling cheeky, you could wait until they are grouped together and use quickening combos. The follow up concurrence should destroy all of them in one shot if you chained enough together.
+
+**Cartographer (cont'd)**: The Sochen Cave Palace map urn is located in the eastern side of Mirror of the Soul, in a small alley near the northeast exit.
+
+**Who You Gonna Call** (Challenge): ???
+
+**Record Breaker** (Sky Pirate's Den): Earn over 500,000 clan points to unlock the Reks statue and this achievement. It will unlock without having to look in the Sky Pirate's Den.
+
+
+
+***TODO***: These two will be done later in the game, after Sochen Cave Palace. The current party is too under leveled and will easily exceed the level cap if persisting. I still need to go through the Necrohol of Nabudis as well before Sochen to get **Where is the Zodiac Spear?** achievement.
+
+**A Chase Through the Woods** (Hunts): The Vorpal Bunny will be found in Golmore Jungle: The Rustling Chapel. You should be able to handle the enemies in the sealed off areas of The Needlebrake and The Rustling Chapel at the low 30s in level. The mark spends most of its time running away from you, making hitting it difficult. Along the way, other fiends in the area will make things difficult as you chase after it.
+- If you have Berserk, inflicting Vorpal Bunny with it will stop its running and fight. Add Blind to help it miss and take it down easily. Otherwise, just continue to chase. It doesn't have too much health. It is only weak to Holy magic, so physical attacks are probably your best bet here even though it can be hard to hit.
+- If you can't seem to catch the Vorpal Bunny and are gaining levels too quickly during the chase, consider waiting to do this until after raising the level cap with the Sochen Cave Palace boss challenge.
+
+**Show Off I and II (cont'd)**: There is a very good chance that while chasing the Vorpal Bunny you'll kill all of the enemies in the area which will spawn a bunch of Dark Skeletons and then eventually the rare game Grave Lord. You WILL gain levels quickly if you are doing this before the fight with Ahriman in Sochen Cave Palace so consider putting it off until later if levels get too high.
