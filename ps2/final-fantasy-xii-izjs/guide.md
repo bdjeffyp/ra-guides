@@ -358,7 +358,22 @@ I'll focus these notes for now on the achievements that take place between the s
   - Currently, I don't believe that this requires the full bestiary entry either (fighting the same monster until the entry adds a second page). The achievement measurement increases as soon as an interaction with a new monster occurs, even when an NPC fights a new monster.
   - I'm noticing that **Big Game Hunter I and II** and **Show Off I and II** don't seem to have measured tracking. I'm guessing maybe the set devs felt the smaller quantity of entries was worth not bothering with the tracking?
 - It's good to only sell the correct number of loot items that you need to complete unlocking bazaar packages. Selling too many will not "carry over" to another package if that item is used to unlock multiple packages. This is mostly important to remember when dealing with rarer loot.
-  - Specifically, you should hold on to Arcana, Damascus Steel, Serpent Eye, and Moon Ring loot until you have the quantities you need to unlock their bazaar items.
+  - Specifically, you should hold on to the following loot until you have the quantities you need to unlock their bazaar items:
+    - Arcana
+    - High Arcana
+    - Damascus Steel
+    - Serpent Eye
+    - Moon Ring
+    - Feystone
+    - Soul Powder
+    - Scarletite
+    - Adamantite
+    - Sickle-Blade
+    - Empyreal Soul
+    - Mallet
+    - Gysahl Greens (for their functionality)
+    - Teleport Stones (for their functionality)
+    - Sandalwood/Pinewood Chops (can't be sold anyway)
   - ***TODO***: Any other items to add to this list of loot?
 - While rare game may appear as you explore areas on the way to the next boss or story moment, it's probably wise to only fight rare game IF it shows up, rather than trying to force their appearance. This is to ensure that levels are kept low to avoid getting close to the level caps for boss challenges. If you feel that your levels may be lagging a bit, that shouldn't be a problem, but keep extra save files just in case. I will do a rare game (and bestiary) cleanup after finishing the game to ensure that my levels don't get too high.
 - Guest characters levels will matter when worrying about the level caps for boss challenges. A guest character level will be calculated when they join with the following calculation:
@@ -915,6 +930,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 **Trouble in the Hills** (Hunts): Atomos waits for you in Mosphoran Highwaste: Northern Skirts. Clear out the Vultures surrounding the mark so that they don't join in.
 - This fiend has a high magick resistance, so stick with physical attacks. It starts with Protect, Shell, and Haste so Dispel those right away. It can be hit with Slow status but it will remove it and other status effects with Purify and then follow up with White Wind to make itself immune to all status effects.
 - Prepare with Protect and Regen and then beat Atomos up. It's physical defense is not that great so it shouldn't take too long to beat at low level 30s. If its HP gets low and starts to try to heal itself, consider quickenings to wrap it up before that happens.
+- When you can, return to Nalbina to see Burrogh and turn in the completion for the reward and achievement.
 
 **Cartographer (cont'd)**: In The Salikawood: Trunkwall Road is a map urn. You won't need or want to access all of the zones here for now, but the map will help later on.
 
@@ -951,13 +967,64 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 
 **Cartographer (cont'd)**: The Sochen Cave Palace map urn is located in the eastern side of Mirror of the Soul, in a small alley near the northeast exit.
 
-**Who You Gonna Call** (Challenge): ???
+**Who You Gonna Call** (Challenge): Grind to get Dark Energy from the bazaar (sell 1 Bat Wing, 3 Grimoire Aidhed, and 3 Grimoire Togail)?? The really seems like a good cheese way to handle this fight if you have chosen a disadvantageous job. There has also been discussion in the achievement's comments about grinding up the damage for a Dark Matter to one-shot Ahriman but that seems excessive compared to the Dark Energy grind. Another option discussed (and possible with my black mage Penelo) is the use of Reflectga Motes to keep Doom from landing and using the Aeroga spell to do damage. So where do I farm Reflectga Motes from? They can only be purchased at the clan provisioner when at max clan rank so perhaps an enemy can drop them or chests may have them? I think I have the Ruby Ring accessory as well (obtained from Stilshrine of Miriam) so I could use that? The only problem with this is potentially getting confused... Unless that is caused by a spell. It looks like Confuse is caused by a skill so it probably isn't reflected. Reflect doesn't prevent Doom from landing... what the fuck was that one person talking about... ugh.
+- If you have a job that has access to Remedy Lore 3, this challenge isn't an issue since you can cure Doom status with the item.
+- Ahriman is susceptible to only the Slow status, which can be useful to have on them to reduce the chances for it to deal damage and cast Doom on Penelo. This can be done with the Sakura-saezuri ninja sword (found in a chest in this dungeon), with the time magick spell, or with a Nihopalaoa (discussed how to get this in **Ward of the Wood**) equipped and using a Remedy on the boss.
+- To prevent getting confused, the Bowline Sash accessory is useful. It also boosts the magick power stat as a bonus for a red or black mage Penelo. If you have Nihopalaoa, you'll need to swap these accessories around to prevent getting confused while also trying to keep Ahriman slowed. Using Ruby Ring to have Reflect up would obviously prevent the use of Bowline Sash for confuse prevention.
+- With a white mage Penelo, Ahriman can be hit with Curaga to deal damage as well.
+- Immobilize can be used which can cause issues if Doom is already cast, but it shouldn't be a deal breaker as Ahriman will eventually come to you with it's clones within about 1 tick of Doom.
+- Okay!!! I managed it with black mage Penelo at level 35! I had two Hastega Motes to keep my speed up through the fight. I buffed Penelo at the door before the fight with Protect, Shell, Regen, Bubble (using a Bubble Mote I had), Faith, and Reflect. I had a gambit set up to cast Aeroga on the foe with the highest HP. I didn't have a Cloud Staff so I equipped the Judicer's Staff since that was my strongest magick power weapon. I equipped the Bowline Sash to prevent confusion as well. Upon entering the boss chamber, I immediately used a Hastega Mote since Ahriman will always teleport initial to dodge any initial spells. I then let Penelo cast Aeroga, landing about 4k of damage per attack while Faith is applied. This pushed Ahriman quickly down in health to avoid early Doom casts. My typical experience with this setup was to see Doom come out at around half of Ahriman's HP remaining and with my Shell gone at this point it would usually land on Penelo. At this point, I used my Scathe Mote to knock out around 4k-6k of damage and then Ahriman will run off to divide. Once Ahriman returns with it's gang, I let Penelo get another Aeroga off to take out some of the riffraff and then started using Shock Motes, noting which Ahriman was being targeted by the gambit so I hit the right one. As long as clones are around, Ahriman won't use Maser Eye. If you do see Maser Eye, you need to throw an X-Potion or Elixir immediately to ensure Penelo's health is at or near max HP. With a bit of luck, and persistence with healing, attack items, and Hastega, I was able to defeat Ahriman with 2 ticks of Doom remaining.
+- ***New Level Cap***: A sigh of relief as the next cap is level 50! Since the next challenge requires Reddas to be below level 50, the actual cap for the main party when Reddas joins is no higher than 48.
+
+**Show Off I and II (cont'd)**: The next zone after the Ahriman fight, Temptation Eluded, has a potential for a rare game. If the zone has Wendigo and Pit Fiend enemies, then defeating all of them will spawn Cubus. There is a 25% chance of the zone containing these enemies over the normal Strikers and Imps. You can easily move two zones away and return via Ahriman's chamber to change the enemies if you want this rare game to show up. You'll know that Wendigos are in the zone if you see a ball of ice where a head should be. Cubus itself is a flan type enemy and will spawn where ever you are when you defeat the final fiend in the zone.
 
 **Record Breaker** (Sky Pirate's Den): Earn over 500,000 clan points to unlock the Reks statue and this achievement. It will unlock without having to look in the Sky Pirate's Den.
 
+**Ivalice Explorer (cont'd)**: Upon taking the lift at the end of Sochen Cave Palace, there'll be a Teleport Save Crystal behind you to your right. Interact with it to register the location for future teleporting.
+
+**Chocobo Past (cont'd)**: You'll wrap up this quest and achievement while in Archades. Go to the magick shop and you'll find July up the stairs crouched and listening to more people. Talk to her to receive your reward for helping her in Nalbina.
+
+**Cartographer (cont'd)**: The Archades Cartographer's Guild moogle can be found in the technick shop up the stairs. Get the Tchita Uplands and Archades maps on sale to make unlocking this easier.
+
+**A Most Promising Ardent** (Side Quest): In order to get a sandalwood chop, you must get all 28 pinewood chops possible in the four areas of Archades before taking the cab to meet up with Balthier. While you only need 9 pinewood chops to proceed, you will need all 28 to get the sandalwood chop for this achievement AND the Cartographer achievement. The sandalwood chop is required to access one optional location in Archades. To get pinewood chops, you will need to talk to a person in a zone who will give you a phrase to memorize. You then need to find the person that phrase will help so that they give you their pinewood chop.
+- I'm not going to list out all of the pairs of people to talk to here as other guides have that covered already, to include the [GameFAQs guide by BobertWABC](https://gamefaqs.gamespot.com/ps4/191202-final-fantasy-xii-the-zodiac-age/faqs/78871/walkthrough-part-4-infiltrating-the-empire) so use those to help you find everyone.
+- Once you have all the pinewood chops, speak to a chopmaster in one of the shops to convert the pinewood to sandalwood.
+- You *could* purchase pinewood chops one at a time to get the 28 you need, but that'll cost you a total of 560,000 gil... It's best to just talk to everyone to get the quest done.
+
+**Ivalice Explorer (cont'd)**: After taking the cab to Tsenoble and meeting back up with Balthier, there is a Teleport Save Crystal to the left. Interact with it to register this location.
+
+**Jack-of-All-Trades** (Sky Pirate's Den): You can get the Gil Toss technick on the 70th floor of Draklor Labs, just before the fight with Dr. Cid. Instead of running up the stairs after the cutscene with Reddas, go down the hall to the right past the save crystal to a room that contains the chest with it. I only bring it up here because Draklor is a one time visit dungeon but Gil Toss can still be obtained later on in The Pharos at Ridorana.
+
+**Consider Your Bones, Old Man!** (Progression): There isn't much to defeating Dr. Cid since there is no associated boss challenge here. Beat him and this achievement is yours.
+
+### Consider Your Bones, Old Man! ➡️ Attain to Your Birth Right!
+
+***Level Cap Reminder***: Level 50 is our current level cap. Keep in mind that Reddas will join the party at two levels higher than the average level and is the limiting factor for the fight with Pandaemonium.
+
+**Gone Fishing** (Side Quest): After the events with Dr. Cid, you'll be in Balfonheim. Close by the entrance to the Chivany Breakwater zone, you'll find a fisherman labeled as "Fishing Enthusiast". Talk to him twice to ask about his fishing rod. Head toward the Aerodrome at the opposite end of the zone but don't go in. Return and you'll find the fishing rod left behind. Take it, the Muramata, and the fishing side quest can begin!
+
+**Cartographer (cont'd)**: Near the Teleport Save Crystal that is close to the exit of Balfonheim is a Cartographer's Guild moogle selling maps for Cerobi Steppe and Balfonheim Port to aid in getting this achievement.
+
+**Ivalice Explorer (cont'd)**: Examine the Teleport Save Crystal described above to register it.
+
+**Sister's Path (cont'd)**: Now that you have completed Draklor Labs and answered Ktjn's questions appropriately, return to Rabanastre and talk to her on the steps near the north exit of Muthru Bazaar once more. She says that she has made her decision and will reward you if you find her once more. Head to the Clan Hall. You'll find Ktjn sparing with a bangaa in the center of the zone. Talk to her to get the Runeblade and the achievement.
+
+**The Sky Sisters (cont'd)**: With Balfonheim's Aerodrome unlocked, you can now fly and meet all six of Ann's sisters to show them the letter. A new sister will appear on each unique flight from a source to a destination. You'll know if you are seeing a new sister if there is a man talking to the sister at the desk. If you don't see a man there, you have done this flight once before and shown the letter already. This can potentially become difficult to remember if you don't keep track of the flights. Here are all of the unique flights:
+- Between Nalbina and Rabanastre in either direction
+- Rabanastre and Bhujerba
+- Bhujerba and Balfonheim
+- Balfonheim and Archades
+- Archades and Nalbina
+- Rabanastre and Archades
+- Balfonheim and Nalbina
+
+Talking to the final sister rewards the Ring of Renewal and the achievement.
+
+**Great Cockatrice Roundup** (Side Quest): You can now start this side quest, provided that you obtained the Feather of the Flock in the area that the Gil Snapper was found. Speak to Terra in the now empty cockatrice pen in the Nomad Village in Dry Giza Plains to kick off this event.
 
 
-***TODO***: These two will be done later in the game, after Sochen Cave Palace. The current party is too under leveled and will easily exceed the level cap if persisting. I still need to go through the Necrohol of Nabudis as well before Sochen to get **Where is the Zodiac Spear?** achievement.
+
+
 
 **A Chase Through the Woods** (Hunts): The Vorpal Bunny will be found in Golmore Jungle: The Rustling Chapel. You should be able to handle the enemies in the sealed off areas of The Needlebrake and The Rustling Chapel at the low 30s in level. The mark spends most of its time running away from you, making hitting it difficult. Along the way, other fiends in the area will make things difficult as you chase after it.
 - If you have Berserk, inflicting Vorpal Bunny with it will stop its running and fight. Add Blind to help it miss and take it down easily. Otherwise, just continue to chase. It doesn't have too much health. It is only weak to Holy magic, so physical attacks are probably your best bet here even though it can be hard to hit.
