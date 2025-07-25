@@ -369,6 +369,7 @@ I'll focus these notes for now on the achievements that take place between the s
     - Scarletite
     - Adamantite
     - Sickle-Blade
+    - Hell-Gate's Flame x10
     - Empyreal Soul
     - Mallet
     - Gysahl Greens (for their functionality)
@@ -418,6 +419,12 @@ Fran is a particularly tough choice because her stats are lower than everyone el
 **Plunderer**: This unlocked as soon as I accumulated over 100,000 gil during the game (don't have to have that amount all at once).
 
 **Record Breaker** This unlocked as soon as I hit 500,000 clan points.
+
+**Collector**: This unlocked right when I purchased the Canopic Urn. I didn't need to enter the Den itself despite what the achievement's description states.
+
+**Spendthrift**: Unlocked when I purchased the Canopic Urn as that pushed me over the threshold of spending 1 million gil.
+
+**Mist Walker**: Unlocked upon use of the last concurrence.
 
 ### Some Mechanics Notes
 
@@ -1056,6 +1063,10 @@ Talking to the final sister rewards the Ring of Renewal and the achievement.
 
 **A Morbid Urn** (Items?): After getting your reward for the Trickster hunt, sell the Deimos Clay, as well as Phobos Glaze (from Gil Snapper) and Horakhty's Flame (from Orthros) if you haven't already. This unlocks the Morbid Urn in the bazaar. When you purchase it for 250,000 gil, you'll get the Canopic Urn and this achievement. This is ideal to get as soon as you can because enemies will now potentially drop the valuable Arcana loot.
 
+**Collector** (Sky Pirate's Den): I unlocked this at the same time that I bought the Canopic Urn in the bazaar, since that is the trigger for the Mimic statue to appear there. The achievement states that you have to check the Den itself for the memory to update but it unlocked immediately upon buying the item so maybe they fixed something that doesn't require the player to check the Sky Pirate's Den first?
+
+**Spendthrift** (Sky Pirate's Den): Purchasing the Canopic Jar also pushed me over the 1 million gil spent requirement to unlock Gurdy's statue in the Sky Pirate's Den. As with other milestone achievements, mileage will vary on when this will unlock but it seems that the typical experience is that it happens around the time that people buy the Canopic Jar if they have been spending money to buy equipment. This will certainly unlock over the course of casual play without any sort of grind to make it happen.
+
 **Antlion Infestation** (Hunts): Once you reach Lhusu Mines - Site 9, you'll start to see Killer Mantis enemies. Libra will tell you that they are weak to wind, which gives you a hint on how to proceed with the upcoming battle. After working your way near the far west side of the zone, buff up your team. Set up gambits on a black mage to use Aeroga and ensure they have Faith on them. A good idea maybe to even have the black mage target the lowest HP enemies with Aeroga. This is because Antlion will consume the Killer Mantises with the Cannibalize skill, which increases its health and level. So focus on taking out the Killer Mantises first! If the first wave of Aeroga doesn't remove the fodder, a follow up with Quickening can help to eliminate them all afterword. After cleaning out Site 9 of its treasures, such as the Expose technick near where the Antlion was, return to Bhujerba - The Staras Residence for the reward. As for where the Site 11 key went... You'll find that at Phon Coast - Hunters' Camp.
 
 **Get My Stuff Back** (Hunts): Upon entering Cerobi Steppe - Northsward, the viera wayfarer who wanted you to do this hunt joins you. No enemies will be in the area other than the mark in the northeast section of the zone. If you have Silence and Blind available, these can be helpful. Vyraal likes to use Immobilize and then run off to heal. If you don't have Silence, equip some Black Belts to ensure at least one character can chase the mark. Slow is also useful, but not as necessary. Keep it up until around 10% HP, when it will put up a barrier that makes it immune to magic. A fairly simple fight with a good physical offense and healing/buff gambits. Quickenings may not even be necessary. For some reason, the viera tell you to meet her at the bar in Balfonheim rather than reward you upon victory, so go back to claim your reward.
@@ -1066,11 +1077,41 @@ Talking to the final sister rewards the Ring of Renewal and the achievement.
 
 **Big Game Hunter I** (Bestiary?): I unlocked this when I started fighting Zalera. Your mileage may vary, as usual, but if you are keeping up with hunts and getting espers as you go, this will unlock eventually.
 
-
-
-
-**A Chase Through the Woods** (Hunts): The Vorpal Bunny will be found in Golmore Jungle: The Rustling Chapel. You should be able to handle the enemies in the sealed off areas of The Needlebrake and The Rustling Chapel at the low 30s in level. The mark spends most of its time running away from you, making hitting it difficult. Along the way, other fiends in the area will make things difficult as you chase after it.
-- If you have Berserk, inflicting Vorpal Bunny with it will stop its running and fight. Add Blind to help it miss and take it down easily. Otherwise, just continue to chase. It doesn't have too much health. It is only weak to Holy magic, so physical attacks are probably your best bet here even though it can be hard to hit.
-- If you can't seem to catch the Vorpal Bunny and are gaining levels too quickly during the chase, consider waiting to do this until after raising the level cap with the Sochen Cave Palace boss challenge.
+**A Chase Through the Woods** (Hunts): The Vorpal Bunny appears in Golmore Jungle - Rustling Chapel as you walk through the area and immediately flee. As you chase, it may double back toward you, but typically it will try to get away. If it gets too far, it will despawn and restore its health. If you have Berserk, inflicting Vorpal Bunny with it will stop its running and fight. Add Blind to help it miss and take it down easily. Otherwise, just continue to chase. It doesn't have too much health. It is only weak to Holy magic, so physical attacks are probably your best bet here even though it can be hard to hit. Ranged attacks with guns/arrows/bolts is ideal but magic can work too despite being halved if that's all you have available.
+- If you can't seem to catch the Vorpal Bunny and are gaining levels too quickly during the chase, consider waiting to do this until after raising the level cap with the Sochen Cave Palace boss challenge. This is when I waited to do this hunt.
 
 **Show Off I and II (cont'd)**: There is a very good chance that while chasing the Vorpal Bunny you'll kill all of the enemies in the area which will spawn a bunch of Dark Skeletons and then eventually the rare game Grave Lord. You WILL gain levels quickly if you are doing this before the fight with Ahriman in Sochen Cave Palace so consider putting it off until later if levels get too high.
+
+**Cartographer (cont'd)**: You'll find the map urn with the map for The Feywood in the Walk of Stolen Truths zone. Collect it to make getting this statue easier.
+
+**Show Off I and II (cont'd)**: In The Feywood - Walk of Stolen Truth, if you kill most or all of the Tartarus and a bunch of Cerberus, the Crypt Bunny will spawn as you continue to walk around the zone. It appears as a non-aggressive monster so your party will not immediately attack it when it spawns. Once you do start to attack it, the Crypt Bunny will continuously flee from you, similar to the Vorpal Bunny. Fortunately, the Crypt Bunny does not immediately hide when far enough away, but it can still regain health when no longer under threat so continue to give chase until it is defeated. Tracking down this fiend is made more difficult by the distorted minimap in the zone which does not show monster locations on it.
+
+**Show Off I and II (cont'd)**: After fighting Rafflesia and heading south into the White Magick's Embrace zone, if your game's clock is between 0 and 10 minutes, the rare game Juggernaut will spawn. I missed the time by four minutes so I have to come back for this one later.
+
+**Ivalice Explorer (cont'd)**: Upon entering the Ancient City of Giruvegan and the cutscene, you'll find a Teleport Save Crystal on the linear path. Interact and register!
+
+**Hunter of Monsters III** (Bestiary): While descending into Giruvegan I finally unlocked this achievement. I felt like I was on the cusp of getting this one unlocked forever.
+
+**Mist Walker** (Sky Pirate's Den): I unlocked this during the fight with Shemhazai with the Whiteout concurrence. The most complicated concurrence, Black Hole, was unlocked in an earlier fight (with Lindwyrm, I think?). Getting all of the concurrences is a matter of luck with rerolls and mist charges. Give it time and make use of quickenings when possible to increase the odds that you will eventually unlock this.
+
+**Attain to Your Birth Right!** (Progression): Defeat Shemhazai and receive the Treaty-Blade.
+
+### Attain to Your Birth Right! ➡️ Is there a Doctor in the House
+
+***Level Cap Reminder***: Level 50 is still the level cap. Reddas joins the party at this point. As long as your average level is 48 or less, you will still be under the level cap here. The boss for this cap is only two boss fights away, but there is some distance between here and that fight will have plenty of fiends along the way with tons of experience. Make use of Firefly accessories or escaping to get there before Reddas exceeds level 50. However, Firefly doesn't affect Reddas so he'd still gain experience from any battles.
+
+**Cartographer (cont'd)**: The map urn for Ridorana Cataract can be found in future home of Yiazmat, the Colosseum zone. It'll be found in an alcove to the northwest of the central circle.
+
+**Show Off I and II (cont'd)**: A Pallicant (Nightmare type monster) will spawn in Ridorana Cataract - City of Other Days if you first eliminate all enemies in the zone, then leave and reenter the zone. It'll be found at the center crossroads.
+
+**Ivalice Explorer (cont'd)**: After defeating the dragon zombie, Hydro, and entering The Pharos, a Teleport Save Crystal is found near the central elevator to the left.
+
+**Cartographer (cont'd)**: The map urn for the First Ascent is found in the Wellspring Labyrinth in the central area.
+
+**Beast My Guest III** (Challenge): Unlike the previous guest character challenges, you should be in a good position with spells to be able to buff the party up. Applying Protect, Bubble, Bravery, and Haste are good to start things off, though they won't last through the battle. Once buffs are applied, turn off gambits on the party members (Reddas can still have his on), arrange Reddas' own gambits to perform appropriate healing with items that the party cannot leverage. Spirit of Lowtown, which also gives the Bravery buff, is part of a gambit that Reddas already has set. It could be useful to adjust that to just target Self so that Reddas reapplies the buff if you have the resources to cover it. If you happen to have any Baltoro's Seed, this could be a great item to use to kick off the buffs for Reddas as well. Aeroga Motes could be useful as well as Pandaemonium is weak to the element, though it's better to manually use it unless you manage to have a large stock of them. You MUST have party gambits off and all preparation done BEFORE entering the Threshold of Night door. Unfortunately, you cannot prepare before activating the boss in the dunes area.
+- This was rough. Like really rough... It is slow and painful because Reddas' damage output is not great and you need to keep the other three party members alive in order to distract Pandaemonium from attack Reddas too much. The party characters can die without invalidating the achievement challenge, but if Reddas dies, it's over. If getting petrify off the other characters becomes too annoying, perhaps put Fuzzy Miters on them to prevent that issue and allow Reddas to focus more on damage output.
+- One strategy proposed by RA user [d13sel](https://retroachievements.org/user/d13sel) is to take advantage of how slow Pandaemonium is by tanking control of the character being targeted (watch for the red aggro line or the character whose name is red) and then running away from the boss for as long as you can to prolong it's attack. It will eventually shift targets if it cannot reach the target so keep an eye on when that happens. This is something I ended up using to great effect throughout my winning attempt.
+- A lot of comments suggest getting Dark Energy/Dark Matter+Knots of Rust to deal with this. Unfortunately, this really may be the best option. There is a chest in Cerobi Steppe - North Liavell Hills that has a small possibility of spawning with a Dark Energy in it. It is very close to the southernmost entrance to the zone so you can very easily enter the zone, see if the chest is there, and if not, leave and reenter quickly. I got two Dark Energy this way in about an hour. That is pretty exceptional luck to get those in that amount of time though. For my winning attempt, I ended up manually taking down Pandaemonium to about two-thirds health and then using the Dark Energy to do the remaining HP. After the first, it put up Perfect Defense paling so I had to wait for it to run out before using the second.
+- ***New Level Cap***: The final level cap until the end of the game! Do not exceed level 60 until completing the remaining boss challenges (Belito hunt, Gabranth 1 & 2, Cid 2, and Vayne).
+
+
