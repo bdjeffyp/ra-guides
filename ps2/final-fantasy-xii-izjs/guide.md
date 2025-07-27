@@ -35,6 +35,8 @@ As with other role-playing games, Dragon Quest VIII will push you into situation
 Guide: https://gamefaqs.gamespot.com/ps4/191202-final-fantasy-xii-the-zodiac-age/faqs/78871
 Roostalol's RNG manipulation for Seitengrat video, with detailed explanation: https://www.youtube.com/watch?v=oyjzj_cN6Ic
 Agnam's RNG manipulation for Seitengrat video: https://www.youtube.com/watch?v=R_aQNBo9PAQ
+[Comprehensive Bazaar Guide by Tirpitz](https://steamcommunity.com/sharedfiles/filedetails/?id=1293521534)
+[Maps and Chests Guide by Tirpitz](https://steamcommunity.com/sharedfiles/filedetails/?id=1292596668)
 
 ## Trivia
 
@@ -357,25 +359,6 @@ I'll focus these notes for now on the achievements that take place between the s
 - There are achievements associated with the bestiary. When entering new places, you may want to take the time to scout for enemies you haven't fought before. None of the bestiary achievements (**Hunter of Monsters I through IV**, **Big Game Hunter I and II**, and **Show Off I and II**) are marked as missable, so in theory you should be able to go back to most locations and find all the monsters in the game.
   - Currently, I don't believe that this requires the full bestiary entry either (fighting the same monster until the entry adds a second page). The achievement measurement increases as soon as an interaction with a new monster occurs, even when an NPC fights a new monster.
   - I'm noticing that **Big Game Hunter I and II** and **Show Off I and II** don't seem to have measured tracking. I'm guessing maybe the set devs felt the smaller quantity of entries was worth not bothering with the tracking?
-- It's good to only sell the correct number of loot items that you need to complete unlocking bazaar packages. Selling too many will not "carry over" to another package if that item is used to unlock multiple packages. This is mostly important to remember when dealing with rarer loot.
-  - Specifically, you should hold on to the following loot until you have the quantities you need to unlock their bazaar items:
-    - Arcana
-    - High Arcana
-    - Damascus Steel
-    - Serpent Eye
-    - Moon Ring
-    - Feystone
-    - Soul Powder
-    - Scarletite
-    - Adamantite
-    - Sickle-Blade
-    - Hell-Gate's Flame x10
-    - Empyreal Soul
-    - Mallet
-    - Gysahl Greens (for their functionality)
-    - Teleport Stones (for their functionality)
-    - Sandalwood/Pinewood Chops (can't be sold anyway)
-  - ***TODO***: Any other items to add to this list of loot?
 - While rare game may appear as you explore areas on the way to the next boss or story moment, it's probably wise to only fight rare game IF it shows up, rather than trying to force their appearance. This is to ensure that levels are kept low to avoid getting close to the level caps for boss challenges. If you feel that your levels may be lagging a bit, that shouldn't be a problem, but keep extra save files just in case. I will do a rare game (and bestiary) cleanup after finishing the game to ensure that my levels don't get too high.
 - Guest characters levels will matter when worrying about the level caps for boss challenges. A guest character level will be calculated when they join with the following calculation:
   - Larsa and Reddas: average of the two highest level characters + 2 levels
@@ -397,6 +380,84 @@ An issue with this particular setup is the achievements requiring use of the Poa
 Fran is a particularly tough choice because her stats are lower than everyone elses so no jobs are particularly suited for her over any other. This is why I felt Red Mage made the most sense with her as that class typically is known for being a "jack of all trades but master of none". Turns out that Red Mage or Black Mage is an ideal choice for the **Ward of the Wood** challenge. Of course, there are other ways to handle this challenge that people have discussed in the achievement's comments and I'll bring them up there.
 
 ***TODO***: If I see any other potential gotchas with achievements and the jobs, write about them here.
+
+### Bazaar
+
+The bazaar functions on providing items for purchase based on the loot items sold. Selling loot is a primary means of earning gil but has a hidden effect of being accumulated by the bazaar until enough loot is collected to unlock an item for purchase.
+
+A byproduct of this process is that when an item is *purchased* in the bazaar, all of the loot sold is **consumed**. For example, let's look at two bazaar goods sold that require the Earth Stone loot:
+- The Iron-forged Blade (which is an Iron Sword) requires selling the following loot:
+  - 3 Iron Scraps
+  - 2 Foul Flesh
+  - 3 Earth Stone
+- The Unassuming Surcoat (which is a set of Chromed Leathers) requires selling:
+  - 2 Wolf Pelt
+  - 1 Earth Stone
+- If the player sells a bunch of Iron Scraps, Foul Flesh, and Wolf Pelts, let's say 10 of each, nothing would be unlocked in the bazaar.
+- Once the player sells 2 Earth Stones, the Unassuming Surcoat becomes unlocked for purchase in the bazaar.
+- If the player purchases the Unassuming Surcoat, the items used to unlock this bazaar good are now consumed! All 10 Wolf Pelts and the 2 Earth Stones are no longer in stock.
+  - If the player now wants to unlock the Iron-forged Blade, they have to gather 3 Earth Stone now, because the initial 2 were used up.
+- However, if the bazaar good is unlocked but **NOT** purchased, the loot is not yet consumed!
+  - If the player were to find and sell one more Earth Stone, the Iron-forged Blade will become available for purchase in the bazaar as well.
+  - With both unlocked, you can purchase both. The bazaar goods share the overlapping loot required to unlock them. Once both are unlocked, if one is purchased, the other remains unlocked for purchase as well.
+- This particular aspect of the bazaar can be leveraged to make the creation of the best equipment in the game easier.
+  - One of the big examples of this is how the Kumbha/Masamune I and Tournesol, two of the best weapons in the game, are unlocked in the bazaar:
+    - Kumbha/Masamune I requires selling 2 Gemsteel, 3 Orichalcum, and 2 Mallet.
+    - Tournesol requires selling 3 Gemsteel, 3 Empyreal Soul, and 3 Serpentarius.
+    - Gemsteel is not something that can be gathered from stealing or dropping from enemies! It is a bazaar good, sold as Matchless Metal, that requires selling 1 Scarletite, 2 Damascus Steel, and 2 Hell-Gate's Flame.
+    - As an example, the efficient thing to do is to unlock BOTH of these weapons at once by only selling 3 Gemsteel rather than 5. It is much easier to gather only 3 Scarletite for the Gemsteel, for example.
+
+I *highly* recommend checking out the [Comprehensive Bazaar Guide by Tirpitz](https://steamcommunity.com/sharedfiles/filedetails/?id=1293521534), especially the section on Tips and Vendoring Trick for a more detailed explanation and guidance on how the bazaar works. My discussion above is a simplification of how the system works by Tirpitz721 nails the fine points really well.
+
+- Here is the list of loot you should hold on to until you have the quantities you need to unlock multiple bazaar items:
+  - Arcana
+  - High Arcana
+  - Damascus Steel
+  - Serpent Eye
+  - Moon Ring
+  - Feystone
+  - Soul Powder
+  - Scarletite
+  - Adamantite
+  - Sickle-Blade
+  - Hell-Gate's Flame
+  - Empyreal Soul
+  - Mallet
+  - Gemsteel
+  - Orichalcum
+  - Soul Powder (only sell 1 at a time)
+  - Soul of Thamasa (only sell 1 at a time)
+  - Serpent Eye (need 6 total; only sell 2 at a time)
+  - Snake Skin (need 12 total; only sell 4 at a time)
+  - Wargod's Band (need 6 total; only sell 2 at a time)
+- The following loot should only be sold one at a time for their repeatable bazaar packs:
+  - Rainbow Egg: repeatable Hi-Potion Pack
+  - Behemoth Steak: repeatable X-Potion Pack
+  - Demon's Sigh: repeatable Vaccine Pack
+  - Eye of the Hawk: repeatable Chronos Tear Pack
+- This loot should not be sold as they provide a use for other things and don't unlock any bazaar goods:
+  - Teleport Stones
+
+### Hunt Club
+
+***TODO***: Update this below with my findings after I have done this, but it looks like have the gist of how this works down based on the research.
+
+The Hunt Club side quest is able to be started once you have completed Draklor Laboratory. I recommend starting after you have completed the game and no longer have to worry about level caps.
+
+At the Hunter's Camp in Phon Coast, speak the the Huntmaster to get your first mark to hunt. Once you defeat the beast and get it's trophy, the Huntmaster will let you in the club and hunt other trophy game. There are a total of 30 trophy game to hunt which only appear once. You can also distribute the trophies to one of three bangaa: Atak, Blok, and Stok. The number of trophies that each of the three gets will determine the types of equipment that is available for purchase at the Shifty-Eyed Man's store. Atak is (if you could guess from the name) focused on weapons, Blok is for armor, and Stok is for accessories.
+
+The problem here: There are achievements for receiving a gift from the three bangaa and achievements for purchasing five specific items in the Hunt Club's shop (one is actually two items). So, how do we get all of these achievements?
+
+To get the gift achievements, you must give at least 16 trophies to one of the bangaa, dole out the other 14, and then speak to the Huntmaster. Additionally, you can ONLY get one gift. This means that you will need to save scum, giving 16 to the one that provides the item you don't want to hang onto, then reset, give 16 to another bangaa, and finally do that one more time for the gear you want to keep..
+
+As for the items in the shop, here are the requirements for each achievement required item:
+- Masamune: 30 to Atak and purchase for 700,000 gil
+- Nihopalaoa: 30 to Stok and purchase for 360,000 gil
+- Grand Armor: 30 to Blok and buy for 162,000 gil
+- Genji Gloves: 15 to Stok, 5 to Atak and Blok and buy for 447,000 gil
+- Zodiac Spear and Zodiac Escutcheon: 10 trophies to each and buy for 999,999 gil
+
+Okay, so this definitely means that save scumming is required to get them all in one playthrough. The question is, once you start, can you go get all of the trophy game before turning any of them in? It looks like that is case. Once the first trophy game is defeated and you speak to the Huntmaster once more, you can then hunt the remaining game and collect all the trophies. At that point, distribute as you wish to get the achievements, resetting until you finish with the final achievement of this group and have the gear that you actually want to keep.
 
 ### Sky Pirate's Den Notes
 
@@ -1159,8 +1220,52 @@ Talking to the final sister rewards the Ring of Renewal and the achievement.
 
 **Reks Smash** (???): Start a game in Strong Mode after the credits roll. Quickly go through the tutorial to the first "boss" and destroy it quickly to get this achievement. Just attack a few times to win.
 
-***TODO***: Make a list of all of the loot that is needed for the Bazaar achievements and where they are obtained!!!
-- It is imperative to note the one-time appearance enemies that have items to steal! Direct the players to farm the steal item from them as it'll be much easier that most other ways to obtain the needed items.
+**Conquerer** (Sky Pirate's Den): The description states "learning every License" in the game and on the RA site, but the actual requirement is earning 48,000 license points. Some people may get this before the end of the game. I got it shortly after finishing and starting up the postgame grind at my final save point.
 
-***TODO***: Determine the most efficient way to handle to Hunt Club. Is it going to require branching paths with a fallback save point?
+**The Sky is Falling** (Items?): Collecting Meteorites typically involves using the Diamond Armlet on your party leader and opening treasure chests with a 5% chance of the Meteorite being the item to find. Otherwise, you'll get money or a Knot of Rust instead. Meteorite A and B types are all over the place. Find a convenient place to spawn close to where a chest will appear most of the time and rezone while checking the chest and hope to get the Meteorite you are looking for. Type C is rarer. I used the chest (chest 42 on the [maps](https://steamcommunity.com/sharedfiles/filedetails/?id=1292596668)) near the northeast exit of Zertinan Caverns - Drybeam Cavern, though I'm sure there is some other chest that is better.
 
+**A Good Sand Scrub** (Challenge) and **A Dark Rumor** (Hunts): The final level cap challenge and it is associated with a hunt as well! The hunt, Belito, is a trap for the clan because Ba'Gamnan knew that Balthier was taking part in hunts. It's time for Balthier to solo Ba'Gamnan and his party!
+- There isn't a convenient save spot near this battle unfortunately. Traveling through Zertinan Caverns can be harrowing for a low level party, but you shouldn't be low level by this point. Since this is the last level cap, it's probably a good idea to get up to or close to level 60. It can't hurt to help surviving the onslaught.
+- Normally, Ba'Gamnan will focus on Balthier if he is present in the party. Since Balthier is the ONLY character, that doesn't matter. You will be joined by Monid from the clan, so it isn't actually a solo battle, but Balthier is still going to get hounded by the enemy party and especially Ba'Gamnan. Prepare by putting on the usual buffs prior to leaving Zertinan Caverns - The Canopy of Clay.
+- Ensure your gambits are set up to do your strongest damage. Strongest spells, strongest healing, re-upping buffs, etc. Make use of your elixirs to quickly heal if needed (I recommend resetting and doing this battle with a full party afterword to preserve the items used).
+- Quickenings are allowed. Make use of them to help reduce numbers of Ba'Gamnan's cronies.
+- Dark Matter/Dark Energy is also a great contender to quickly decimate Ba'Gamnan's lackeys, if you have one to spare. They will be killed with one, making the fight balance skew back in your favor.
+
+**Proof of the Hunt: Shelled** (Trophy Game): The Thalassinon is a tortoise type trophy game that is required to be fought first in the Hunt Club's trophy game side quest. Check out [the Hunt Club section](#hunt-club) for more details about how this works.
+- To find it, go to Phon Coast - The Vaddu Strand. Head up a cliff on the far east side of the zone and look out over the beach below. It can appear right away or take about a minute or so for it to spawn. Once spawned, you can head down and encounter it.
+- This is also the first trophy game that has rare loot needed for the bazaar that can be manipulated to gather the required resources easily. Set up gambits to steal with Thief's Cuffs on two characters and have them both stealing while having a third character with only healing gambits as well as Stona and Protectga. Steal an Adamantite from the monster and then run two zones away. Return and repeat. You need three total for two bazaar goods (or only two if you want to unlock both of them at once). Adamantite can be obtained from Adamantitan as well (as a grimoire drop, but at least this is guaranteed).
+- As for the combat, I'm not going to cover the details of that since, in the postgame, the shackles are off and you can use whatever skills and weapons you want to take down these beasts. Have fun!
+
+**Proof of the Hunt: Clawed** (Trophy Game): The Skullash is an Aevis type trophy game found in Phon Coast - Cape Tialan. When the Hunt Club trophy game is active, it has a 40% chance of spawning near the southern exit, around where a bunch of Pyrolisk hang out. You have to walk into this area in order for it to appear. Rezone until it shows up.
+- The Skullash has Charger Barding that can be stolen. You need 9 of them for two recipes (or 5 if you wait on purchasing bazaar goods that it unlocks). It can drop or be stolen from a quite a few other enemies as well so it isn't as important to try to get the item from it.
+
+**Show Off I and II (cont'd)**: The Apsara is a fish type rare game found in Phon Coast - The Mauleia Strand. It appears once 10 Piranha have been killed in the Phon Coast. The best place to farm the Piranhas is in The Vaddu Strand zone. You don't have to chain them for the rare game to spawn.
+
+**Proof of the Hunt: Odiferous** (Trophy Game): The Kris is a Malboro type trophy game found in Tchita Uplands - The Highlands. It has a 40% chance of spawning when entering the zone instead of one of the Malboro Overkings that inhabit the two large ruin buildings in the area. The southern exit is the ideal place to try to spawn Kris, since it is close to a building that a ton of Malboro Overking spawn at.
+- Kris doesn't have any exceptional items to steal from it.
+
+**Proof of the Hunt: Whiskered** (Trophy Game): Grimalkin is a Coeurl type trophy game found in Tchita Uplands - Uazcuff Hills. It has a 10% chance of spawning instead of any of the other Coeurl that appear in the zone.
+- It doesn't have any exceptional items to steal from it.
+
+**Show Off I and II (cont'd)**: A rare frog type monster called Tarasque will appear in Tchita Uplands - Garden of Life's Circle after a chain of 20 or more Serpents has been hit in the area. The best way to do this is to run around this zone as it has only Serpents and a Lizard. Avoid the Lizard hanging out by the northern exits and kill all of the Serpents. If you didn't hit the chain target, run through the northwest exit and past the save crystal (don't use it!) into the second zone, then back into Garden of Life's Circle to continue the chain of Serpents. After 20 chain, the rare game will spawn near the Lizard.
+
+**Proof of the Hunt: Ensanguined** (Trophy Game): Anubys is an Abysteel/bat type trophy game found in Sochen Cave Palace - Mirror of the Soul, in the room where the Megalixir is found after solving the Pilgrim's Door puzzle first. If you have done the puzzle once before, you must do it again for the game to appear.
+- The have Vampyr Fang to steal, which 3 are needed for the Crimson Blade bazaar package. Abysteel also drop them with the grimoire so it isn't urgent to farm from Anubys.
+
+**Proof of the Hunt: Frigid** (Trophy Game): Wendice is a wendigo type trophy game found in Sochen Cave Palace - Destiny's March. Run around the outside of the central area, similar to how you unlock the passage to the Hell Wyrm. Kill Wendigos until you see a red dot appear in the center room. About 5 or so Wendigos should be enough for Wendice to spawn.
+- The Wendice has a Gemini Gem to steal, which isn't remarkable as it can be obtained by steal or drop from multiple sources.
+
+**Archer's Bane** (Characters?): This milestone achievement unlocks as soon as you hit 500,000 steps. That's a lot of steps! Happy walking! You will undoubtedly unlock this during the postgame trophy/rare game hunting and gathering materials for the bazaar unlocks.
+
+**Proof of the Hunt: Adamantine** (Trophy Game): THIS IS ONE OF THE IMPORTANT GAME TO FARM FROM!!! The Aspidochelon is found in Cerobi Steppe - Feddik River. It has a 40% chance of replacing one of the Adamantitan in this zone. Once found, FARM SCARLETITE! You want 5 Scarletite (3 if you are not buying the bazaar packages until the end) for crafting the Gemsteel needed to make Tournesol and Masamune I.
+
+**Exemplar** (Sky Pirate's Den): Get an average level of 50 for the party to unlock this achievement.
+
+**Show Off I and II (cont'd)**: The Etherian is a flan type rare game that appears in Cerobi Steppe - The Northsward. Killing all fiends in the zone will cause it to spawn right near your party.
+- You can farm this rare game by leaving and reentering the zone immediately. As long as you don't go two zones away, all monsters stay dead so the requirement for Etherian to spawn stays. It has a chance to drop Silver Liquid so this is a good way to get the 11 you need (5 if doing the bazaar trick) fairly quickly. It will respawn between windmills 9 and 10.
+- This is also an opportunity to pick up the Ageworn Key at Windmill 10 if you have defeated Vyraal and got the dragon scale as part of your reward.
+
+**Floating Arrow of Doom** (???): Enter Cerobi Steppe - Old Elanise Road with the Seitengrat equipped to unlock this achievement. The arrow itself can be found floating near the northern exit of the zone, by where chest 99 can spawn. Check the [maps](https://steamcommunity.com/sharedfiles/filedetails/?id=1292596668) for more details of the exact location.
+
+**Proof of the Hunt: Cruel** (Trophy Game): ***TODO*** This is the next thing to do in the morning!!!!!!!
+- This is another good candidate for farming their item: Damascus Steel. They are used to make Gemsteel and 2 are required for each Gemsteel. Since you need to create 5 Gemsteel (3 with the bazaar trick), you will want to have 10 Damascus Steel (6 with the bazaar trick). It is possible to farm them from the Bune enemy in Pharos, but that won't be as reliable as this.
