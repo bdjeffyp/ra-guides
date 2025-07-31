@@ -1384,6 +1384,7 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
 - There is a lot of different commentary on how to get Cultsworn Lich to spawn. My experience was that a Lich may use Divide a few times and then just refuse to Divide any more. When that happens, kill it and move on to find another one. Good luck!
 
 **Hunter of Monsters IV** (Bestiary): By far, the hardest "regular" enemy in the game is Archaeoaevis. Two can be found in Zertinan Caverns - The Balamka Fault. They can spawn with a level between 50-99 and it's max HP will be unknown with Libra because it will be over 100,000. Using Ribbons on all party members is recommended because of the many status effects that they can inflict. Rezoning can be a good idea in order to check the level of the nearest archaeoaevis to find one at a lower level, but the fight will still be difficult. Using Wither could help to reduce the damage they inflict, and Blind can prevent them from even landing hits, making the fight much more bearable. Meanwhile, apply the usual buffs to the party. Keep close to the zone exit while these monsters rush to attack you so that you can hop out to heal up and then resume the fight at the same spot you left. Good luck!
+- Technically, it seems that you only need to have targeted or been targeted by an enemy for it to register, but I like to have entries in the bestiary to know which enemies I actually have registered.
 
 **Paying for the Past** (Hunts): Catoblepas is found in Zertinan Caverns - Hourglass Basin, on the secret passage side of the zone.
 
@@ -1407,10 +1408,38 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
 
 **Mage's Circlet** (Treasure): A Circlet can be found in a guaranteed one-time chest in Henne Mines - Phase 2 Dig in the unmarked path that connects the two sides of this zone together.
 
-**Volcano Punch** (Treasure): The Volcano T hand bombs can be found in a guaranteed one-time chest in Henne Mines - Phase 2 Dig in the room on the map that doesn't appear connected to the rest of the zone.
+**Volcano Punch** (Treasure): The Volcano T hand bombs can be found in a guaranteed one-time chest in Henne Mines - Phase 2 Dig in the room on the map that doesn't appear connected to the rest of the zone. It looks like there is another guaranteed Volcano T can be found in the Phase 2 Shaft zone to the north of the exit to Special Charter Shaft, but I didn't see it there. Perhaps these two chests are linked?
 
 **Show Off II (cont'd)**: Glaring Eye is a ghost/lich type rare game that appears after killing 3 Hecteyes in Henne Mines - Crossover C and Phase 2 Shaft.
 
 **MegaStash** (Treasure): While going through Henne Mines - Phase 2 Dig, there is a discarded letter that can be found in a dead end to the far west, upper half of the zone. Read it to learn about a hidden stash. Later, in the Special Charter Shaft zone, in a dead end to the north, is a glowing red light on the ground. Examine it to find the hidden stash of 3 Bacchus's Wine and 2 Megalixirs!
 
 **Dressed Like a Lord** (Treasure): In Henne Mines - Special Charter Shaft in a dead end west and center of the zone is a guaranteed one-time chest that contains Lordly Robes.
+
+**Zodiac Brave** (Treasure): In Henne Mines - Special Charter Shaft, a one-time chest that has a 25% appearance rate contains a Brave Suit. It is located on the lower east side of the map, in an unmarked area that is a T-intersection with a boulder in it. The chest will appear behind the boulder if you enter the intersection from the south. It is chest 54 on the maps.
+
+**Grand Ole Armor** (Treasure): In Henne Mines - Special Charter Shaft, a one-time chest that has a 25% appearance rate contains Grand Armor. It is located in the same spot as the hidden stash in a dead end in the north of the map. It is chest 59 on the maps.
+
+**Proof of the Hunt: Scythe** (Trophy Game): The Biding Mantis is found in Golmore Jungle - The Needlebrake when the game clock minutes is between 30 and 59. There are one of several spots that it could spawn. It has Tattered Garments as a rare steal but you can also get them as a grimoire drop from Scythe Mantis.
+
+**Proof of the Hunt: Mind** (Trophy Game): Ancbolder is a headless humanoid type trophy game that appears in Paramina Rift - Karydine Glacier. It has the exact same requirements to appear as the rare game Anchag in this zone: eliminate all enemies in the zone, leave and reenter, and it'll appear in the south center of the zone.
+
+**Wyrm Wrath's Renewal** (Hunts): Fafnir is found in Paramina Rift - Silverflow's End when there is a blizzard in progress. For that to happen, you can speak with Relj, the hunt's petitioner, in Mt. Bur-Omisace and a blizzard will begin. The blizzard will maintain as long as you don't enter the Frozen Brook zone on the way to Silverflow's End. With 1.3 million HP, Fafnir will take a lot of work to whittle down but by this point the party should be able to handle it with the wide variety of skills, spells, and equipment. Once complete, return to Relj for the reward and achievement.
+
+**Befoulment of the Beast** (Hunts): I completely forgot about this hunt during the course of the normal game and ended up finishing it during cleanup. It can certainly be completed while on the way to Stilshrine of Miriam for getting the Sword of Kings. In any case, you'll find the Feral Retriever, a coeurl type fiend, in Paramina Rift - Spine of the Icewyrm.
+
+**Proof of the Hunt: Eternal** (Trophy Game): Myath is a dragon zombie type trophy game found in Stilshrine of Miriam - Ward of Velitation. For it to spawn, you must first eliminate all of the dragon aevis in the room, leave and reenter and it will be waiting.
+
+**The Condemner** (Espers): Zeromus is found at Stilshrine of Miriam - Throne of the Veiled Gods. To access this chamber, you need to have received the Stone of the Condemner from an acolyte at Mr. Bur-Omisace after defeating Judge Bergan. Use the way stone at the back of the Ward of Measure zone and say that you want to use the Stone of the Condemner to go to Zeromus' chamber. Before opening the door to the boss, ensure you have non-magic gambits set up. Zeromus has an anti-magic field, preventing all spells from being used.
+
+**Proof of the Hunt: Feathered** (Trophy Game): Dreadguard is a larger version of the Mirror Knight fiends in The Feywood - Walk of Dancing Shadow. It has a 40% chance of spawning instead of a regular Mirror Knight near the center of the zone.
+
+**A Wild Stench** (Hunts): This large malboro is joined by four smaller ones in The Feywood - Redolent Glade. Ribbons and other preventative measures from Bad Breath are helpful.
+
+**Show Off II (cont'd)**: Juggernaut is a golem type rare game found in The Feywood - White Magick's Embrace when the game clock minutes are between 0 and 10. It'll spawn near the north entrance.
+
+**Truth Shrouded in Mist** (Hunts): The Behemoth King is a much worse version of Fafnir, found in The Feywood - Edge of Reason. To get it to appear, you must defeat a Giruveganus in Edge of Reason, then eliminate all monsters in Ice Field of Clearsight. Return to Edge of Reason and the spot where the Giruveganus spawned is where the Behemoth King should now be. If a Giruveganus is still spawning, kill it again and rezone and now the Behemoth King should show.
+
+**Wyrm Booger** (Treasure): Using the hint learned by the petitioner of the Behemoth King hunt, return to Mt. Bur-Omisace - Temple Approach. A new prompt will appear as you approach the giant skull. Strike the Wyrm Snout and you'll get your real reward for the Behemoth King fight.
+
+**Genji Theft** (Stealing): 
