@@ -469,7 +469,7 @@ Okay, so this definitely means that save scumming is required to get them all in
 
 **Premier Prestidigitator**: Unlocked when the metric was reached without needing to go to the Den.
 
-**Wayfarer**: This unlocked when I saved the game as I hit 50,010 steps. Perhaps these achievements got updated to fix the issue regarding the ones that explicitly state to check the Sky Pirate's Den so that they'll unlock when saving the game?
+**Wayfarer**: This unlocked when I saved the game as I hit 50,010 steps. Perhaps these achievements got updated to fix the issue regarding the ones that explicitly state to check the Sky Pirate's Den so that they'll unlock when saving the game? (Nope...)
 
 **The Unrelenting**: This unlocked as soon as I hit 50-chain.
 
@@ -486,6 +486,8 @@ Okay, so this definitely means that save scumming is required to get them all in
 **Spendthrift**: Unlocked when I purchased the Canopic Urn as that pushed me over the threshold of spending 1 million gil.
 
 **Mist Walker**: Unlocked upon use of the last concurrence.
+
+**Jack-of-All-Trades**: This is the first of these that actually required me to go into the Clan Primer for the achievement to unlock. All others up to this point unlocked upon meeting the condition, contrary to the description.
 
 ### Some Mechanics Notes
 
@@ -1232,7 +1234,8 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
   - Cerobi Steppe - Feddik River: Chest 57, the northern most chest. The chest itself has a 10% chance of even spawning, so it's not very good odds.
   - Tchita Uplands - Sundered Earth: Chest 67, located in the southern central section of the zone. It also only has a 10% chance of spawning, so the Cerobi Steppe chest is slightly better because of it's vicinity to a zone entrance.
   - Dalmasca Westersand - Shimmering Horizons: Chest 20, located near the center of the zone. The center exit north is probably a good spot to rezone for trying to get this. The chest only has a 2% spawn rate, which is just awful...
-  - Henne Mines - Phase 2 Dig: Chest 28, a 2% spawn chest, but it is a one time chest with a *guaranteed* Meteorite type D if it spawns and you wear the Diamond Armlet!
+  - Henne Mines - Phase 2 Dig: Chest 28, a 2% spawn rate, but it is a one time chest with a *guaranteed* Meteorite type D if it spawns and you wear the Diamond Armlet! This is the one that I used to get the achievement.
+  - The Great Crystal - Many locations: Quite a few chests (check the maps) with a 5% spawn rate. If the Meteorite chest appears, the four different Meteorites fill all four slots. With the Diamond Armlet, type D is still the in the rare slot, as opposed to type A. Fortunately, these chests also have a lower chance of being a money chest. These could be good candidates to grind for the type D Meteorite.
   - ***TODO***: Any others???
 
 **A Good Sand Scrub** (Challenge) and **A Dark Rumor** (Hunts): The final level cap challenge and it is associated with a hunt as well! The hunt, Belito, is a trap for the clan because Ba'Gamnan knew that Balthier was taking part in hunts. It's time for Balthier to solo Ba'Gamnan and his party!
@@ -1333,7 +1336,7 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
 
 **Show Off I (cont'd)**: A Grey Molter can appear on Mosphoran Highwaste - Empyrean Way when the south shrine in the Bubbling Vale is active, creating a floatweed path to the eastern section of the zone. However, it will only spawn when the game clock minutes are between 10 and 20. Grey Molter is a snake type monster and is hidden until you get close to its spawn point. If you are in the zone when the timer is between 10 and 20 minutes and you can't find it while wandering the area, leave the zone and return and try again.
 
-**Mirage a Trois** (Stealing): The trophy game Dheed and Disma have the Mirage Vest that can be stolen from them as a rare steal. Dheed is located at Mosphoran Highwaste - Skyreach Ridge while Disma is found at Lhusu Mines - Site 5 and Site 6 South. Setup characters to not have attack gambits while one or two characters with Thief's Cuffs are on stealing duty.
+**Mirage a Trois** (Stealing): The trophy game Dheed and Disma have the Mirage Vest that can be stolen from them as a rare steal. Dheed is located at Mosphoran Highwaste - Skyreach Ridge while Disma is found at Lhusu Mines - Site 5 and Site 6 South. Setup characters to not have attack gambits while one or two characters with Thief's Cuffs are on stealing duty. Disma's appearance is a bit more difficult to contend with, since it spawns in those locations in the place of the many Dark Lords in the zones and can pop up unexpectedly, more so than Dheed. Also, Disma is much more difficult compared to Dheed. I highly recommend Dheed for getting this achievement.
 
 **Proof of the Hunt: Leathern** (Trophy Game): Dheed is a wyvern type trophy game found at Mosphoran Highwaste - Skyreach Ridge. It has a 40% spawn chance with every entry into the zone. Since the zone is a steep climb toward the area's summit, it may be hard to see the monster is there at first as your camera will often be facing the ground as you head toward the summit exit. The zone is also full of bird type fiends so it may be hard to identify that Dheed is even there until you have killed it or realize that it is taking a lot longer to defeat this one enemy compared to the others. The problem with this is that Dheed is one of the two trophy game tied to the **Mirage a Trois** missable achievement. Make sure you steal your Mirage Vest from the fiend (or more than one if you want to get more) otherwise you'll need to get it from Disma instead (perhaps you may prefer getting it from that trophy game instead too).
 
@@ -1442,4 +1445,55 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
 
 **Wyrm Booger** (Treasure): Using the hint learned by the petitioner of the Behemoth King hunt, return to Mt. Bur-Omisace - Temple Approach. A new prompt will appear as you approach the giant skull. Strike the Wyrm Snout and you'll get your real reward for the Behemoth King fight.
 
-**Genji Theft** (Stealing): 
+**Genji Theft** (Stealing): Gilgamesh is an interesting fight as you are required to fight him twice and every 20% HP ticked off his health bar adds new items to steal from him. The Genji equipment shows up between 40%-20% and 20% to 0% across BOTH fights! For this challenge, this means that you have to do both battles back to back, stealing all of the Genji gear *without saving your game*. Additionally, you need to open up the chest containing the Masamune during or after the second fight.
+- In order to avoid issues with enemies between zones, I bee-lined directly to Site 7 after completing the first fight with Gilgamesh on Tasche Span. If you have the Diabolos hunt active, there will be no enemies in Site 11, making this run between fights a bit easier.
+- To control the stealing and phases, I turned off all attack gambits, manually issuing commands to do damage to push HP thresholds then let the steal gambits do their work until the message appeared that there is nothing to steal. Fortunately, when the Genji equipment is able to be stolen, there are no other items in the other steal slots so a successful steal *will* be Genji gear.
+- Take out Enkidu first though with your strongest spells and attacks at the start of both fights.
+- The first fight has the Genji Shield (40-20%) and Genji Gloves (20-0%). At 20% HP, Gilgamesh will be invulnerable for a little bit. Overall, the fight is unremarkable if your levels are high by this point (I was level 64 average).
+- The second fight has the Genji Helm (40-20%) and Genji Armor (20-0%). Gilgamesh is much stronger in this fight and has level divisible spells (Level 2 Sleep, Level 3 Disable, and Level 4 Break). Make sure you use party members that are not divisible by these values! While in the final phase, Gilgamesh uses Perfect Defense. You'll be unable to do anything to him, including steal, during this period. This is a perfect opportunity to get the Masamune from the chest, if your team can keep up with healing from his attacks. If you grab the Masamune during the fight and steal the Genji Armor at the end, as long as you got every other piece, the achievement unlocks at that moment.
+
+**Battle on the Big Bridge** (Hunts): Tell Montblanc about defeating Gilgamesh to get your reward and achievement!
+
+**More Like a Dork** (Treasure): A guaranteed chest with the Whale Whisker can be found in Lhusu Mines - Site 6 North. It is behind the trapped chest with Maximillian in it.
+
+**Proof of the Hunt: Accursed** (Trophy Game): Disma is a very terrifying zombie type trophy game that is fluent with spells that can quickly remove thousands of HP or outright kill a character, becoming faster as its HP gets lower. It can appear anywhere in Lhusu Mines - Site 5 or Site 6 South, replacing one of the Dead Bones that spawn here. It is considered one of the hardest of the trophy game enemies. Be ready for a battle!
+
+**Cartography (cont'd)**: The Lhusu map candle is located in Lhusu Mines - Site 5 in the southernmost dead end. By this point, you'll have already visited all of (or most of) the locations in Lhusu Mines, but if you missed Site 6 North, this will hint to where it is.
+
+**The Child Snatcher** (Hunts): Doing this hunt when ready for the second Gilgamesh fight makes it easy. You'll find Diabolos in Lhusu Mines - Site 11, in a dead end path to the southwest.
+
+**Show Off II (cont'd)**: You'll need to leave and come back into Lhusu Mines - Site 11 after killing Diabolos. Kill all of the enemies in this zone, including any mimic chests, to spawn Gemhorn in the same location Diabolos was at. The mimics are located where Gemhorn spawns, by a trapped chest, as well as near the mine cart that takes you to Site 5. Gemhorn is a very large slaven type rare game that is not aggressive.
+
+**Visitor on Deck** (Hunts): Deathgaze can be found on the passenger airships. It only has a chance of showing when you charter a flight. You can use private cabins to make things faster. After landing and no Deathgaze, talk to the kid who gave you the hunt to improve the odds of Deathgaze showing up. Keep flying and you'll get woken up to help defend the ship when it appears. Deathgaze has a fun way of being defeated since it is vulnerable to Reverse. By using Reverse, Renew, and then Cure, you can kill it very quickly without the pain of dealing with the physical palings it puts up.
+
+The World Tour is pretty much done! Now I'm diving into Ridorana, Pharos, and Giruvegan/Great Crystal to wrap up the trophy game and rare game. Then I'll be getting my levels up in order to handle the remaining espers and bosses.
+
+**Proof of the Hunt: Reptilian** (Trophy Game): The Abelisk is a tyrannosaur trophy game found at Ridorana Cataract - Echoes from Time's Garden. It has a 30% chance of spawning in the center of the zone with each entry.
+
+**Who's the Strongest!?** (Hunts): Pylraster is found where Hydro was fought, in front of the entrance to the Pharos.
+
+**Race of Balance** (Minigame): I finally got back to doing more of this after the World Tour. I learned from [Mimicmatter](https://retroachievements.org/user/mimicmatter) that the Circle and Cross buttons alternating are used to move in a straight line. If you press one of the buttons more than another, you drift in the direction that is pressed (Cross is left, Circle is right). Use this to your advantage to take the corners in the race track tighter. For example, after the start of the race, run forward a bit (until the bird dude trips the first time), then double tap Cross, then continue to alternate. This will turn Vaan toward the first corner so that you take the turn sooner. Once past that turn, tap Circle a few times to turn toward the inside of the second corner and then continue to run straight. Finally, after the final turn, straighten yourself out to get to the stairs in the shortest path and you'll win easily (at least, for these first ten races).
+
+**Zodiac's Gift** (Treasure): Grinding to make this chest appear, along with the Addle chest, in Henne Mines - Special Charter Shaft is an excellent way to raise levels of your party. I dipped into this spot to do grinds for these chests in between wrapping up my last trophy game and rare game hunting. The Zodiac Spear chest appears on the steps leading down, just before getting into the cavern sections of the zone.
+
+**Cartographer (cont'd)**: The Pharos Subterra is accessible near the end of the game by taking the elevator from near the teleport crystal down. There is no map for this space so it is upon you to manually map out each area. Thankfully, most areas are "hidden" and won't get mapped. You just need to walk around the ring and enter the four doors of each floor. Also, make sure you kept all of the Black Orbs obtained from the First Ascent so that you can light up the spaces of the Subterra, though you can gain more from the enemies here as well as Massive Black Orbs that give a large number of them.
+
+**God or Devil?** (Hunts): Before you can fight "The Seer", you need to have defeated Phoenix in Pharos Subterra - Penumbra North. You find it in the center of the northern rooms of this level.
+
+**Jack-of-All-Trades** (Sky Pirate's Den): This statue unlocked after I got the Wither technick in Pharos Subterra, however, I needed to go into the Clan Primer for it to unlock the achievement. This is one of the statues that the descriptions warn about and the first that I have encountered that required explicitly going to the menu to get the achievement.
+
+**God or Devil? (cont'd)**: To access the seat of the Shadowseer, you will need to light all corners of each floor with Black Orbs to proceed down to the next level, repeating for three levels. At that point, you can access the "unknown" floor, where the fight with the Shadowseer begins. It'll summon the three bosses of the Pharos Ascent and Phoenix one at a time. Once defeated, you'll then be able to kill the Shadowseer and finish this hunt.
+
+**Fishy Dreams** (Hunts): Ixion can appear on any floor of the Pharos Subterra. If you arrive on a floor and no enemies are swarming you, Ixion will spawn in shortly thereafter.
+
+**Show Off II (cont'd)**: After defeating the Shadowseer, there is a 25% chance that the rare game Vagrant Soul will appear in the center room of Pharos Subterra - Abyssal North. It is a dark element entite enemy. Once Vagrant Soul is defeated, go up to Umbra South's center room to find the rare game Luxollid, a holy entite.
+
+**Proof of the Hunt: Skull** (Trophy Game) *and* **Glimmering Crystal** (Stealing): To get the trophy game Crystal Knight to appear in The Great Crystal - A Vikaari Kanbhru Ra, make a circle around to the Sagittarius Gate Stone and back. You do not have to flip the Sagittarius Gate Stone to make Crystal Knight appear. When you make the loop, the Crystal Knight will be waiting. Make sure to steal the Glimmering Robes from the Crystal Knight before killing it. Once the achievement unlocks, turn attack gambits back on and finish the job.
+
+**Show Off II (cont'd)**: Larva Eater is a gargoyle type rare game that appears in The Great Crystal where Way Stones XIII and XIV are. It only appears after having killed 256 enemies within The Great Crystal without leaving. You do not have to chain that amount. Larva Eater can rarely drop Hunter's Blade F (needed for **Eating Larva**).
+
+**Darkness Prevails** (Treasure): A Yagyu Darkblade can be found in The Great Crystal - Sirhru Jilaam Pratii'vaa. The chest has a 25% appearance rate but the zone exit is so close that it is very easy to rezone until the chest appears.
+
+**Show Off II (cont'd)**: Evil Spirit is a ghost/lich type rare game that appears in The Great Crystal at Way Stones XVIII, XIX, or where the Aquarius Gate Stone is at. It has a 5% chance of replacing one of the Forbidden that spawn in these zones. It has a chance to drop Dragon Whisker L (needed for **Whisker of the Evil Spirit**).
+
+
