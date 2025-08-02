@@ -461,6 +461,8 @@ Okay, so this definitely means that save scumming is required to get them all in
 
 ### Sky Pirate's Den Notes
 
+***TODO***: Have a section of lists, such as a list of all spells and technicks. This can help players who are working to avoid missing their Sky Pirate's Den achievements to have something convenient to compare against. Perhaps use a Google Sheets checklist?
+
 **Cartographer**: This requires having entered every zone in all regions (except for one-time visit locations, the final dungeon, and areas without a mini-map). Purchasing/finding maps will enable you to just enter a zone to consider an area "fully explored" without having to light up every inch of a zone.
 
 **Assault Striker**: Unlocked when the metric was hit without needing to go into the Den (makes sense as the game probably has a very easy value to check for number of times Attack is used).
@@ -488,6 +490,10 @@ Okay, so this definitely means that save scumming is required to get them all in
 **Mist Walker**: Unlocked upon use of the last concurrence.
 
 **Jack-of-All-Trades**: This is the first of these that actually required me to go into the Clan Primer for the achievement to unlock. All others up to this point unlocked upon meeting the condition, contrary to the description.
+
+**Runeweaver**: This one also required me to open the Clan Primer to unlock the achievement. Spells, in particular, are many and having a checklist or a simple list to compare against could aid players to avoid missing this.
+
+**Radiant Savior**: Weirdly, the boss fight wasn't the trigger for this achievement, but the actual decoration in the Sky Pirate's Den. So, this also requires opening the Clan Primer to unlock.
 
 ### Some Mechanics Notes
 
@@ -1387,7 +1393,7 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
 - There is a lot of different commentary on how to get Cultsworn Lich to spawn. My experience was that a Lich may use Divide a few times and then just refuse to Divide any more. When that happens, kill it and move on to find another one. Good luck!
 
 **Hunter of Monsters IV** (Bestiary): By far, the hardest "regular" enemy in the game is Archaeoaevis. Two can be found in Zertinan Caverns - The Balamka Fault. They can spawn with a level between 50-99 and it's max HP will be unknown with Libra because it will be over 100,000. Using Ribbons on all party members is recommended because of the many status effects that they can inflict. Rezoning can be a good idea in order to check the level of the nearest archaeoaevis to find one at a lower level, but the fight will still be difficult. Using Wither could help to reduce the damage they inflict, and Blind can prevent them from even landing hits, making the fight much more bearable. Meanwhile, apply the usual buffs to the party. Keep close to the zone exit while these monsters rush to attack you so that you can hop out to heal up and then resume the fight at the same spot you left. Good luck!
-- Technically, it seems that you only need to have targeted or been targeted by an enemy for it to register, but I like to have entries in the bestiary to know which enemies I actually have registered.
+- Technically, it seems that you only need to have targeted or been targeted by an enemy for it to register, but I like to have entries in the bestiary to know which enemies I actually have registered. The achievement will unlock once the last enemy targets you and vice versa.
 
 **Paying for the Past** (Hunts): Catoblepas is found in Zertinan Caverns - Hourglass Basin, on the secret passage side of the zone.
 
@@ -1413,7 +1419,7 @@ It's time for a **WORLD TOUR**! The goal for now is to go around the world, star
 
 **Volcano Punch** (Treasure): The Volcano T hand bombs can be found in a guaranteed one-time chest in Henne Mines - Phase 2 Dig in the room on the map that doesn't appear connected to the rest of the zone. It looks like there is another guaranteed Volcano T can be found in the Phase 2 Shaft zone to the north of the exit to Special Charter Shaft, but I didn't see it there. Perhaps these two chests are linked?
 
-**Show Off II (cont'd)**: Glaring Eye is a ghost/lich type rare game that appears after killing 3 Hecteyes in Henne Mines - Crossover C and Phase 2 Shaft.
+**Show Off II (cont'd)**: Glaring Eye is a ghost/lich type rare game that appears after killing Hecteyes in Henne Mines - Crossover C and Phase 2 Shaft. It has a 10% chance to spawn with each Hecteyes killed.
 
 **MegaStash** (Treasure): While going through Henne Mines - Phase 2 Dig, there is a discarded letter that can be found in a dead end to the far west, upper half of the zone. Read it to learn about a hidden stash. Later, in the Special Charter Shaft zone, in a dead end to the north, is a glowing red light on the ground. Examine it to find the hidden stash of 3 Bacchus's Wine and 2 Megalixirs!
 
@@ -1488,12 +1494,44 @@ The World Tour is pretty much done! Now I'm diving into Ridorana, Pharos, and Gi
 
 **Show Off II (cont'd)**: After defeating the Shadowseer, there is a 25% chance that the rare game Vagrant Soul will appear in the center room of Pharos Subterra - Abyssal North. It is a dark element entite enemy. Once Vagrant Soul is defeated, go up to Umbra South's center room to find the rare game Luxollid, a holy entite.
 
+**The Black Sorcerer** (Hunts): The Piscodaemon is found in Giruvegan - Gate of Fire, on the opposite side of the invisible bridge that leads to The Great Crystal Way Stone.
+
 **Proof of the Hunt: Skull** (Trophy Game) *and* **Glimmering Crystal** (Stealing): To get the trophy game Crystal Knight to appear in The Great Crystal - A Vikaari Kanbhru Ra, make a circle around to the Sagittarius Gate Stone and back. You do not have to flip the Sagittarius Gate Stone to make Crystal Knight appear. When you make the loop, the Crystal Knight will be waiting. Make sure to steal the Glimmering Robes from the Crystal Knight before killing it. Once the achievement unlocks, turn attack gambits back on and finish the job.
 
 **Show Off II (cont'd)**: Larva Eater is a gargoyle type rare game that appears in The Great Crystal where Way Stones XIII and XIV are. It only appears after having killed 256 enemies within The Great Crystal without leaving. You do not have to chain that amount. Larva Eater can rarely drop Hunter's Blade F (needed for **Eating Larva**).
 
 **Darkness Prevails** (Treasure): A Yagyu Darkblade can be found in The Great Crystal - Sirhru Jilaam Pratii'vaa. The chest has a 25% appearance rate but the zone exit is so close that it is very easy to rezone until the chest appears.
 
-**Show Off II (cont'd)**: Evil Spirit is a ghost/lich type rare game that appears in The Great Crystal at Way Stones XVIII, XIX, or where the Aquarius Gate Stone is at. It has a 5% chance of replacing one of the Forbidden that spawn in these zones. It has a chance to drop Dragon Whisker L (needed for **Whisker of the Evil Spirit**).
+**Show Off II (cont'd)**: Evil Spirit is a ghost/lich type rare game that appears in The Great Crystal at locations where Forbidden spawn. It has a 5% chance of replacing one of the Forbidden that spawn in these zones. The zones are the ones surrounding the save crystal near where Ultima spawns as well as the zones that lead to Omega Mark XII. It has a chance to drop Dragon Whisker L (needed for **Whisker of the Evil Spirit**).
 
+**Gaze of the Scorpion** (Treasure): The rare game Glaring Eye (spawns occasionally after killing Hecteyes in Henne Mines) can rarely drop a Scorpion Tail. Getting chain levels of Hecteyes is probably difficult to manage, given that they tend to be around Abysteel so I happened to get lucky and one dropped. RNG manipulation will probably be required if the rare drop isn't happening naturally.
 
+**Monk's Training** (Milestones): Getting an average level of 75 across the party is something that should be done over the course of normal preparation for getting the party through the superbosses and Trial Mode.
+- Henne Mines Phase 2 areas and beyond are great for experience points, especially when coupled with Embroidered Tippet. Pithead Junction C, in particular, is a fantastic spot for grinding Abysteel.
+- The Great Crystal areas beyond the Scorpio gate has a decent quantity of Necrofiends that can spawn. Forbidden are also plentiful in the zones surrounding the save crystal near Ultima, though their status ailments can make using the Embroidered Tippet over a Ribbon a bit more risky (or use gambits to heal them if Ribbons aren't available anyway). Forbidden are even more plentiful on the route down to Omega Mark XII!
+
+**Echoes of Glory** (Minigame): I discovered that you don't actually need to alternate to move forward. You can mash both buttons simultaneously to move in a straight line. With that knowledge, you can set up turbo macros in PCSX2 to assigned Circle and Cross to one or two buttons that press those buttons every frame and breeze through races 11 through 25 without issue.
+
+**Reflecting on Glory** (Minigame): Race 34 was the first race that I lost using just straight up turbo inputs without adjusting my running path, losing to the little guy. I retried and was able to win so there is some randomness to this. Sometimes, the little guy doesn't even trip, which would mean that either you MUST try to block them by positioning yourself in front of them, or it is impossible to win races when that happens.
+
+**Downstream Fished** (Minigame): Give the fishing rod you acquired in Balfonheim to Ruskel in Dalmasca Estersand - South Bank Village. You'll find them on a small section of pier to the left of the boat that takes you to North Bank Village. Once they have the rod, talk to Ruskel again to start fishing. You only have Downstream as a location initially. To unlock a new location, and this achievement, perform the fishing minigame five times perfectly (no input mistakes which gives you the bonus item found). You *do not* have to do it perfectly five times in a row. Inputs consist of a string of four face button inputs, sometimes with a D-pad direction. The buttons will travel from the left or right and you must enter those inputs before the opposite side of the screen is reached or pressing the wrong button.
+
+**Runeweaver** (Sky Pirate's Den): This is another Sky Pirate's Den achievement that DOES require going into the Clan Primer in the menu in order to unlock it. If you are getting close to having all spells in the game, check the Clan Primer to see if the achievement unlocks. An easy way to tell if you have all of them is to go into the Gambits menu, click on an action, then scroll through all of the spell tabs to see if there are any blank spots. That will help you to identify what type of magic is missing and possibly infer which spell remains. You can also check the lists to compare your gambit actions list against to see exactly which spell is missing.
+
+**Whisker of the Evil Spirit** (Treasure): Getting the Dragon Whisker L to drop from an Evil Spirit can be tough, given that it is the rare drop. However, you can improve your chances by grinding along the path to Omega Mark XII. Tons of Forbidden appear along this path and increase the possibility of Evil Spirit showing up. An added bonus: you can quickly build up chain levels on all of the Forbidden to improve the odds when breaking the chain on Evil Spirit. While Evil Spirit will show up more frequently, if your chain level isn't maxed out by the time it shows, it's not the end of the world. This is perfect to combine with raising levels for **Monk's Training**.
+
+**Unpurified Race Runner** (Minigame): At race 70, Rikken was getting consistently getting just ahead of me when just straight turbo running with the frame limit removed. At this point, I had to run the races at normal speed and adjust myself to cut the corners to be able to consistently win. There are still moments that the little dude will sprint out ahead. It seems like if you bump into them on the second leg that they tend to fall over. I was still able to use turbo button mashes, but quickly release one button or another to make fine adjustments to be able to cut the corners readily. The last ten races have the other racers a bit faster, but keeping consistent on the cornering is still enough to stay ahead.
+
+**Radiant Savior** (Superbosses): After defeating the Hell Wyrm, make sure to go into the Clan Primer to unlock this achievement.
+
+**Proof of the Hunt: Slimy** (Trophy Game): Melt is a flan type trophy game found in Henne Mines - Pithead Junction B. Instead of many flan falling from the ceiling pressing the Gate Switchboard button, a giant Hecteyes could fall instead. That is Melt.
+
+**Show Off II (cont'd)**: Vishno is a brainpan type rare game that appears in Pharos First Ascent - Wellspring Ravel 4th Flight, close to the stairs leading up to Horizon's Break. It only appears if you have killed at least 10 Deidars. You may need to double back to get enough Deidars to appear.
+
+**Proof of the Hunt: Vile** (Trophy Game): Avenger is yet another headless humanoid trophy game found in Pharos Second Ascent - Station of Ascension, close to the stairs leading up to Reach of the Damned. The floor indicator near the minimap will say Floor 63.
+
+**Show Off II (cont'd)**: Bombshell is can be found at Lhusu Mines - Lasche Span. It has a 20% spawn chance and can appear near either entrance to the zone.
+
+**Show Off II (cont'd)**: Imdugud is a zu type rare game found where you fought "Belito", a.k.a. Ba'Gamnan II, in Nam-Yensa Sandsea - Withering Shores. Grab the chest containing a Turtleshell Choker that appears in the center of the platform and stand where the chest was. Imdugud should appear shortly thereafter. It if doesn't appear within 10 seconds, make sure you are right in the center of the platform.
+
+**Great Crystal Debugging** (Superbosses): Omega Mark XII can be found in The Great Crystal via a chain of Way Stones. It is only active once the Yiazmat hunt is accepted. Prepare with the usual buffs but also make use of Wither to reduce Omega's ridiculous attack power while the other party members keep the HP up. Once a Wither lands, the rest of the battle will become much more manageable. Keep laying on Wither while healing until people stop dying then switch to attacking. Eventually, Omega will Berserk whoever is doing the primary healing. Use Dispel to remove it and keep going. Once defeated, pick up the Omega Badge loot that drops. That's one part for the final Bazaar good: the Wyrmhero Blade.
