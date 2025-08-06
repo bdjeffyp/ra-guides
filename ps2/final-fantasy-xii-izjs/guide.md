@@ -365,6 +365,10 @@ I'll focus these notes for now on the achievements that take place between the s
   - Larsa and Reddas: average of the two highest level characters + 2 levels
   - Vossler: average of the two highest level characters + 4 levels
   - *Example*: You have a party of levels 14, 14, 15, 15, 15, 16. Vossler joins. His level will be 19 because 4 plus 15 (15 and 16 average rounded down).
+- Chain level notes:
+  - ***TODO***: Fill out details here on building chain level and its intricacies
+- Zone out glitch: This is something that may be key for you to build chain on certain enemies that only appear once in an area. When killed, this monster won't spawn again until you leave the area and return. If you leave a zone while a monster is dying but before the Exp and LP appear on screen, the chain will increase but the monster won't be considered "killed" so it will reappear when you return to the zone.
+  - There are a couple of instances were this is really useful for achievements so I will call out using the zone out glitch. For example, using Dustia to chain reaper type monsters for getting Nightwalker's very rare drop.
 
 ### Jobs
 
@@ -775,6 +779,7 @@ Once you have Balthier and Fran in the party and learned about gambits, feel fre
 - Since the other party members can only use Potions, throw them judiciously at Vossler to keep him alive. Before the fight, look at your license board and unlock any Potion Lore licenses for your jobs if available to help increase their effectiveness. Make sure you have a full stock of Potions as well! Leave the tomb to restock if necessary. Party members can die freely and then you can swap in new one to keep the Potions flowing, just be careful doing so as described above. I had 89 in my inventory before the fight but I left to go save and get the remaining 10, just in case. Dyce, the merchant you meet in the Sandsea will be at the tomb's entrance to buy more supplies. By the end of the fight, I had used 55 Potions.
 - Keeping your other party members alive to throw potions is secondary, since you have three backup characters. However, it may be a good idea to have the highest HP party members out initially. If everyone is alive, that's more License Points for them all.
 - ***NOTE***: I apparently misunderstood and didn't realize that Vossler could still have gambits on until I got to the Tiamat fight for **Beast My Guest II**. Whoops!
+- **NOTE**: All Beast My Guest achievements require characters to do no actions other than throw potions. This includes counterattacking! If you wear an accessory like the Battle Harness and the character wearing counterattacks, that will invalidate the attempt at this achievement.
 
 **A Song of Ice and Fire** (Challenge): A boss challenge later in the game involves going into the fight with Mateus using one character and Belias. Think about who you want to assign Belias to ahead of time (or even wait until just before the fight) so that you can decide which character would work best with your job, skills, and equipment.
 
@@ -1671,4 +1676,13 @@ The World Tour is pretty much done! Now I'm diving into Ridorana, Pharos, and Gi
 
 **Grand Towering Helm** (Treasure): Tower is a golem that vary rarely drops a Grand Helm. As with Nightwalker, building up a chain to improve the odds prior to fighting Tower is a great idea. To do so, go to Mosphoran Highwaste and build max chain level on Clay Golems just outside of Babbling Vale. To bring that chain level to The Pharos, we can't use the Strahl's anchor point in Babbling Vale or the chain will reset. So, use the chocobo nearby to run through the rest of the Highwaste to Salikawood and then Phon Coast. Use the Strahl anchor there to get to Ridorana Cataract and then The Pharos!
 - Tower appears near the end of the Third Ascent. Ensure that your attack gambits are off and use the shortcuts through the First and Second Ascent to get to Third Ascent quickly. To get to Tower, take the black way stone, then green, red, and the color for your sacrifice (pink for mini-map, for example). Now head to the colorless way stone, turn on gambits, and hope for Tower!
-- If Tower is not at the other end of the colorless way stone, simply warp back and forth with the colorless way stones until it shows up. It has a 20% chance to show, so it may take a few tries. Didn't get the Grand Helm? To get Tower to respawn again, you will need to travel through all of the colored way stones again. I had success with it showing up via the hidden path way stones as well, but it was hit or miss on if it would show up.
+- If Tower is not at the other end of the colorless way stone, simply warp back and forth with the colorless way stones until it shows up. It has a 20% chance to show, so it may take a few tries. Didn't get the Grand Helm? To get Tower to respawn again, you will need to travel through all of the colored way stones again. I had success with it showing up via the hidden path way stones as well, though you'll have to deal with traps rather than longer distance and a ton of enemies. You make the call.
+
+**Tales From the Crypt** (Treasure):
+
+**Deadly Renewal Walk** (Poach): For poaching when at high levels, the best thing is to have gambits set up to use Sight Unseeing on a blind character targeting a foe nearby then Poach when an enemy is in HP Critical status. It can be the same character or different characters. While grinding for these rare poaches, you'll want any attack gambits off other than these and then manually attack with the non-blind characters on monsters that are not the targets for poaching.
+- The Ring of Renewal is a rare (5% chance) poach from the Deadly Nightshades in The Feywood - Walk of Flitting Rifts. There are a lot of them around by the northern zone exit to Golmore Jungle so it shouldn't take too long to get your accessory from them.
+
+**Branchway Cannon** (Poach): You can poach a Ras Algathi from the rare game Phyllo (5% chance to get it) in Golmore Jungle - The Branchway. Phyllo only has a 20% chance of spawning in two locations in the zone, so this may take a bit of time to get the weapon and achievement.
+
+**
