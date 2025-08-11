@@ -1,6 +1,6 @@
 # Final Fantasy XII - International Zodiac Job System
 
-Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp)
+Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp), with contributions by [Mimicmatter](https://retroachievements.org/user/mimicmatter) and [heytallman](https://retroachievements.org/user/heytallman)
 
 ## Version History
 
@@ -508,6 +508,17 @@ Okay, so this definitely means that save scumming is required to get them all in
   - Having the Bubble Belt or casting Bubble on the decoy'd character makes them even more tanky by doubling their HP!
 - While the chance for a character or enemy to do a combo is based on the RNG position, the number of attacks done in a combo is weighted by the remaining HP a character has. The lower the HP, the greater chance of doing higher combos. Being HP Critical can net you 8 or more hits in one attack!
 - Putting Reflect on your party members and using attack spells on the party will hit nearby enemies with that spell three times in one cast. Having two party members slinging spells at your party brings that up to six. Seems like a good strategy for bosses that have elemental weaknesses!
+- Getting Dark Energy (by heytallman):
+  - Having a Dark Energy available as early as you can will make your life easier if you come upon a challenge that a particular character's job doesn't necessarily line up will. It becomes viable to get fairly easily once you have defeated Judge Bergan at Mt. Bur-Omisace, especially if you have some teleport stones to spare.
+  - The bazaar good is able to be purchased repeatedly (appearing as Mysterious Substance) and requires selling the following items:
+    - 1x Bat Wing
+      - Dropped by Seekers in Tomb of Raithwall if you have the Hunter's Monograph with a 20% drop rate. If you didn't get the monograph before the story takes you to Tomb of Raithwall, you may need to travel back there to get the Bat Wing you need. This monograph is available for sale in the bazaar for 18,000 gil after completing the Thextera hunt and speaking Gatsly in Rabanastre - Muthru Bazaar afterword.
+    - 3x Grimoire Togail
+      - The common drop of Nightmares in Henne Mines - Phase 1 Dig.
+    - 3x Grimoire Aidhed
+      - The rare drop or uncommon steal from Mallicants in Zertinan Caverns. They are located south of the zone where you fight Adrammelech. The level of these enemies are why it is ideal to wait until after the Mt. Bur-Omisace events in the story. Use the Thief's Cuffs obtained in Zertinan Caverns to steal these.
+  - Sell this loot in the quantities above so that you aren't using too many items to make one Dark Energy.
+  - Feel free to use the Dark Energy to wrap up a tough challenge, then reset to your previous save and fight the boss normally to retain the Dark Energy for another challenge later.
 
 ### A Treaty Signed With Steel ➡️ Exit Stage Right
 
