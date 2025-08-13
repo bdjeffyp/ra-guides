@@ -1689,11 +1689,42 @@ The World Tour is pretty much done! Now I'm diving into Ridorana, Pharos, and Gi
 - Tower appears near the end of the Third Ascent. Ensure that your attack gambits are off and use the shortcuts through the First and Second Ascent to get to Third Ascent quickly. To get to Tower, take the black way stone, then green, red, and the color for your sacrifice (pink for mini-map, for example). Now head to the colorless way stone, turn on gambits, and hope for Tower!
 - If Tower is not at the other end of the colorless way stone, simply warp back and forth with the colorless way stones until it shows up. It has a 20% chance to show, so it may take a few tries. Didn't get the Grand Helm? To get Tower to respawn again, you will need to travel through all of the colored way stones again. I had success with it showing up via the hidden path way stones as well, though you'll have to deal with traps rather than longer distance and a ton of enemies. You make the call.
 
-**Tales From the Crypt** (Treasure):
-
 **Deadly Renewal Walk** (Poach): For poaching when at high levels, the best thing is to have gambits set up to use Sight Unseeing on a blind character targeting a foe nearby then Poach when an enemy is in HP Critical status. It can be the same character or different characters. While grinding for these rare poaches, you'll want any attack gambits off other than these and then manually attack with the non-blind characters on monsters that are not the targets for poaching.
 - The Ring of Renewal is a rare (5% chance) poach from the Deadly Nightshades in The Feywood - Walk of Flitting Rifts. There are a lot of them around by the northern zone exit to Golmore Jungle so it shouldn't take too long to get your accessory from them.
 
 **Branchway Cannon** (Poach): You can poach a Ras Algathi from the rare game Phyllo (5% chance to get it) in Golmore Jungle - The Branchway. Phyllo only has a 20% chance of spawning in two locations in the zone, so this may take a bit of time to get the weapon and achievement.
 
-**
+**Perfect Protection** (Treasure): One of the major treasure challenges of the game! To get a Ribbon at the Ozmone Plain, you need to spawn a Lv. 99 Red Chocobo and defeat it. This chocobo appears in the Haulo Green zone, having only a 1-in-256 chance of replacing one of the other chocobos that spawn here after having killed all six chocobos in the zone at least once. That is some _very_ low odds... There has got to be a better way to increase the efficiency of getting this super rare spawn to happen without having to move two zones away. Fortunately there is a way!
+- I recommend being at a high level at this point so that you don't have to worry about the killing portion of this, just the grind. Have a character that can cast Break. Ensure that you have nothing equipped that will perform a counterattack (especially Genji equipment... that messed me up a couple of times).
+- After leaving Jahara, kill all six chocobos in Haulo Green. Head out two zones away and return.
+- Head to the pack of three chocobos on the east side of the zone first. Turn off all gambits except for casting Break on a foe (nearest visible or any is fine). Approach the pack of three so that you can pick from all of them in a list when you choose Attack in the menu. You should see something like this in the Attack menu, as an example:
+  - Black Chocobo B
+  - Red Chocobo A
+  - Black Chocobo A
+- The chocobos in the first two slots should be killed with regular attacks (in our example: Black Chocobo B and Red Chocobo A). Cast Break on the chocobo in the third slot (in our example: Black Chocobo A).
+  - This is because the Lv. 99 Red Chocobo will only spawn in this third slot of the packs of three chocobos.
+- Once the chocobo in the third slot has turned to stone, head to the other three pack of chocobos on the west side of the zone. Repeat the same process.
+- Feel free to kill the Vipers that spawn in as you walk between the chocobo packs. I highly recommend manual targeting rather than any sort of gambit.
+- Since these two particular chocobos were turned to stone, they aren't considered "killed" and thus they will continuously respawn while you remain in the zone. Simply walk back and forth between the two chocobos as they respawn and continue to petrify them over and over.
+- Expect this to take a long time, even with fast forward in-game and with the emulator.
+  - It took me about an hour with both fast forwards going and petrifying hundreds of chocobos...
+- Once the Lv. 99 Red Chocobo appears, kill it and pick up it's drop for the Ribbon and the achievement.
+  - I won't go into the details of fighting it here. If your level is sufficiently high enough with high rank gear at this point, you should have no trouble with this fight. Post game grinding should get you there effortlessly.
+
+**Tales From the Crypt** (Treasure): This is arguably the toughest treasure drop achievement of the set. Crypt Bunny has a rare chance of dropping the Muramasa. It is also a rare game with a spawn requirement that can take considerable time and ruin chain levels: killing all Tartarus and at least six Cerberus in The Feywood - Walk of Stolen Truths. So the puzzle is to somehow build chain levels and maintain it while eliminating the required monsters in the zone. Thankfully, RA user [LeoHighwind](https://retroachievements.org/user/LeoHighwind) has an excellent strategy for the puzzle itself:
+- Chain rabbit type fiends somewhere else to raise the chain level. The closest reliable spot is two Mus that spawn near the entrance to Henne Mines in the Walk of Dancing Shadow zone. If you don't see the Mus there, enter the mines and return and you'll find one to the south and the other northeast. Loop around to get two zone changes through Walk of Stolen Truths and Antiquity's End (don't use the save crystal!) and keep killing Mu while not picking up their loot. You'll reach max chain level by 25 kills.
+- With max chain level, set up gambits as follows:
+  - Ensure attack gambits are off! No counterattack equipment!!
+  - One person has two gambits using 1000 Needles with a foe greater than or equal to 70% HP and greater than or equal to 30% HP.
+  - Another person has one gambit with 1000 Needles with a foe greater than or equal to 50% HP. If you don't have two characters with 1000 Needles, have only one character with the foe greater than or equal to 30% HP. This will certainly be slower, but it will still work.
+  - A character has a gambit with Poison (NOT Toxify!) targeting a foe with less than 30% HP.
+  - This will result in doing only 3000 HP of damage to the Cerberi and Tartaruses and then the Poison will do the rest, resulting in a kill that doesn't break the chain.
+- Proceed into Walk of Stolen Truths and eliminate all of the Tartaruses and at least six Cerberi until the Crypt Bunny spawns. Avoid the Golems and Holy Elemental. Kill the Crypt Bunny and pray.
+  - This is the part that makes this a real pain and drag. It takes a long time to even get the Crypt Bunny to appear, then you are praying for the 18% chance to drop the sword for the achievement. LeoHighwind reported that it took them THIRTY Crypt Bunnies... It took me four. Good luck with the hunt!
+
+**Mine's Holy Dragon** (Poach): The Holy Lance is the rare poach from Gizamaluk, which can be found in Henne Mines - Phase 2 Shaft. The problem here is that there are swarms of Abysteel around three of the four Gizamaluk that appear here. Sight Unseeing/Poach doesn't work on Abysteel so you'll need to eliminate them with your other characters. Abysteel are weak to holy and Gizamaluk is not. Use that to your advantage! Put gambits on the other two characters to attack only holy-week foes while your poacher has their Sight Unseeing/Poach gambits. That'll make passing through Phase 2 Shaft to grind for the lance much quicker. This grind will be made much easier if you have access to Zodiark's arena to quickly pass through two zones to reset Phase 2 Shaft.
+
+**Upland Doubling** (Poach): The easiest of the poaching achievements to do, given that there are TONS of coeurl all over Tchita Uplands. Set up your poaching gambits and walk around and you'll get this fairly quickly, despite this being a rare poach. Getting Embroidered Tippets is great too, since they'll help speed up your leveling for Trial Mode.
+- ***TODO***: Should probably move this up earlier in the roadmap... Having early access to the accessory is a real boon.
+
+
