@@ -1755,6 +1755,8 @@ Prepare for Trial Mode runs by setting up your characters in the main game. Put 
 
 You can save your game after every tenth trial. Note that these saves are only to resume your current Trial Mode session. DO NOT save over your game in progress!! The game warns you of this when you start Trial Mode, but not when you save. Saving is good for something however! Make a separate save for each leg of Trial Mode. This will allow you to pick up close to a spot where you may need to make multiple attempts to poach or steal for an achievement.
 
+When going for a poach or steal from the rare game, make sure that you don't kill the main monster or group of monsters before spawning it. If there is a unique monster for the stage, killing that monster will advance you to the next stage without killing the rest, including rare game. 
+
 Roadmap: Probably not needed since the achievements are given in order
 - Trial 3 - Poach: Ripe Rampager (run past initial enemies and head left around the corner)
 - Trial 8 - Poach: Imdugud (stand in middle of platform among Bagoly for 10-15 seconds, have equipment to reach the flying foe)
@@ -1781,8 +1783,52 @@ Roadmap: Probably not needed since the achievements are given in order
 - Trial 97 - Steal: Zodiark (tied for the fourth one, as this is the other chance)
 - Trial 100 - Steal: Judges (steal from all of them successful and win the fight)
 
-**Trial of the Zodiac**: Active from starting Trial Mode. You can continue from your save, as long as you started from the beginning of Trial 1 without stopping playing the game. An active challenge indicator will appear if you don't have Seitengrat equipped on any character.
+**Trial of the Zodiac**: Active from starting Trial Mode at the title screen. You can continue from your save, as long as you started from the beginning of Trial 1 without stopping playing the game. An active challenge indicator will appear if you don't have Seitengrat equipped on any character.
 
-**Ripe for the Picking**: Ripe Rampager appears in Trial 3, if you run past the initial enemies, heading left and around the corner. Set up your poaching gambits. Successfully poach the monster to get the achievement.
+Trial Mode progression achievements: Not much to say about these as they will be unlocked with the making your way through the 100 stages. There are no restrictions as with the other achievements though so if you are having a hard time with the Judges in Stage 100, feel free to use whatever means at your disposal to at least get **The Trial Ends!** achievement.
+
+**Ripe for the Picking**: Ripe Rampager appears in Stage 3, if you run past the initial enemies, heading left to the rear of the room and then right around the corner. Set up your poaching gambits. Successfully poach the monster to get the achievement.
+
+**Eight with Haste**: Imdugud appears in Stage 8. This is the same location where it appears in the normal game with the same spawn conditions (stand in the center of the platform). Do your poaching strategy when it arrives.
+
+**Dying Dark Matter**: Cultsworn Lich appears soon after the last rare game in Stage 9. Head to the right side of the room near a chest to get it to spawn among the other Lich. Poach away when it arrives!
+
+**Stuck in the Melt**: Melt appears in Stage 12. It has an oddly specific spawn requirement: kill 5 Jelly and then stand near the gate switch. Once it arrives, steal from it.
+
+**Gleaming the Cubus**: Cubus appears in Stage 28. Several sources say to stand in one of the four corners and it will appear. The room is cross shaped. I tried standing in one end for a while and it wasn't appearing so I went to all four ends of the cross and it showed up. Steal from Cubus when it spawns.
+
+**Passion of Christ**: This is the first of the Trial Mode challenges where RNG is a factor. Apsara appears in Stage 31. This is convenient since you can have a save spot retained for this stage! If you fail to get the Crown of Laurels when you poach Apsara, you can reload your save and try again. Since it is the rare poach item, it'll take a bit of time to get it. You can find Apsara spawn in behind the very large dusk stone in the room.
+
+**Poachin Pals**: Another RNG dependent poach, this time from Pallicant in Stage 43. Pallicant will appear when you run past the Deathclaws to the far end of the room, then run back to the start.
+
+**Friday the 64th**: Vorres appears in Stage 64. Run past the two Humbaba Mistant to the rear of the room and Vorres will appear. Steal from it to get the achievement.
+
+**Bunny Cat**: Spee appears in Stage 69. Several sources stated that it appears when going to the opposite side of the room from the start, but it spawned when I went to the center of the room. Leave the Wild Malboro alone until Spee appears and you poach it. Again, this is a rare poach item, so you may need to run through Stages 61-68 a bunch of times in order to get this...
+
+**Trials from the Crypt**: Crypt Bunny appears in Stage 70, so soon after the last one! Thankfully, all you have to do is steal successfully. Do note that the common steal item is a Phoenix Down. If you have 99 Phoenix Downs in your inventory, you will not get the achievement. So check your items before you attempt to steal once it spawns. You can find it near the chests on the opposite side of the arena. Make sure to not kill Carrot until you do the steal. Also, you are joined by an NPC named Krjn so you'll want to defeat her before spawning Crypt Bunny.
+
+**HunterLord**: The Overlord appears in Stage 72. Since this is another RNG challenge, make sure to retain your Stage 71 save for repeated attempts at this. You need to get the rare steal from Overlord, which is a Hunter's Blade. The rare poach is the Hunter's Blade F, a very different weapon and does not count toward the achievement.
+
+**Trials of the Crystal Skull**: The Crystal Knight appears in Stage 82. Don't kill all of the Reaver in the room or you'll end the stage. Go to the center of the room to spawn Crystal Knight, then successfully steal from it.
+
+**Sword in the Wyrm**: The Hell Wyrm returns in Stage 87. This time, you need to get the rare steal Excalibur from it. RNG manipulation? Is that possible? Some bosses seem to wait until you approach, while others will move after a brief pause upon entering the stage. If RNG manipulation is possible, then this won't be too bad.
+- There is discussion regarding if this is actually missable or not. I believe that it doesn't respawn in Trial Mode unless you start a new run. That doesn't make much sense though since old Trial Mode saves shouldn't be overwritten and you can't access prior stages. So I believe that this is inappropriately marked.
+- RNG manipulation is a no go! Hell Wyrm will advance shortly after entering the stage... Boo!
+- The important part here is that you must steal the Excalibur AND THEN defeat the Hell Wyrm. Make sure you watch the combat log closely when you steal! If you see Excalibur appear, don't reset! You'll have to then try stealing over and over again to get another steal...
+
+**88 Bottles of Spirits**: Evil Spirit can appear in Stage 88. Just like in the normal game, it has a chance of appearing in place of Forbidden. Disma is also here and killing it is what ends the stage, so you need to leave Disma alone until Evil Spirit appears. Once it does, steal from it.
+
+**Grand Demise**: Fafnir is the lone enemy in Stage 89. You may want to turn off gambits before ending the previous stage so you don't start attacking Fafnir right away, invalidating this achievement. This one is special because not only do you need to get the rare steal item, you must also kill Fafnir with one item. I found that using a Warp Mote will instantly kill Fafnir. This means that you MUST have one in your inventory either before starting Trial Mode or maybe you can find one in the treasure chests leading up to the Fafnir stage.
+- Once you steal the Grand Helm, the active challenge icon will appear. Now kill Fafnir with the Warp Mote!
+- Holy shit... Warp Motes can fucking MISS! So you actually want to have a stock of them built up! I had 9 on hand when I successfully stole. I had to use 5 of them to land the killing blow! When I was practicing to do the kill with one item, I had thought that the Warp Mote worked the first time every time I tried... That scared me!
+- The fight takes place in a very small arena so you have no opportunity to set up RNG manipulation, as far as I can tell.
+- Perhaps one of the treasure chests in Fafnir's arena has the item that kills it in one use?
+  - Nope! The only attack item was Meteorite Type C and that doesn't do it.
+
+**Lord of Lords**: You have two opportunities for this achievement. Ultima is on Stage 95 and Zodiark is on Stage 97. Both have the Lordly Robes as their rare steal. Ultima moves to attack the party shortly after entering the stage so there is no opportunity to set up RNG. I am unsure if Zodiark will begin attacking if you don't move from the start...
+- Once you have successfully stolen it from either Ultima or Zodiark, the active challenge icon will be displayed. You must now defeat BOTH bosses to win the achievement. If you get it during Ultima, you need to survive through Zodiark. Good luck!
+
+**Eye of Darkness**: A Glaring Eye can appear in Stage 96. The room is full of Abysteel which can spawn anywhere from 36-72 of them. Glaring Eye has a 1% chance of spawning after an Abysteel is killed. Supposedly, the Dark Matter can be obtained by stealing or poaching. Also, if you kill Abysteel too quickly, such as with area of effect attacks, you won't have as many Abysteel appear. So, as you kill them, make sure to walk around the room to get more to spawn and improve your chances at getting Glaring Eye to actually appear...
+- I only had one character with attack gambits while the other two healed. I controlled one of the healers who was also prepped for stealing in case the Glaring Eye showed up. I would then walk the party leader around the room to try to get more Abysteel to spawn in the hopes that a Glaring Eye would show.
 
 **FF12: Judgement Day**: Holy cow this is a beast! I was trying to steal from one judge at a time and then kill that one, moving on to the next one. It was about 10 minutes in that I realized that the other judges will throw elixirs on dying judges! I wasn't getting anywhere because the judge I was focusing on was getting fully healed back up. It was another 30 minutes or so of this when I thought of another strategy. I setup gambits to Wither all of the judges so that they don't deal as much damage while using Bubble with Curaja to keep health high and take the onslaught of damage. While the Wither is being used, one character with Thief's Cuffs went around to all of the judges, picking their pockets one at a time. If Wither was starting to get ineffective, I switched to Shear to reduce magic defense of the judges. Using Nihopalaoa with Remedy is also a great way to help keep control of the fight as all the judges have varied status weaknesses. Once every judge was stolen from, I went on the offensive, casting Dispelga to remove buffs and casting my biggest area of effect spells such as Scathe and Scourge (spells and motes). The first focus was Ghis, as he has the lowest HP and is the most annoying. If someone can't cast spells or use motes, I targeted Ghis with attacks. Once Ghis is dead, I focused on Drace to get rid of her buffing the other judges. Next was Bergan. While not as bad with the Wither applications, Bergan is effectively alone at this point and can be removed with just attacks. The last two, Gabranth and Zargabaath, both support each other trying to heal each other. Zargabaath can be put to sleep and then spells could be used to try to reduce the HP of both judges at once. Either way, Zargabaath has the least HP of the two and should be the primary target. Gabranth will be the toughest as his HP gets low. Watch for his huge combos. If he isn't hit with enough Wither stacks, definitely do that before getting his HP low. If you happen to have a couple of Dark Energy and/or a charged up Dark Matter, this fight is an excellent time to use them. If you have a couple, try using them right after using the break technicks and then try to finish off at least Ghis before he starts throwing Elixirs. Having applied a bunch of status ailments to the judges before this is also a great idea. Good luck with this one!!
