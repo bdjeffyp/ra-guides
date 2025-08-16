@@ -390,6 +390,12 @@ Never, ever, EVER learn Brawler. You don't want it for RNG manipulation purposes
 
 ### Bazaar
 
+***TODO***: Put together a spreadsheet checklist for the bazaar goods to purchase, to help with tracking **Master Deal Hunter**.
+
+Current checklist (in progress): https://docs.google.com/spreadsheets/d/1NrWlghs7OjUKDOHxHjOnEImlwz_XJ0SEDRB2BOMUmG4/edit?usp=sharing
+
+Something to keep in mind when selling loot for the purpose of unlocking bazaar goods is that there is an issue that can occur where the bazaar loses track of items sold. This happened to me with the Chronos Tear Pack. Thankfully that was just one item that is needed to unlock that good for sale, but it happened more than once when selling a bunch of items at one go. I highly recommend saving your game prior to selling a ton of loot. Sell a quantity of loot that will unlock a desired good and back out to the main shop menu to see if new bazaar goods unlocked. If it happened as you expected, great! If not, reload the save and try again. If it still isn't happening, then at this point its more likely that you have messed up your own tracking of loot selling.
+
 The bazaar functions on providing items for purchase based on the loot items sold. Selling loot is a primary means of earning gil but has a hidden effect of being accumulated by the bazaar until enough loot is collected to unlock an item for purchase.
 
 A byproduct of this process is that when an item is *purchased* in the bazaar, all of the loot sold is **consumed**. For example, let's look at two bazaar goods sold that require the Earth Stone loot:
