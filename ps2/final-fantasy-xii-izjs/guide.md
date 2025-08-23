@@ -4,6 +4,8 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp), with c
 
 ## Version History
 
+***TODO***: Update the date here when done!
+
 - v1.0 (*date to be determined*): Initial release
 
 ## About
@@ -12,21 +14,21 @@ Guide written by [bdjeffyp](https://retroachievements.org/User/bdjeffyp), with c
 
 :no_entry: **\*\* NOTE: CONTAINS MAJOR SPOILERS FOR SOLVING ACHIEVEMENT PUZZLES \*\*** :no_entry:
 
-***TODO***: Review and update these paragraphs and achievement counts
+***TODO***: Update the date here when done!
 
-This is not an official manual, walkthrough, or critical review. This document is a guide for the current achievement set (208 achievements as of March 11, 2024) available on [RetroAchievements](https://retroachievements.org/game/2721). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information. It may point to other resources for specific game walkthroughs that are not focused on the achievements themselves.
+This is not an official manual, walkthrough, or critical review. This document is a guide for the current achievement set (325 achievements as of August 23rd, 2025) available on [RetroAchievements](https://retroachievements.org/game/5803). This guide will give the player tips on earning the achievements, hash compatibility, and any other necessary or useful information. It may point to other resources for specific game walkthroughs that are not focused on the achievements themselves.
 
 As with some of the other guides I've made, spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
 ## Introduction
 
-***TODO***: Update these paragraphs to discuss FF12
+Final Fantasy XII: International Zodiac Job System (IZJS) is a role-playing video game developed and published by Square Enix for the PlayStation 2. This version of Final Fantasy XII was released only in Japan on August 9th, 2007 and other Asian territories that same year. A fan-made English translation patch for this game, and what is used for the RetroAchievements set, was initially released on October 11th, 2009, injecting the official script from the original game's American localization into the game and translating the few new things added in. The world finally got a further updated version of Final Fantasy XII with The Zodiac Age, bringing along the changes from IZJS with some further additions and enhancements.
 
-Dragon Quest VIII: Journey of the Cursed King is a role-playing video game developed by Level-5 and published by Square Enix for the PlayStation 2. Released in Japan in November 2004 and then throughout the world between 2005 and 2006, it is the eighth installment in the Dragon Quest series. It is also the first game in the series to have a release in European regions as well as the first to finally have the "Dragon Quest" name, rather than "Dragon Warrior", in the United States. Additionally, it is the first game in the series to use fully 3D environment and characters, rather than 2D pixel art. It leverages cel-shading techniques to make Akira Toriyama's character and monster designs really shine in the 3D style.
+IZJS overhauls the original game's license board system, turning every character into a unique role by giving them a "job" similar to previous Final Fantasy job system roles. Each job has a unique license board that limits the available abilities, weapons, armor, and more that a character has access to. This makes each character unique compared to the blank slates they were in the original game. However, this change means that planning ahead for the roles your characters fill is necessary as once you pick a job, it can never be changed.
 
-Dragon Quest VIII continues the traditional story and gameplay styles of the previous games, using small vignettes across an overarching plot, iconic monster designs, a nameless and silent hero character with hidden abilities, and randomly encountered turn-based combat with experience points. A new alchemy system is introduced to create a new item out of two or three existing stock after a certain number of steps are walked. A skill point system enables character customization, forcing the player to make permanent choices with each level around weapons and attributes that can unlock new abilities and spells.
+This game is highly flexible in how you can accomplish the main and optional objectives throughout. Some of the challenges in this RetroAchievements set may seem "impossible" given particular job assignment choices you make. However, there are actually very few restrictions with your job choices (I'll point out what you should specifically keep in mind later) as pretty much everything can be accomplished by any one character if you are willing to put in work on fallback methods or experimenting with abilities you may not have used in a casual playthrough of the game.
 
-As with other role-playing games, Dragon Quest VIII will push you into situations that can lock you out of areas, characters, and abilities as you progress. As a result, many achievements for this game can become missable if you are not diligent. However, all achievements can be earned in one playthrough. This guide will attempt to help you in identifying the missable achievements if you'd rather not play this fantastic, but lengthy, game multiple times.
+As with other RPGs, missables abound as you progress through the story. While not as egregious as some other games, there are situations that occur that can prevent accomplishing achievements after certain points. This guide is designed to help you avoid these missable situations, especially the boss level caps, so that you can master the set in one playthrough.
 
 ## Sources and Shoutouts
 
@@ -40,39 +42,47 @@ Agnam's RNG manipulation for Seitengrat video: https://www.youtube.com/watch?v=R
 
 ## Trivia
 
-***TODO***: Update these bullets about FF12 and specifically the IZJS version
+- As mentioned briefly above, IZJS didn't come out worldwide until The Zodiac Age version. However, The Zodiac Age has even more changes over IZJS, with two jobs per character, can change jobs, high definition remaster of graphics, autosave, and so on. This makes IZJS arguably the "more difficult" version of Final Fantasy XII.
 
-- Dragon Quest was called "Dragon Warrior" in the United States due to a trademark conflict with a tabletop role-playing game called [DragonQuest](https://en.wikipedia.org/wiki/DragonQuest). The US trademark expired in the early 2000s and Square Enix was able to use the series name in USA for the first time once they took over the trademark.
+- Final Fantasy XII is set in the world of Ivalice, previously featured in the Final Fantasy Tactics spinoff games created by Yasumi Matsuno.
 
-- The series, created by Yuji Horii, was inspired by western computer role-playing games Wizardry and Ultima, while incorporating a streamlined user interface more appropriate for a console video game experience. The first Dragon Quest's user interface is based off a Famicom port of Horii's game The Portopia Serial Murder Case, which used a command menu to get user input. Horii was frustrated with text-based entry of PC text adventure games and opted to have a command menu to simplify things.
-
-- Many monsters were designed by famed mangaka Akira Toriyama, creator of Dragon Ball and many other manga and anime series. Perhaps arguably the most iconic and widely known monster is the Slime. Horii provided Toriyama [a sketch of a slime](https://bsky.app/profile/betterlegends.bsky.social/post/3kn6x6eufh622) based on Horii's playthroughs of Wizardry and Toriyama drew the teardrop shape with a smile that we are all familiar with.
-
-- This achievement set, created by [TheMysticalOne](https://retroachievements.org/user/TheMysticalOne), makes good use of alliteration and puns similar to the style of Dragon Quest games. Early localizations of Dragon Quest to North America lacked the punny humor of the series, but Dragon Quest VIII's localization really set the standard for future games and remakes of the older games going forward. Spells started to use onomatopoeia names (like Kaboom instead of Explodet and Woosh instead of Infernos) similar to the Japanese style for spells while monster and town names started to lean in a punny direction.
-
-- Dragon Quest VIII was ported to mobile phones and the 3DS. The 3DS version, in particular, adds two new playable characters and a bunch of quality of life improvements such as being able to speed up battle animations and instant alchemy pot brewing as soon as the feature is unlocked.
-
-- The western release of Dragon Quest VIII added the affect of giving Hero a "Super Saiyan" appearance when hitting max tension. The [Dragon Quest wiki](https://dragon-quest.org/wiki/Tension) states that this was added specifically to the western releases as a shout out to fans of Toriyama's work, but I could not find any other sources that confirm if that is indeed the reason.
+***TODO***: More... MORE!!!
 
 ## Save Support
 
-***TODO***: This section is mostly good, but need to specify more details about saving specifically for FF12
-
-The game uses PS2 memory cards to save games with 30 save slots per card. Since this is being played with the PCSX2 emulator for RetroAchievements support, it is **HIGHLY** recommended that you make use of all slots in order to minimize the possibility of being locked out of a missable achievement. You can even make more than one memory card file to make saves across multiple memory cards. In my playthrough experience, I only needed one memory card, but I used 27 slots so I got close to needing more than one memory card.
+The game uses PS2 memory cards to save games with up to 50 save slots per card. Since this is being played with an emulator for RetroAchievements support, it is **HIGHLY** recommended that you make use of all slots in order to minimize the possibility of being locked out of a missable achievement. You can even make more than one memory card file to make saves across multiple memory cards. In my playthrough experience, I only needed one memory card, but I used 42 slots for the main game and most of the remaining slots for Trial Mode so I got close to needing more than one memory card.
 
 ## Compatibility
 
-***TODO***: Update links, etc.
+***TODO***: Update the date here when done!
 
-Currently (as of March 11, 2024) this game has 2 unique hashes registered for it. View the linked hashes at the [Supported Game Files](https://retroachievements.org/linkedhashes.php?g=2721) page. This includes a [60fps patch](https://github.com/RetroAchievements/RAPatches/blob/main/PS2/Improvement/2721-DQ8-60FPS.zip), if that is the sort of thing you enjoy.
+Currently (as of August 23rd, 2025) this game has only 1 unique hash registered for it. View linked hashes at the [Supported Game Files](https://retroachievements.org/game/5803/hashes) page.
 
-Please view the [Dragon Quest VIII Official Forum Topic](https://retroachievements.org/viewtopic.php?t=16644) for more details.
+Please view the Final Fantasy XII: IZJS [Official Forum Topic](https://retroachievements.org/forums/topic/16920) for more details.
+
+Want to see other language patches get supported with a RetroAchievements set? Learn more about how to do [Compatibility Testing](https://docs.retroachievements.org/guidelines/content/player-compatibility-testing.html)!
 
 ## Leaderboards
 
-***TODO***: Update the links to leaderboards for FF12
+There are currently 10 leaderboards associated with Final Fantasy XII: IZJS. Unfortunately, a few of them are not very useful since they are tracking a statistic that is capped and thus there are a lot of people tied for 1st place for those boards.
 
-There are no leaderboards currently associated with the game.
+### Competitive boards
+
+- [True Time Mage](https://retroachievements.org/leaderboardinfo.php?i=46081) - Finish Normal Mode with the fastest time (a regular New Game speedrun type leaderboard).
+- [Step It Up](https://retroachievements.org/leaderboardinfo.php?i=46082) - Complete the game with the lowest number of steps.
+- [Master Thief](https://retroachievements.org/leaderboardinfo.php?i=46286) - Complete the game (Normal or Weak Mode allowed) with the highest amount of successful steals. This presumably has a cap of 32,767 like other similar boards, but no one has hit that cap yet.
+- [King of the Clan](https://retroachievements.org/leaderboardinfo.php?i=46288) - Complete the game (Normal or Weak Mode allowed) with the highest Clan points.
+- [Balling on a Budget](https://retroachievements.org/leaderboardinfo.php?i=46289) - Complete the game (Normal or Weak Mode allowed) with the least amount of gil spent.
+- [Trial of the Time Gods](https://retroachievements.org/leaderboardinfo.php?i=46290) - Finish Trial Mode with the fastest time.
+
+### Non-competitive boards
+
+These four could be more interesting if they were tracking the lowest amounts, rather than the highest. The caps for all of these statistics is 32,767.
+
+- [Attacking Ivalice](https://retroachievements.org/leaderboardinfo.php?i=46283) - Complete the game with the highest amount of uses of the Attack command.
+- [Teck Support](https://retroachievements.org/leaderboardinfo.php?i=46284) - Complete the game with the highest amount of uses of Technicks.
+- [Hogwarts in Ivalice](https://retroachievements.org/leaderboardinfo.php?i=46285) - Complete the game with the highest amount of uses of Magicks.
+- [Dancing in Blood](https://retroachievements.org/leaderboardinfo.php?i=46287) - Complete the game with the highest amount of enemies killed.
 
 ## Achievement Categories
 
@@ -1790,6 +1800,7 @@ Roadmap: Probably not needed since the achievements are given in order
 - Trial 100 - Steal: Judges (steal from all of them successful and win the fight)
 
 **Trial of the Zodiac**: Active from starting Trial Mode at the title screen. You can continue from your save, as long as you started from the beginning of Trial 1 without stopping playing the game. An active challenge indicator will appear if you don't have Seitengrat equipped on any character.
+- There are two separate reports on this achievement having issues unlocking when completing all of Trial Mode without dying. Specifically, it seems that potentially saving during the run could cause the active achievement to end prematurely. Unfortunately, the exact cause is unknown... If you happen to notice that this active achievement indicator disappears during your attempt at a 100 stage run, let me know! I'd love to get more data to be able to help the developer isolate the issue and make this achievement work better. If anyone is able to replicate this issue, definitely put in a ticket for the dev to be able to fix it.
 
 Trial Mode progression achievements: Not much to say about these as they will be unlocked with the making your way through the 100 stages. There are no restrictions as with the other achievements though so if you are having a hard time with the Judges in Stage 100, feel free to use whatever means at your disposal to at least get **The Trial Ends!** achievement.
 
