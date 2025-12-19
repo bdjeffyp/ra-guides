@@ -20,6 +20,10 @@ This is not an official manual, walkthrough, or critical review. This document i
 
 As with some of the other guides I've made, spoiler solutions for the boss strategies and a potential order to earning the achievements will be hidden in a collapsible entry that you must click to expand so that only the solutions you need assistance with will be viewable. Some of the more minor achievements will have strategies written outright without a collapsible dropdown so use the guide at your own risk.
 
+## About the original version of Final Fantasy XII
+
+In between my playthrough of IZJS and the write up of this guide, a set for the initial release of Final Fantasy XII went live. This guide does not specifically cover that set, only the IZJS version. There is probably some overlap but I make no guarantees of the content here applying to anything in the original version's set.
+
 ## Introduction
 
 Final Fantasy XII: International Zodiac Job System (IZJS) is a role-playing video game developed and published by Square Enix for the PlayStation 2. This version of Final Fantasy XII was released only in Japan on August 9th, 2007 and other Asian territories that same year. A fan-made English translation patch for this game, and what is used for the RetroAchievements set, was initially released on October 11th, 2009, injecting the official script from the original game's American localization into the game and translating the few new things added in. The world finally got a further updated version of Final Fantasy XII with The Zodiac Age, bringing along the changes from IZJS with some further additions and enhancements.
@@ -29,6 +33,10 @@ IZJS overhauls the original game's license board system, turning every character
 This game is highly flexible in how you can accomplish the main and optional objectives throughout. Some of the challenges in this RetroAchievements set may seem "impossible" given particular job assignment choices you make. However, there are actually very few restrictions with your job choices (I'll point out what you should specifically keep in mind later) as pretty much everything can be accomplished by any one character if you are willing to put in work on fallback methods or experimenting with abilities you may not have used in a casual playthrough of the game.
 
 As with other RPGs, missables abound as you progress through the story. While not as egregious as some other games, there are situations that occur that can prevent accomplishing achievements after certain points. This guide is designed to help you avoid these missable situations, especially the boss level caps, so that you can master the set in one playthrough.
+
+## About New Game +
+
+***TODO***: Make mention that this guide does not cover using New Game + to clean up missed achievements. The guide should help people get through the game in a single playthrough without needing to resort to NG+. If people can give me details of instances where they successfully used NG+ to do some cleanup of achievements, I'll make note of it in the respective achievement.
 
 ## Sources and Shoutouts
 
